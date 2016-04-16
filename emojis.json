@@ -1,141 +1,141 @@
 {
   "grinning": {
-    "keywords": ["face", "smile", "happy", "joy", ":D"],
+    "keywords": [ "smile", "happy", "joy", ":D"],
     "char": "😀",
     "category": "people"
   },
   "grimacing": {
-    "keywords": ["face", "grimace", "teeth"],
+    "keywords": [ "grimace", "teeth"],
     "char": "😬",
     "category": "people"
   },
   "grin": {
-    "keywords": ["face", "happy", "smile", "joy"],
+    "keywords": [ "happy", "smile", "joy"],
     "char": "😁",
     "category": "people"
   },
   "joy": {
-    "keywords": ["face", "cry", "tears", "weep", "happy", "haha"],
+    "keywords": [ "cry", "tears", "weep", "happy", "haha", "lol"],
     "char": "😂",
     "category": "people"
   },
   "smiley": {
-    "keywords": ["face", "happy", "joy", "haha", ":D"],
+    "keywords": [ "happy", "joy", "haha", ":D", "yay"],
     "char": "😃",
     "category": "people"
   },
   "smile": {
-    "keywords": ["face", "happy", "joy", "funny", "haha", "laugh", "like", ":D"],
+    "keywords": [ "happy", "joy", "funny", "haha", "laugh", "like", ":D"],
     "char": "😄",
     "category": "people"
   },
   "sweat_smile": {
-    "keywords": ["face", "hot", "happy", "laugh"],
+    "keywords": [ "hot", "happy", "laugh"],
     "char": "😅",
     "category": "people"
   },
   "laughing": {
-    "keywords": ["happy", "joy", "lol", "satisfied", "haha", "face", "glad", "XD"],
+    "keywords": ["happy", "joy", "lol", "satisfied", "haha",  "glad", "XD"],
     "char": "😆",
     "category": "people"
   },
   "innocent": {
-    "keywords": ["face", "angel", "heaven", "halo"],
+    "keywords": [ "angel", "heaven", "halo"],
     "char": "😇",
     "category": "people"
   },
   "wink": {
-    "keywords": ["face", "happy", "mischievous", "secret"],
+    "keywords": [ "happy", "mischievous", "secret"],
     "char": "😉",
     "category": "people"
   },
   "blush": {
-    "keywords": ["face", "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy"],
+    "keywords": [ "smile", "happy", "flushed", "crush", "embarrassed", "shy", "joy"],
     "char": "😊",
     "category": "people"
   },
   "slightly_smiling": {
-    "keywords": ["face", "smile"],
+    "keywords": [ "smile"],
     "char": "🙂",
     "category": "people"
   },
   "upside_down": {
-    "keywords": ["face", "flipped", "silly", "smile"],
+    "keywords": [ "flipped", "silly", "smile"],
     "char": "🙃",
     "category": "people"
   },
   "relaxed": {
-    "keywords": ["face", "blush", "massage", "happiness"],
+    "keywords": [ "blush", "massage", "happiness"],
     "char": "☺️",
     "category": "people"
   },
   "yum": {
-    "keywords": ["happy", "joy", "tongue", "smile", "face", "silly", "yummy"],
+    "keywords": [ "tongue",  "silly", "yummy", "delicious"],
     "char": "😋",
     "category": "people"
   },
   "relieved": {
-    "keywords": ["face", "relaxed", "phew", "massage", "happiness"],
+    "keywords": [ "relaxed", "phew", "massage", "happiness"],
     "char": "😌",
     "category": "people"
   },
   "heart_eyes": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation", "crush"],
+    "keywords": [ "love", "like", "affection", "valentines", "infatuation", "crush"],
     "char": "😍",
     "category": "people"
   },
   "kissing_heart": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation"],
+    "keywords": [ "love", "like", "affection", "valentines", "infatuation", "kiss"],
     "char": "😘",
     "category": "people"
   },
   "kissing": {
-    "keywords": ["love", "like", "face", "3", "valentines", "infatuation"],
+    "keywords": ["love", "like", "kiss",  "valentines", "infatuation"],
     "char": "😗",
     "category": "people"
   },
   "kissing_smiling_eyes": {
-    "keywords": ["face", "affection", "valentines", "infatuation"],
+    "keywords": [ "affection", "valentines", "infatuation"],
     "char": "😙",
     "category": "people"
   },
   "kissing_closed_eyes": {
-    "keywords": ["face", "love", "like", "affection", "valentines", "infatuation"],
+    "keywords": [ "love", "like", "affection", "valentines", "infatuation"],
     "char": "😚",
     "category": "people"
   },
   "stuck_out_tongue_winking_eye": {
-    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile"],
+    "keywords": [ "prank", "childish", "playful", "mischievous", "haha", "joke", "fake"],
     "char": "😜",
     "category": "people"
   },
   "stuck_out_tongue_closed_eyes": {
-    "keywords": ["face", "prank", "playful", "mischievous", "smile"],
+    "keywords": [ "prank", "playful", "mischievous", "smile"],
     "char": "😝",
     "category": "people"
   },
   "stuck_out_tongue": {
-    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile"],
+    "keywords": [ "prank", "childish", "playful", "mischievous", "smile"],
     "char": "😛",
     "category": "people"
   },
   "money_mouth": {
-    "keywords": ["face", "rich", "dollar"],
+    "keywords": [ "rich", "dollar", "wealthy", "moolah"],
     "char": "🤑",
     "category": "people"
   },
   "nerd": {
-    "keywords": ["face", "nerdy", "geek", "dork"],
+    "keywords": [ "nerdy", "geek", "dork", "glasses", "scientist", "professor", "researcher"],
     "char": "🤓",
     "category": "people"
   },
   "sunglasses": {
-    "keywords": ["face", "cool", "smile", "summer", "beach"],
+    "keywords": ["face", "cool", "summer", "beach", "convertible"],
     "char": "😎",
     "category": "people"
   },
   "hugging": {
-    "keywords": ["face", "smile"],
+    "keywords": [ "embrace", "hug", "jazz_hands"],
     "char": "🤗",
     "category": "people"
   },
@@ -145,12 +145,12 @@
     "category": "people"
   },
   "no_mouth": {
-    "keywords": ["face", "hellokitty"],
+    "keywords": ["silence", "silent", "blank_face"],
     "char": "😶",
     "category": "people"
   },
   "neutral_face": {
-    "keywords": ["indifference", "meh", ":|"],
+    "keywords": ["indifference", "meh", ":|", "indifferent"],
     "char": "😐",
     "category": "people"
   },
@@ -160,37 +160,37 @@
     "category": "people"
   },
   "unamused": {
-    "keywords": ["indifference", "bored", "straight face", "serious"],
+    "keywords": ["indifference", "bored", "straight face", "serious", "not_amused"],
     "char": "😒",
     "category": "people"
   },
   "rolling_eyes": {
-    "keywords": ["face", "eyeroll", "frustrated"],
+    "keywords": [ "eyeroll", "frustrated", "annoyed", "annoys"],
     "char": "🙄",
     "category": "people"
   },
   "thinking": {
-    "keywords": ["face", "hmmm"],
+    "keywords": [ "hmmm", "wonder", "think", "thoughts"],
     "char": "🤔",
     "category": "people"
   },
   "flushed": {
-    "keywords": ["face", "blush", "shy", "flattered"],
+    "keywords": ["face", "blush", "shy", "flattered", "embarrassed"],
     "char": "😳",
     "category": "people"
   },
   "disappointed": {
-    "keywords": ["face", "sad", "upset", "depressed", ":("],
+    "keywords": [ "sad", "upset", "depressed", ":("],
     "char": "😞",
     "category": "people"
   },
   "worried": {
-    "keywords": ["face", "concern", "nervous", ":("],
+    "keywords": [ "concern", "nervous", ":(", "concerned", "oh_no"],
     "char": "😟",
     "category": "people"
   },
   "angry": {
-    "keywords": ["mad", "face", "annoyed", "frustrated"],
+    "keywords": ["mad",  "annoyed", "frustrated", "upset"],
     "char": "😠",
     "category": "people"
   },
@@ -200,32 +200,32 @@
     "category": "people"
   },
   "pensive": {
-    "keywords": ["face", "sad", "depressed", "okay", "upset"],
+    "keywords": [ "sad", "depressed", "okay", "upset", "think"],
     "char": "😔",
     "category": "people"
   },
   "confused": {
-    "keywords": ["face", "indifference", "huh", "weird", "hmmm"],
+    "keywords": [ "indifference", "huh", "hmmm"],
     "char": "😕",
     "category": "people"
   },
   "slightly_sad": {
-    "keywords": ["face", "frowning", "disappointed"],
+    "keywords": [ "frowning", "frowns", "disappointed"],
     "char": "🙁",
     "category": "people"
   },
   "white_frowning": {
-    "keywords": ["face", "sad"],
+    "keywords": [ "sad"],
     "char": "☹",
     "category": "people"
   },
   "persevere": {
-    "keywords": ["face", "sick", "no", "upset", "oops"],
+    "keywords": [ "sick", "no", "upset", "oops"],
     "char": "😣",
     "category": "people"
   },
   "confounded": {
-    "keywords": ["face", "confused", "sick", "unwell", "oops"],
+    "keywords": [ "confused", "sick", "unwell", "oops"],
     "char": "😖",
     "category": "people"
   },
@@ -235,72 +235,72 @@
     "category": "people"
   },
   "weary": {
-    "keywords": ["face", "tired", "sleepy", "sad", "frustrated", "upset"],
+    "keywords": [ "tired", "sleepy", "sad", "frustrated", "upset"],
     "char": "😩",
     "category": "people"
   },
   "triumph": {
-    "keywords": ["face", "gas", "phew", "proud", "pride"],
+    "keywords": [ "gas", "phew", "proud", "pride"],
     "char": "😤",
     "category": "people"
   },
   "open_mouth": {
-    "keywords": ["face", "surprise", "impressed", "wow"],
+    "keywords": [ "surprise", "impressed", "wow"],
     "char": "😮",
     "category": "people"
   },
   "scream": {
-    "keywords": ["face", "munch", "scared", "omg"],
+    "keywords": [ "munch", "scared", "omg", "ahh", "terrified"],
     "char": "😱",
     "category": "people"
   },
   "fearful": {
-    "keywords": ["face", "scared", "terrified", "nervous", "oops", "huh"],
+    "keywords": [ "scared", "terrified", "nervous", "oops", "huh"],
     "char": "😨",
     "category": "people"
   },
   "cold_sweat": {
-    "keywords": ["face", "nervous"],
+    "keywords": [ "nervous"],
     "char": "😰",
     "category": "people"
   },
   "hushed": {
-    "keywords": ["face", "woo", "shh"],
+    "keywords": [ "woo", "shh"],
     "char": "😯",
     "category": "people"
   },
   "frowning": {
-    "keywords": ["face", "aw", "what"],
+    "keywords": [ "aw", "what"],
     "char": "😦",
     "category": "people"
   },
   "anguished": {
-    "keywords": ["face", "stunned", "nervous"],
+    "keywords": [ "stunned", "nervous"],
     "char": "😧",
     "category": "people"
   },
   "cry": {
-    "keywords": ["face", "tears", "sad", "depressed", "upset", ":'("],
+    "keywords": [ "tears", "sad", "depressed", "upset", ":'("],
     "char": "😢",
     "category": "people"
   },
   "disappointed_relieved": {
-    "keywords": ["face", "phew", "sweat", "nervous"],
+    "keywords": [ "phew", "sweat", "nervous"],
     "char": "😥",
     "category": "people"
   },
   "sleepy": {
-    "keywords": ["face", "tired", "rest", "nap"],
+    "keywords": [ "tired", "rest", "nap"],
     "char": "😪",
     "category": "people"
   },
   "sweat": {
-    "keywords": ["face", "hot", "sad", "tired", "exercise"],
+    "keywords": [ "hot", "sad", "tired", "exercise"],
     "char": "😓",
     "category": "people"
   },
   "sob": {
-    "keywords": ["face", "cry", "tears", "sad", "upset", "depressed"],
+    "keywords": [ "cry", "tears", "sad", "upset", "depressed"],
     "char": "😭",
     "category": "people"
   },
@@ -310,12 +310,12 @@
     "category": "people"
   },
   "astonished": {
-    "keywords": ["face", "xox", "surprised", "poisoned"],
+    "keywords": [ "xox", "surprised", "poisoned"],
     "char": "😲",
     "category": "people"
   },
   "zipper_mouth": {
-    "keywords": ["face", "sealed"],
+    "keywords": [ "sealed"],
     "char": "🤐",
     "category": "people"
   },
@@ -325,7 +325,7 @@
     "category": "people"
   },
   "thermometer_face": {
-    "keywords": ["sick", "temperature"],
+    "keywords": ["sick", "temperature", "fever"],
     "char": "🤒",
     "category": "people"
   },
@@ -335,17 +335,17 @@
     "category": "people"
   },
   "sleeping": {
-    "keywords": ["face", "tired", "sleepy", "night", "zzz"],
+    "keywords": [ "tired", "sleepy", "night", "zzz"],
     "char": "😴",
     "category": "people"
   },
   "zzz": {
-    "keywords": ["sleepy", "tired"],
+    "keywords": ["sleepy", "tired", "snooze"],
     "char": "💤",
     "category": "people"
   },
-  "hankey": {
-    "keywords": ["poop", "shitface", "fail", "turd"],
+  "poop": {
+    "keywords": ["shit", "feces", "shitface", "fail", "turd"],
     "char": "💩",
     "category": "people"
   },
@@ -359,28 +359,28 @@
     "char": "👿",
     "category": "people"
   },
-  "japanese_ogre": {
-    "keywords": ["monster", "red", "mask", "halloween", "scary", "creepy", "devil", "demon"],
+  "devil": {
+    "keywords": [ "red", "mask", "halloween", "scary", "creepy", "devil", "demon"],
     "char": "👹",
     "category": "people"
   },
-  "japanese_goblin": {
+  "monster": {
     "keywords": ["red", "evil", "mask", "monster", "scary", "creepy"],
     "char": "👺",
     "category": "people"
   },
   "skull": {
-    "keywords": ["dead", "skeleton", "creepy"],
+    "keywords": ["dead", "skeleton", "creepy", "death", "die"],
     "char": "💀",
     "category": "people"
   },
   "ghost": {
-    "keywords": ["halloween", "spooky", "scary"],
+    "keywords": ["halloween", "spooky", "scary", "haunt"],
     "char": "👻",
     "category": "people"
   },
   "alien": {
-    "keywords": ["UFO", "paul", "weird", "outer_space"],
+    "keywords": ["UFO", "paul", "martian", "outer_space"],
     "char": "👽",
     "category": "people"
   },
@@ -390,47 +390,47 @@
     "category": "people"
   },
   "smiley_cat": {
-    "keywords": ["animal", "cats", "happy"],
+    "keywords": [ "cats", "happy"],
     "char": "😺",
     "category": "people"
   },
   "smile_cat": {
-    "keywords": ["animal", "cats"],
+    "keywords": [ "cats"],
     "char": "😸",
     "category": "people"
   },
   "joy_cat": {
-    "keywords": ["animal", "cats", "haha", "happy", "tears"],
+    "keywords": [ "cats", "haha", "happy", "tears"],
     "char": "😹",
     "category": "people"
   },
   "heart_eyes_cat": {
-    "keywords": ["animal", "love", "like", "affection", "cats", "valentines"],
+    "keywords": [ "love", "like", "affection", "cats", "valentines"],
     "char": "😻",
     "category": "people"
   },
   "smirk_cat": {
-    "keywords": ["animal", "cats"],
+    "keywords": [ "cats"],
     "char": "😼",
     "category": "people"
   },
   "kissing_cat": {
-    "keywords": ["animal", "cats"],
+    "keywords": [ "cats"],
     "char": "😽",
     "category": "people"
   },
   "scream_cat": {
-    "keywords": ["animal", "cats", "munch", "scared"],
+    "keywords": [ "cats", "munch", "scared"],
     "char": "🙀",
     "category": "people"
   },
   "crying_cat_face": {
-    "keywords": ["animal", "tears", "weep", "sad", "cats", "upset"],
+    "keywords": [ "tears", "weep", "sad", "cats", "upset"],
     "char": "😿",
     "category": "people"
   },
   "pouting_cat": {
-    "keywords": ["animal", "cats"],
+    "keywords": [ "cats"],
     "char": "😾",
     "category": "people"
   },
@@ -565,7 +565,7 @@
     "category": "people"
   },
   "ear": {
-    "keywords": ["face", "hear", "sound", "listen"],
+    "keywords": [ "hear", "sound", "listen"],
     "char": "👂",
     "category": "people"
   },
@@ -575,7 +575,7 @@
     "category": "people"
   },
   "eye": {
-    "keywords": ["face", "look", "see", "watch", "stare"],
+    "keywords": [ "look", "see", "watch", "stare"],
     "char": "👁",
     "category": "people"
   },
@@ -915,7 +915,7 @@
     "category": "people"
   },
   "kiss": {
-    "keywords": ["face", "lips", "love", "like", "affection", "valentines"],
+    "keywords": [ "lips", "love", "like", "affection", "valentines"],
     "char": "💋",
     "category": "people"
   },
@@ -1005,7 +1005,7 @@
     "category": "people"
   },
   "dark_sunglasses": {
-    "keywords": ["face", "cool", "accessories"],
+    "keywords": [ "cool", "accessories"],
     "char": "🕶",
     "category": "people"
   },
@@ -1020,372 +1020,372 @@
     "category": "people"
   },
   "dog": {
-    "keywords": ["animal", "friend", "nature", "woof", "puppy", "pet", "faithful"],
+    "keywords": [ "friend",  "woof", "puppy", "pet", "faithful"],
     "char": "🐶",
     "category": "animals_and_nature"
   },
   "cat": {
-    "keywords": ["animal", "meow", "nature", "pet"],
+    "keywords": [ "meow",  "pet"],
     "char": "🐱",
     "category": "animals_and_nature"
   },
   "mouse": {
-    "keywords": ["animal", "nature", "cheese", "rodent"],
+    "keywords": [  "cheese", "rodent"],
     "char": "🐭",
     "category": "animals_and_nature"
   },
   "hamster": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐹",
     "category": "animals_and_nature"
   },
   "rabbit": {
-    "keywords": ["animal", "nature", "pet", "spring", "magic"],
+    "keywords": [  "pet", "spring", "magic"],
     "char": "🐰",
     "category": "animals_and_nature"
   },
   "bear": {
-    "keywords": ["animal", "nature", "wild"],
+    "keywords": [  "wild"],
     "char": "🐻",
     "category": "animals_and_nature"
   },
   "panda_face": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐼",
     "category": "animals_and_nature"
   },
   "koala": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐨",
     "category": "animals_and_nature"
   },
   "tiger": {
-    "keywords": ["animal", "cat", "danger", "wild", "nature", "roar"],
+    "keywords": [ "cat", "danger", "wild",  "roar"],
     "char": "🐯",
     "category": "animals_and_nature"
   },
   "lion_face": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🦁",
     "category": "animals_and_nature"
   },
   "cow": {
-    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
+    "keywords": ["beef", "ox",   "moo", "milk"],
     "char": "🐮",
     "category": "animals_and_nature"
   },
   "pig": {
-    "keywords": ["animal", "oink", "nature"],
+    "keywords": [ "oink", ],
     "char": "🐷",
     "category": "animals_and_nature"
   },
   "pig_nose": {
-    "keywords": ["animal", "oink"],
+    "keywords": [ "oink"],
     "char": "🐽",
     "category": "animals_and_nature"
   },
   "frog": {
-    "keywords": ["animal", "nature", "croak", "toad"],
+    "keywords": [  "croak", "toad"],
     "char": "🐸",
     "category": "animals_and_nature"
   },
   "octopus": {
-    "keywords": ["animal", "creature", "ocean", "sea", "nature", "beach"],
+    "keywords": [ "creature", "ocean", "sea",  "beach"],
     "char": "🐙",
     "category": "animals_and_nature"
   },
   "monkey_face": {
-    "keywords": ["animal", "nature", "circus"],
+    "keywords": [  "circus"],
     "char": "🐵",
     "category": "animals_and_nature"
   },
   "see_no_evil": {
-    "keywords": ["monkey", "animal", "nature", "haha"],
+    "keywords": ["monkey",   "haha"],
     "char": "🙈",
     "category": "animals_and_nature"
   },
   "hear_no_evil": {
-    "keywords": ["animal", "monkey", "nature"],
+    "keywords": [ "monkey", ],
     "char": "🙉",
     "category": "animals_and_nature"
   },
   "speak_no_evil": {
-    "keywords": ["monkey", "animal", "nature", "omg"],
+    "keywords": ["monkey",   "omg"],
     "char": "🙊",
     "category": "animals_and_nature"
   },
   "monkey": {
-    "keywords": ["animal", "nature", "banana", "circus"],
+    "keywords": [  "banana", "circus"],
     "char": "🐒",
     "category": "animals_and_nature"
   },
   "chicken": {
-    "keywords": ["animal", "cluck", "nature", "bird"],
+    "keywords": [ "cluck",  "bird"],
     "char": "🐔",
     "category": "animals_and_nature"
   },
   "penguin": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐧",
     "category": "animals_and_nature"
   },
   "bird": {
-    "keywords": ["animal", "nature", "fly", "tweet", "spring"],
+    "keywords": [  "fly", "tweet", "spring"],
     "char": "🐦",
     "category": "animals_and_nature"
   },
   "baby_chick": {
-    "keywords": ["animal", "chicken", "bird"],
+    "keywords": [ "chicken", "bird"],
     "char": "🐤",
     "category": "animals_and_nature"
   },
   "hatching_chick": {
-    "keywords": ["animal", "chicken", "egg", "born", "baby", "bird"],
+    "keywords": [ "chicken", "egg", "born", "baby", "bird"],
     "char": "🐣",
     "category": "animals_and_nature"
   },
   "hatched_chick": {
-    "keywords": ["animal", "chicken", "baby", "bird"],
+    "keywords": [ "chicken", "baby", "bird"],
     "char": "🐥",
     "category": "animals_and_nature"
   },
   "wolf": {
-    "keywords": ["animal", "nature", "wild"],
+    "keywords": [  "wild"],
     "char": "🐺",
     "category": "animals_and_nature"
   },
   "boar": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐗",
     "category": "animals_and_nature"
   },
   "horse": {
-    "keywords": ["animal", "brown", "nature"],
+    "keywords": [ "brown", ],
     "char": "🐴",
     "category": "animals_and_nature"
   },
   "unicorn_face": {
-    "keywords": ["animal", "nature", "mystical"],
+    "keywords": [  "mystical"],
     "char": "🦄",
     "category": "animals_and_nature"
   },
   "bee": {
-    "keywords": ["animal", "insect", "nature", "bug", "spring", "honey"],
+    "keywords": [ "insect",  "bug", "spring", "honey"],
     "char": "🐝",
     "category": "animals_and_nature"
   },
   "bug": {
-    "keywords": ["animal", "insect", "nature", "worm"],
+    "keywords": [ "insect",  "worm"],
     "char": "🐛",
     "category": "animals_and_nature"
   },
   "snail": {
-    "keywords": ["slow", "animal", "shell"],
+    "keywords": ["slow",  "shell"],
     "char": "🐌",
     "category": "animals_and_nature"
   },
   "beetle": {
-    "keywords": ["animal", "insect", "nature", "ladybug"],
+    "keywords": [ "insect",  "ladybug"],
     "char": "🐞",
     "category": "animals_and_nature"
   },
   "ant": {
-    "keywords": ["animal", "insect", "nature", "bug"],
+    "keywords": [ "insect",  "bug"],
     "char": "🐜",
     "category": "animals_and_nature"
   },
   "spider": {
-    "keywords": ["animal", "arachnid"],
+    "keywords": [ "arachnid"],
     "char": "🕷",
     "category": "animals_and_nature"
   },
   "scorpion": {
-    "keywords": ["animal", "arachnid"],
+    "keywords": [ "arachnid"],
     "char": "🦂",
     "category": "animals_and_nature"
   },
   "crab": {
-    "keywords": ["animal", "crustacean"],
+    "keywords": [ "crustacean"],
     "char": "🦀",
     "category": "animals_and_nature"
   },
   "snake": {
-    "keywords": ["animal", "evil", "nature", "hiss", "python"],
+    "keywords": [ "evil",  "hiss", "python"],
     "char": "🐍",
     "category": "animals_and_nature"
   },
   "turtle": {
-    "keywords": ["animal", "slow", "nature", "tortoise"],
+    "keywords": [ "slow",  "tortoise"],
     "char": "🐢",
     "category": "animals_and_nature"
   },
   "tropical_fish": {
-    "keywords": ["animal", "swim", "ocean", "beach", "nemo"],
+    "keywords": [ "swim", "ocean", "beach", "nemo"],
     "char": "🐠",
     "category": "animals_and_nature"
   },
   "fish": {
-    "keywords": ["animal", "food", "nature"],
+    "keywords": [ "food", ],
     "char": "🐟",
     "category": "animals_and_nature"
   },
   "blowfish": {
-    "keywords": ["animal", "nature", "food", "sea", "ocean"],
+    "keywords": [  "food", "sea", "ocean"],
     "char": "🐡",
     "category": "animals_and_nature"
   },
   "dolphin": {
-    "keywords": ["animal", "nature", "fish", "sea", "ocean", "flipper", "fins", "beach"],
+    "keywords": [  "fish", "sea", "ocean", "flipper", "fins", "beach"],
     "char": "🐬",
     "category": "animals_and_nature"
   },
   "whale": {
-    "keywords": ["animal", "nature", "sea", "ocean"],
+    "keywords": [  "sea", "ocean"],
     "char": "🐳",
     "category": "animals_and_nature"
   },
   "whale2": {
-    "keywords": ["animal", "nature", "sea", "ocean"],
+    "keywords": [  "sea", "ocean", "whale"],
     "char": "🐋",
     "category": "animals_and_nature"
   },
   "crocodile": {
-    "keywords": ["animal", "nature", "reptile"],
+    "keywords": [  "reptile"],
     "char": "🐊",
     "category": "animals_and_nature"
   },
   "leopard": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐆",
     "category": "animals_and_nature"
   },
   "tiger2": {
-    "keywords": ["animal", "nature", "roar"],
+    "keywords": [  "roar"],
     "char": "🐅",
     "category": "animals_and_nature"
   },
   "water_buffalo": {
-    "keywords": ["animal", "nature", "ox", "cow"],
+    "keywords": [  "ox", "cow"],
     "char": "🐃",
     "category": "animals_and_nature"
   },
   "ox": {
-    "keywords": ["animal", "cow", "beef"],
+    "keywords": [ "cow", "beef"],
     "char": "🐂",
     "category": "animals_and_nature"
   },
   "cow2": {
-    "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
+    "keywords": ["beef", "ox",   "moo", "milk"],
     "char": "🐄",
     "category": "animals_and_nature"
   },
   "dromedary_camel": {
-    "keywords": ["animal", "hot", "desert", "hump"],
+    "keywords": [ "hot", "desert", "hump"],
     "char": "🐪",
     "category": "animals_and_nature"
   },
   "camel": {
-    "keywords": ["animal", "nature", "hot", "desert", "hump"],
+    "keywords": [  "hot", "desert", "hump"],
     "char": "🐫",
     "category": "animals_and_nature"
   },
   "elephant": {
-    "keywords": ["animal", "nature", "nose", "thailand", "circus"],
+    "keywords": [  "nose", "thailand", "circus"],
     "char": "🐘",
     "category": "animals_and_nature"
   },
   "goat": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐐",
     "category": "animals_and_nature"
   },
   "ram": {
-    "keywords": ["animal", "sheep", "nature"],
+    "keywords": [ "sheep", ],
     "char": "🐏",
     "category": "animals_and_nature"
   },
   "sheep": {
-    "keywords": ["animal", "nature", "wool", "shipit"],
+    "keywords": [  "wool", "shipit"],
     "char": "🐑",
     "category": "animals_and_nature"
   },
   "racehorse": {
-    "keywords": ["animal", "gamble", "luck"],
+    "keywords": [ "gamble", "luck"],
     "char": "🐎",
     "category": "animals_and_nature"
   },
   "pig2": {
-    "keywords": ["animal", "nature"],
+    "keywords": [ ],
     "char": "🐖",
     "category": "animals_and_nature"
   },
   "rat": {
-    "keywords": ["animal", "mouse", "rodent"],
+    "keywords": [ "mouse", "rodent"],
     "char": "🐀",
     "category": "animals_and_nature"
   },
   "mouse2": {
-    "keywords": ["animal", "nature", "rodent"],
+    "keywords": [  "rodent"],
     "char": "🐁",
     "category": "animals_and_nature"
   },
   "rooster": {
-    "keywords": ["animal", "nature", "chicken"],
+    "keywords": [  "chicken"],
     "char": "🐓",
     "category": "animals_and_nature"
   },
   "turkey": {
-    "keywords": ["animal", "bird"],
+    "keywords": [ "bird"],
     "char": "🦃",
     "category": "animals_and_nature"
   },
   "dove_of_peace": {
-    "keywords": ["animal", "bird"],
+    "keywords": [ "bird"],
     "char": "🕊",
     "category": "animals_and_nature"
   },
   "dog2": {
-    "keywords": ["animal", "nature", "friend", "doge", "pet", "faithful"],
+    "keywords": [  "friend", "doge", "pet", "faithful"],
     "char": "🐕",
     "category": "animals_and_nature"
   },
   "poodle": {
-    "keywords": ["dog", "animal", "101", "nature", "pet"],
+    "keywords": ["dog",  "101",  "pet"],
     "char": "🐩",
     "category": "animals_and_nature"
   },
   "cat2": {
-    "keywords": ["animal", "meow", "pet", "cats"],
+    "keywords": [ "meow", "pet", "cats"],
     "char": "🐈",
     "category": "animals_and_nature"
   },
   "rabbit2": {
-    "keywords": ["animal", "nature", "pet", "magic", "spring"],
+    "keywords": [  "pet", "magic", "spring"],
     "char": "🐇",
     "category": "animals_and_nature"
   },
   "chipmunk": {
-    "keywords": ["animal", "nature", "rodent"],
+    "keywords": [  "rodent"],
     "char": "🐿",
     "category": "animals_and_nature"
   },
   "feet": {
-    "keywords": ["animal", "tracking", "footprints", "dog", "cat", "pet", "paw_prints"],
+    "keywords": [ "tracking", "footprints", "dog", "cat", "pet", "paw_prints"],
     "char": "🐾",
     "category": "animals_and_nature"
   },
   "dragon": {
-    "keywords": ["animal", "myth", "nature", "chinese", "green"],
+    "keywords": [ "myth",  "chinese", "green"],
     "char": "🐉",
     "category": "animals_and_nature"
   },
   "dragon_face": {
-    "keywords": ["animal", "myth", "nature", "chinese", "green"],
+    "keywords": [ "myth",  "chinese", "green"],
     "char": "🐲",
     "category": "animals_and_nature"
   },
   "cactus": {
-    "keywords": ["vegetable", "plant", "nature"],
+    "keywords": ["vegetable", "plant", ],
     "char": "🌵",
     "category": "animals_and_nature"
   },
@@ -1405,12 +1405,12 @@
     "category": "animals_and_nature"
   },
   "palm_tree": {
-    "keywords": ["plant", "vegetable", "nature", "summer", "beach", "mojito"],
+    "keywords": ["plant", "vegetable",  "summer", "beach", "mojito"],
     "char": "🌴",
     "category": "animals_and_nature"
   },
   "seedling": {
-    "keywords": ["plant", "nature", "grass", "lawn", "spring"],
+    "keywords": ["plant",  "grass", "lawn", "spring"],
     "char": "🌱",
     "category": "animals_and_nature"
   },
@@ -1420,22 +1420,22 @@
     "category": "animals_and_nature"
   },
   "shamrock": {
-    "keywords": ["vegetable", "plant", "nature", "irish"],
+    "keywords": ["vegetable", "plant",  "irish"],
     "char": "☘",
     "category": "animals_and_nature"
   },
   "four_leaf_clover": {
-    "keywords": ["vegetable", "plant", "nature", "lucky", "irish"],
+    "keywords": ["vegetable", "plant",  "lucky", "irish"],
     "char": "🍀",
     "category": "animals_and_nature"
   },
   "bamboo": {
-    "keywords": ["plant", "nature", "vegetable", "panda", "pine_decoration"],
+    "keywords": ["plant",  "vegetable", "panda", "pine_decoration"],
     "char": "🎍",
     "category": "animals_and_nature"
   },
   "tanabata_tree": {
-    "keywords": ["plant", "nature", "branch", "summer"],
+    "keywords": ["plant",  "branch", "summer"],
     "char": "🎋",
     "category": "animals_and_nature"
   },
@@ -1450,12 +1450,12 @@
     "category": "animals_and_nature"
   },
   "maple_leaf": {
-    "keywords": ["nature", "plant", "vegetable", "canada", "fall"],
+    "keywords": [ "plant", "vegetable", "canada", "fall"],
     "char": "🍁",
     "category": "animals_and_nature"
   },
   "ear_of_rice": {
-    "keywords": ["nature", "plant"],
+    "keywords": [ "plant"],
     "char": "🌾",
     "category": "animals_and_nature"
   },
@@ -1465,7 +1465,7 @@
     "category": "animals_and_nature"
   },
   "sunflower": {
-    "keywords": ["nature", "plant", "fall"],
+    "keywords": [ "plant", "fall"],
     "char": "🌻",
     "category": "animals_and_nature"
   },
@@ -1475,7 +1475,7 @@
     "category": "animals_and_nature"
   },
   "tulip": {
-    "keywords": ["flowers", "plant", "nature", "summer", "spring"],
+    "keywords": ["flowers", "plant",  "summer", "spring"],
     "char": "🌷",
     "category": "animals_and_nature"
   },
@@ -1485,12 +1485,12 @@
     "category": "animals_and_nature"
   },
   "cherry_blossom": {
-    "keywords": ["nature", "plant", "spring", "flower"],
+    "keywords": [ "plant", "spring", "flower"],
     "char": "🌸",
     "category": "animals_and_nature"
   },
   "bouquet": {
-    "keywords": ["flowers", "nature", "spring"],
+    "keywords": ["flowers",  "spring"],
     "char": "💐",
     "category": "animals_and_nature"
   },
@@ -1510,12 +1510,12 @@
     "category": "animals_and_nature"
   },
   "shell": {
-    "keywords": ["nature", "sea", "beach"],
+    "keywords": [ "sea", "beach"],
     "char": "🐚",
     "category": "animals_and_nature"
   },
   "spider_web": {
-    "keywords": ["animal", "insect", "arachnid", "silk"],
+    "keywords": [ "insect", "arachnid", "silk"],
     "char": "🕸",
     "category": "animals_and_nature"
   },
@@ -1535,67 +1535,67 @@
     "category": "animals_and_nature"
   },
   "full_moon": {
-    "keywords": ["nature", "yellow", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "yellow", "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌕",
     "category": "animals_and_nature"
   },
   "waning_gibbous_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep", "waxing_gibbous_moon"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep", "waxing_gibbous_moon"],
     "char": "🌖",
     "category": "animals_and_nature"
   },
   "last_quarter_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌗",
     "category": "animals_and_nature"
   },
   "waning_crescent_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌘",
     "category": "animals_and_nature"
   },
   "new_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌑",
     "category": "animals_and_nature"
   },
   "waxing_crescent_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌒",
     "category": "animals_and_nature"
   },
   "first_quarter_moon": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌓",
     "category": "animals_and_nature"
   },
   "moon": {
-    "keywords": ["nature", "night", "sky", "gray", "twilight", "planet", "space", "evening", "sleep"],
+    "keywords": [ "night", "sky", "gray", "twilight", "planet", "space", "evening", "sleep"],
     "char": "🌔",
     "category": "animals_and_nature"
   },
   "new_moon_with_face": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌚",
     "category": "animals_and_nature"
   },
   "full_moon_with_face": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌝",
     "category": "animals_and_nature"
   },
   "first_quarter_moon_with_face": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌛",
     "category": "animals_and_nature"
   },
   "last_quarter_moon_with_face": {
-    "keywords": ["nature", "twilight", "planet", "space", "night", "evening", "sleep"],
+    "keywords": [ "twilight", "planet", "space", "night", "evening", "sleep"],
     "char": "🌜",
     "category": "animals_and_nature"
   },
   "sun_with_face": {
-    "keywords": ["nature", "morning", "sky"],
+    "keywords": [ "morning", "sky"],
     "char": "🌞",
     "category": "animals_and_nature"
   },
@@ -1630,7 +1630,7 @@
     "category": "animals_and_nature"
   },
   "sunny": {
-    "keywords": ["weather", "nature", "brightness", "summer", "beach", "spring"],
+    "keywords": ["weather",  "brightness", "summer", "beach", "spring"],
     "char": "☀️",
     "category": "animals_and_nature"
   },
@@ -1640,7 +1640,7 @@
     "category": "animals_and_nature"
   },
   "partly_sunny": {
-    "keywords": ["weather", "nature", "cloudy", "morning", "fall", "spring"],
+    "keywords": ["weather",  "cloudy", "morning", "fall", "spring"],
     "char": "⛅",
     "category": "animals_and_nature"
   },
@@ -1750,12 +1750,12 @@
     "category": "animals_and_nature"
   },
   "ocean": {
-    "keywords": ["sea", "water", "wave", "nature", "tsunami", "disaster"],
+    "keywords": ["sea", "water", "wave",  "tsunami", "disaster"],
     "char": "🌊",
     "category": "animals_and_nature"
   },
   "green_apple": {
-    "keywords": ["fruit", "nature"],
+    "keywords": ["fruit", ],
     "char": "🍏",
     "category": "food_and_drink"
   },
@@ -1765,17 +1765,17 @@
     "category": "food_and_drink"
   },
   "pear": {
-    "keywords": ["fruit", "nature", "food"],
+    "keywords": ["fruit",  "food"],
     "char": "🍐",
     "category": "food_and_drink"
   },
   "tangerine": {
-    "keywords": ["food", "fruit", "nature"],
+    "keywords": ["food", "fruit", ],
     "char": "🍊",
     "category": "food_and_drink"
   },
   "lemon": {
-    "keywords": ["fruit", "nature"],
+    "keywords": ["fruit", ],
     "char": "🍋",
     "category": "food_and_drink"
   },
@@ -1795,12 +1795,12 @@
     "category": "food_and_drink"
   },
   "strawberry": {
-    "keywords": ["fruit", "food", "nature"],
+    "keywords": ["fruit", "food", ],
     "char": "🍓",
     "category": "food_and_drink"
   },
   "melon": {
-    "keywords": ["fruit", "nature", "food"],
+    "keywords": ["fruit",  "food"],
     "char": "🍈",
     "category": "food_and_drink"
   },
@@ -1810,22 +1810,22 @@
     "category": "food_and_drink"
   },
   "peach": {
-    "keywords": ["fruit", "nature", "food"],
+    "keywords": ["fruit",  "food"],
     "char": "🍑",
     "category": "food_and_drink"
   },
   "pineapple": {
-    "keywords": ["fruit", "nature", "food"],
+    "keywords": ["fruit",  "food"],
     "char": "🍍",
     "category": "food_and_drink"
   },
   "tomato": {
-    "keywords": ["fruit", "vegetable", "nature", "food"],
+    "keywords": ["fruit", "vegetable",  "food"],
     "char": "🍅",
     "category": "food_and_drink"
   },
   "eggplant": {
-    "keywords": ["vegetable", "nature", "food", "aubergine"],
+    "keywords": ["vegetable",  "food", "aubergine"],
     "char": "🍆",
     "category": "food_and_drink"
   },
@@ -1840,7 +1840,7 @@
     "category": "food_and_drink"
   },
   "sweet_potato": {
-    "keywords": ["food", "nature"],
+    "keywords": ["food", ],
     "char": "🍠",
     "category": "food_and_drink"
   },
@@ -1870,7 +1870,7 @@
     "category": "food_and_drink"
   },
   "fried_shrimp": {
-    "keywords": ["food", "animal", "appetizer", "summer"],
+    "keywords": ["food",  "appetizer", "summer"],
     "char": "🍤",
     "category": "food_and_drink"
   },
@@ -2235,7 +2235,7 @@
     "category": "activity"
   },
   "horse_racing": {
-    "keywords": ["animal", "betting", "competition", "gambling", "luck"],
+    "keywords": [ "betting", "competition", "gambling", "luck"],
     "char": "🏇",
     "category": "activity"
   },
@@ -2710,12 +2710,12 @@
     "category": "travel_and_places"
   },
   "mount_fuji": {
-    "keywords": ["photo", "mountain", "nature", "japanese"],
+    "keywords": ["photo", "mountain",  "japanese"],
     "char": "🗻",
     "category": "travel_and_places"
   },
   "volcano": {
-    "keywords": ["photo", "nature", "disaster"],
+    "keywords": ["photo",  "disaster"],
     "char": "🌋",
     "category": "travel_and_places"
   },
@@ -2820,7 +2820,7 @@
     "category": "travel_and_places"
   },
   "rainbow": {
-    "keywords": ["nature", "happy", "unicorn", "photo", "sky", "spring"],
+    "keywords": [ "happy", "unicorn", "photo", "sky", "spring"],
     "char": "🌈",
     "category": "travel_and_places"
   },
@@ -2855,7 +2855,7 @@
     "category": "travel_and_places"
   },
   "house_with_garden": {
-    "keywords": ["home", "plant", "nature"],
+    "keywords": ["home", "plant", ],
     "char": "🏡",
     "category": "travel_and_places"
   },
@@ -3485,7 +3485,7 @@
     "category": "objects"
   },
   "wind_chime": {
-    "keywords": ["nature", "ding", "spring", "bell"],
+    "keywords": [ "ding", "spring", "bell"],
     "char": "🎐",
     "category": "objects"
   },
@@ -6420,22 +6420,22 @@
     "category": "flags"
   },
   "octocat": {
-    "keywords": ["animal", "octopus", "github", "custom_"],
+    "keywords": [ "octopus", "github", "custom_"],
     "char": null,
     "category": "_custom"
   },
   "shipit": {
-    "keywords": ["squirrel", "detective", "animal", "sherlock", "inspector", "custom_"],
+    "keywords": ["squirrel", "detective",  "sherlock", "inspector", "custom_"],
     "char": null,
     "category": "_custom"
   },
   "bowtie": {
-    "keywords": ["face", "formal", "fashion", "suit", "classy", "magic", "circus"],
+    "keywords": [ "formal", "fashion", "suit", "classy", "magic", "circus"],
     "char": null,
     "category": "_custom"
   },
   "neckbeard": {
-    "keywords": ["nerdy", "face", "custom_"],
+    "keywords": ["nerdy",  "custom_"],
     "char": null,
     "category": "_custom"
   },
