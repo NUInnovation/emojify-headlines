@@ -435,7 +435,7 @@
     "category": "people"
   },
   "raised_hands": {
-    "keywords": ["gesture", "hooray", "yea", "celebration"],
+    "keywords": ["gesture", "hooray", "yea", "celebration", "hallelujah"],
     "char": "🙌",
     "category": "people"
   },
@@ -445,7 +445,7 @@
     "category": "people"
   },
   "wave": {
-    "keywords": ["hands", "gesture", "goodbye", "solong", "farewell", "hello", "palm"],
+    "keywords": ["hands", "gesture", "goodbye", "solong", "farewell", "hello", "palm", "hi"],
     "char": "👋",
     "category": "people"
   },
@@ -460,7 +460,7 @@
     "category": "people"
   },
   "facepunch": {
-    "keywords": ["angry", "violence", "fist", "hit", "attack", "hand"],
+    "keywords": ["angry", "violence", "fist", "hit", "attack", "hand", "pound", "pound_it"],
     "char": "👊",
     "category": "people"
   },
@@ -475,7 +475,7 @@
     "category": "people"
   },
   "ok_hand": {
-    "keywords": ["fingers", "limbs", "perfect"],
+    "keywords": ["fingers", "limbs", "perfect", "okay", "sounds_good"],
     "char": "👌",
     "category": "people"
   },
@@ -490,7 +490,7 @@
     "category": "people"
   },
   "muscle": {
-    "keywords": ["arm", "flex", "hand", "summer", "strong", "biceps"],
+    "keywords": ["arm", "flex", "hand", "triceps", "strong", "biceps", "muscles", "fit", "fitness"],
     "char": "💪",
     "category": "people"
   },
@@ -505,7 +505,7 @@
     "category": "people"
   },
   "point_up_2": {
-    "keywords": ["fingers", "hand", "direction"],
+    "keywords": ["fingers", "hand", "direction", "number_one", "#1"],
     "char": "👆",
     "category": "people"
   },
@@ -525,32 +525,32 @@
     "category": "people"
   },
   "middle_finger": {
-    "keywords": ["hand", "fingers", "rude"],
+    "keywords": ["hand", "fingers", "rude", "flip_off"],
     "char": "🖕",
     "category": "people"
   },
   "splayed_fingers": {
-    "keywords": ["raised_hand"],
+    "keywords": ["raised_hand", "five", "high-five"],
     "char": "🖐",
     "category": "people"
   },
   "sign_of_horns": {
-    "keywords": ["hand", "fingers", "evil_eye", "metal", "rock_on"],
+    "keywords": [ "evil_eye", "heavy_metal", "rock_on"],
     "char": "🤘",
     "category": "people"
   },
   "vulcan_salute": {
-    "keywords": ["hand", "fingers", "spock", "star trek"],
+    "keywords": [ "spock", "star trek"],
     "char": "🖖",
     "category": "people"
   },
   "writing_hand": {
-    "keywords": ["pen", "stationery"],
+    "keywords": ["pen", "stationery", "write"],
     "char": "✍",
     "category": "people"
   },
   "nail_care": {
-    "keywords": ["beauty", "manicure", "finger", "fashion"],
+    "keywords": ["beauty", "manicure", "finger", "fashion", "nail_polish"],
     "char": "💅",
     "category": "people"
   },
@@ -570,17 +570,17 @@
     "category": "people"
   },
   "nose": {
-    "keywords": ["smell", "sniff"],
+    "keywords": ["smell", "sniff", "sneeze"],
     "char": "👃",
     "category": "people"
   },
   "eye": {
-    "keywords": [ "look", "see", "watch", "stare"],
+    "keywords": [ "look", "see", "watch", "stare", "view"],
     "char": "👁",
     "category": "people"
   },
   "eyes": {
-    "keywords": ["look", "watch", "stalk", "peek", "see"],
+    "keywords": ["look", "watch", "stalk", "peek", "see", "show"],
     "char": "👀",
     "category": "people"
   },
@@ -590,12 +590,12 @@
     "category": "people"
   },
   "busts_in_silhouette": {
-    "keywords": ["user", "person", "human", "group", "team"],
+    "keywords": ["users", "people", "humans", "group", "team"],
     "char": "👥",
     "category": "people"
   },
   "speaking_head": {
-    "keywords": ["user", "person", "human"],
+    "keywords": [ "talk", "speak"],
     "char": "🗣",
     "category": "people"
   },
@@ -605,12 +605,12 @@
     "category": "people"
   },
   "boy": {
-    "keywords": ["man", "male", "guy", "teenager"],
+    "keywords": ["man", "male", "guy", "teenager", "friend"],
     "char": "👦",
     "category": "people"
   },
   "girl": {
-    "keywords": ["female", "woman", "teenager"],
+    "keywords": ["female", "woman", "gal", "teenager", "friend"],
     "char": "👧",
     "category": "people"
   },
@@ -620,7 +620,7 @@
     "category": "people"
   },
   "woman": {
-    "keywords": ["female", "girls", "lady"],
+    "keywords": ["female", "girls", "lady", "mom", "mother"],
     "char": "👩",
     "category": "people"
   },
@@ -630,12 +630,12 @@
     "category": "people"
   },
   "older_man": {
-    "keywords": ["human", "male", "men"],
+    "keywords": ["human", "male", "men", "old", "bernie"],
     "char": "👴",
     "category": "people"
   },
   "older_woman": {
-    "keywords": ["female", "women", "girl", "lady"],
+    "keywords": ["female", "women", "girl", "lady", "old"],
     "char": "👵",
     "category": "people"
   },
@@ -660,17 +660,17 @@
     "category": "people"
   },
   "guardsman": {
-    "keywords": ["uk", "gb", "british", "male", "guy", "royal"],
+    "keywords": ["uk", "gb", "british", "male", "guy", "royal", "patrol"],
     "char": "💂",
     "category": "people"
   },
   "sleuth": {
-    "keywords": ["human", "spy", "detective"],
+    "keywords": ["human", "spy", "detective", "investigator"],
     "char": "🕵",
     "category": "people"
   },
   "santa": {
-    "keywords": ["festival", "man", "male", "xmas", "father christmas"],
+    "keywords": ["festival", "man", "male", "xmas", "father christmas", "christmas"],
     "char": "🎅",
     "category": "people"
   },
@@ -695,12 +695,12 @@
     "category": "people"
   },
   "walking": {
-    "keywords": ["human", "feet", "steps"],
+    "keywords": [ "feet", "steps"],
     "char": "🚶",
     "category": "people"
   },
   "dancer": {
-    "keywords": ["female", "girl", "woman", "fun"],
+    "keywords": ["female", "girl", "woman", "fun", "tango", "ballroom", "waltz"],
     "char": "💃",
     "category": "people"
   },
@@ -710,7 +710,7 @@
     "category": "people"
   },
   "couple": {
-    "keywords": ["pair", "people", "human", "love", "date", "dating", "like", "affection", "valentines", "marriage"],
+    "keywords": ["pair", "people", "human", "love", "date", "dating", "like", "affection", "valentines", "marriage", ],
     "char": "👫",
     "category": "people"
   },
