@@ -3840,32 +3840,32 @@
     "category": "objects"
   },
   "heart": {
-    "keywords": ["love", "like", "valentines"],
+    "keywords": ["love", "like", "valentines", "cute", "friendship", "warmth", "happiness", "passion","emotion"],
     "char": "❤️",
     "category": "symbols"
   },
   "yellow_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["avarice","love", "like", "affection", "valentines"],
     "char": "💛",
     "category": "symbols"
   },
   "green_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["willpower", "love", "like", "affection", "valentines"],
     "char": "💚",
     "category": "symbols"
   },
   "blue_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "chill", "affection", "valentines"],
     "char": "💙",
     "category": "symbols"
   },
   "purple_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "royalty", "royal", "wisdom"],
     "char": "💜",
     "category": "symbols"
   },
   "broken_heart": {
-    "keywords": ["sad", "sorry", "break"],
+    "keywords": ["sad", "sorry", "break", "breakup", "unrequited love"],
     "char": "💔",
     "category": "symbols"
   },
@@ -3875,57 +3875,57 @@
     "category": "symbols"
   },
   "two_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines","soulmate"],
     "char": "💕",
     "category": "symbols"
   },
   "revolving_hearts": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines","family_members"],
     "char": "💞",
     "category": "symbols"
   },
   "heartbeat": {
-    "keywords": ["love", "like", "affection", "valentines", "pink"],
+    "keywords": ["love", "like", "affection", "valentines", "pink", "in_love"],
     "char": "💓",
     "category": "symbols"
   },
   "heartpulse": {
-    "keywords": ["like", "love", "affection", "valentines", "pink"],
+    "keywords": ["like", "love", "affection", "valentines", "pink", "in_love", "super_love"],
     "char": "💗",
     "category": "symbols"
   },
   "sparkling_heart": {
-    "keywords": ["love", "like", "affection", "valentines"],
+    "keywords": ["love", "like", "affection", "valentines", "tacky"],
     "char": "💖",
     "category": "symbols"
   },
   "cupid": {
-    "keywords": ["love", "like", "heart", "affection", "valentines"],
+    "keywords": ["love", "like", "heart", "affection", "valentines", "cupid", "heart_pain", "lovestruck", "love_struck"],
     "char": "💘",
     "category": "symbols"
   },
   "gift_heart": {
-    "keywords": ["love", "valentines"],
+    "keywords": ["love", "valentines", "present", "promise"],
     "char": "💝",
     "category": "symbols"
   },
   "heart_decoration": {
-    "keywords": ["purple-square", "love", "like"],
+    "keywords": ["purple-square", "love", "like", "memories"],
     "char": "💟",
     "category": "symbols"
   },
   "peace_symbol": {
-    "keywords": ["hippie"],
+    "keywords": ["hippie", "peace"],
     "char": "☮",
     "category": "symbols"
   },
   "latin_cross": {
-    "keywords": ["christianity"],
+    "keywords": ["christianity", "jesus", "Jesus", "religion"],
     "char": "✝",
     "category": "symbols"
   },
   "star_and_crescent": {
-    "keywords": ["islam"],
+    "keywords": ["islam", "muslim"],
     "char": "☪",
     "category": "symbols"
   },
@@ -3945,7 +3945,7 @@
     "category": "symbols"
   },
   "six_pointed_star": {
-    "keywords": ["purple-square", "religion", "jewish", "hexagram"],
+    "keywords": ["purple-square", "religion", "jewish", "hexagram", "star_of_david", "sheriff"],
     "char": "🔯",
     "category": "symbols"
   },
@@ -3955,7 +3955,7 @@
     "category": "symbols"
   },
   "yin_yang": {
-    "keywords": ["balance"],
+    "keywords": ["balance", "yin_yang", "Taoism", "mystique"],
     "char": "☯",
     "category": "symbols"
   },
@@ -3975,37 +3975,37 @@
     "category": "symbols"
   },
   "aries": {
-    "keywords": ["sign", "purple-square", "zodiac", "astrology"],
+    "keywords": ["sign", "purple-square", "zodiac", "astrology", "aries"],
     "char": "♈",
     "category": "symbols"
   },
   "taurus": {
-    "keywords": ["purple-square", "sign", "zodiac", "astrology"],
+    "keywords": ["purple-square", "sign", "zodiac", "astrology", "taurus"],
     "char": "♉",
     "category": "symbols"
   },
   "gemini": {
-    "keywords": ["sign", "zodiac", "purple-square", "astrology"],
+    "keywords": ["sign", "zodiac", "purple-square", "astrology", "gemini"],
     "char": "♊",
     "category": "symbols"
   },
   "cancer": {
-    "keywords": ["sign", "zodiac", "purple-square", "astrology"],
+    "keywords": ["sign", "zodiac", "purple-square", "astrology","cancer"],
     "char": "♋",
     "category": "symbols"
   },
   "leo": {
-    "keywords": ["sign", "purple-square", "zodiac", "astrology"],
+    "keywords": ["sign", "purple-square", "zodiac", "astrology", "leo"],
     "char": "♌",
     "category": "symbols"
   },
   "virgo": {
-    "keywords": ["sign", "zodiac", "purple-square", "astrology"],
+    "keywords": ["sign", "zodiac", "purple-square", "astrology","virgo"],
     "char": "♍",
     "category": "symbols"
   },
   "libra": {
-    "keywords": ["sign", "purple-square", "zodiac", "astrology"],
+    "keywords": ["sign", "purple-square", "zodiac", "astrology", "libra"],
     "char": "♎",
     "category": "symbols"
   },
@@ -4015,32 +4015,32 @@
     "category": "symbols"
   },
   "sagittarius": {
-    "keywords": ["sign", "zodiac", "purple-square", "astrology"],
+    "keywords": ["sign", "zodiac", "purple-square", "astrology", "sagittarius"],
     "char": "♐",
     "category": "symbols"
   },
   "capricorn": {
-    "keywords": ["sign", "zodiac", "purple-square", "astrology"],
+    "keywords": ["sign", "zodiac", "purple-square", "astrology", "capricorn"],
     "char": "♑",
     "category": "symbols"
   },
   "aquarius": {
-    "keywords": ["sign", "purple-square", "zodiac", "astrology"],
+    "keywords": ["sign", "purple-square", "zodiac", "astrology", "aquarius"],
     "char": "♒",
     "category": "symbols"
   },
   "pisces": {
-    "keywords": ["purple-square", "sign", "zodiac", "astrology"],
+    "keywords": ["purple-square", "sign", "zodiac", "astrology", "pisces"],
     "char": "♓",
     "category": "symbols"
   },
   "id": {
-    "keywords": ["purple-square", "words"],
+    "keywords": ["purple-square", "words", "ID", "identification card"],
     "char": "🆔",
     "category": "symbols"
   },
   "atom_symbol": {
-    "keywords": ["science"],
+    "keywords": ["science", "chemistry", "atom_symbol", "atoms", "atom"],
     "char": "⚛",
     "category": "symbols"
   },
@@ -4060,12 +4060,12 @@
     "category": "symbols"
   },
   "biohazard_sign": {
-    "keywords": ["danger"],
+    "keywords": ["danger", "biohazard_sign", "deadly"],
     "char": "☣",
     "category": "symbols"
   },
   "mobile_phone_off": {
-    "keywords": ["mute", "orange-square", "silence", "quiet"],
+    "keywords": ["mute", "orange-square", "silence", "quiet", "unavailable"],
     "char": "📴",
     "category": "symbols"
   },
@@ -4100,12 +4100,12 @@
     "category": "symbols"
   },
   "eight_pointed_black_star": {
-    "keywords": ["orange-square", "shape", "polygon"],
+    "keywords": ["orange-square", "shape", "polygon", "black_hole"],
     "char": "✴️",
     "category": "symbols"
   },
   "vs": {
-    "keywords": ["words", "orange-square"],
+    "keywords": ["words", "orange-square", "versus"],
     "char": "🆚",
     "category": "symbols"
   },
@@ -4115,7 +4115,7 @@
     "category": "symbols"
   },
   "white_flower": {
-    "keywords": ["japanese", "spring"],
+    "keywords": ["japanese", "spring", "cherry_blossom"],
     "char": "💮",
     "category": "symbols"
   },
@@ -4160,7 +4160,7 @@
     "category": "symbols"
   },
   "ab": {
-    "keywords": ["red-square", "alphabet"],
+    "keywords": ["red-square", "alphabet", "font"],
     "char": "🆎",
     "category": "symbols"
   },
@@ -4215,32 +4215,32 @@
     "category": "symbols"
   },
   "no_pedestrians": {
-    "keywords": ["rules", "crossing", "walking", "circle"],
+    "keywords": ["rules", "crossing", "walking", "circle", "no_jaywalk"],
     "char": "🚷",
     "category": "symbols"
   },
   "do_not_litter": {
-    "keywords": ["trash", "bin", "garbage", "circle"],
+    "keywords": ["trash", "bin", "garbage", "circle", "do_not_litter","litter"],
     "char": "🚯",
     "category": "symbols"
   },
   "no_bicycles": {
-    "keywords": ["cyclist", "prohibited", "circle"],
+    "keywords": ["cyclist", "prohibited", "circle", "no_bicycles", "no_biking"],
     "char": "🚳",
     "category": "symbols"
   },
-  "non-potable_water": {
+  "non_potable_water": {
     "keywords": ["drink", "faucet", "tap", "circle"],
     "char": "🚱",
     "category": "symbols"
   },
   "underage": {
-    "keywords": ["18", "drink", "pub", "night", "minor", "circle"],
+    "keywords": ["18", "drink", "pub", "night", "minor", "circle", "underage"],
     "char": "🔞",
     "category": "symbols"
   },
   "no_mobile_phones": {
-    "keywords": ["iphone", "mute", "circle"],
+    "keywords": ["iphone", "mute", "circle", "no_phones"],
     "char": "📵",
     "category": "symbols"
   },
@@ -4250,12 +4250,12 @@
     "category": "symbols"
   },
   "grey_exclamation": {
-    "keywords": ["surprise", "punctuation", "gray", "wow", "warning"],
+    "keywords": ["surprise", "punctuation", "gray", "wow", "warning", "somewhat_important"],
     "char": "❕",
     "category": "symbols"
   },
   "question": {
-    "keywords": ["doubt", "confused"],
+    "keywords": ["doubt", "confused", "unanswered", "questionable"],
     "char": "❓",
     "category": "symbols"
   },
@@ -4265,7 +4265,7 @@
     "category": "symbols"
   },
   "bangbang": {
-    "keywords": ["exclamation", "surprise"],
+    "keywords": ["exclamation", "surprise","attention"],
     "char": "‼️",
     "category": "symbols"
   },
@@ -4280,27 +4280,27 @@
     "category": "symbols"
   },
   "low_brightness": {
-    "keywords": ["sun", "afternoon", "warm", "summer"],
+    "keywords": ["sun", "afternoon", "warm", "summer", "small_light"],
     "char": "🔅",
     "category": "symbols"
   },
   "high_brightness": {
-    "keywords": ["sun", "light"],
+    "keywords": ["sun", "light", "bright"],
     "char": "🔆",
     "category": "symbols"
   },
   "trident": {
-    "keywords": ["weapon", "spear"],
+    "keywords": ["weapon", "spear", "Poseidon", "Aquaman"],
     "char": "🔱",
     "category": "symbols"
   },
   "fleur_de_lis": {
-    "keywords": ["decorative", "scout"],
+    "keywords": ["decorative", "scout", "France"],
     "char": "⚜",
     "category": "symbols"
   },
   "part_alternation_mark": {
-    "keywords": ["graph", "presentation", "stats", "business", "economics", "bad"],
+    "keywords": ["graph", "presentation", "stats", "business", "economics", "bad", "stock_exchange"],
     "char": "〽️",
     "category": "symbols"
   },
@@ -4315,7 +4315,7 @@
     "category": "symbols"
   },
   "beginner": {
-    "keywords": ["badge", "shield"],
+    "keywords": ["badge", "shield", "good_and_evil"],
     "char": "🔰",
     "category": "symbols"
   },
@@ -4330,7 +4330,7 @@
     "category": "symbols"
   },
   "chart": {
-    "keywords": ["green-square", "graph", "presentation", "stats"],
+    "keywords": ["green-square", "graph", "presentation", "stats", "birth_rate"],
     "char": "💹",
     "category": "symbols"
   },
@@ -4350,7 +4350,7 @@
     "category": "symbols"
   },
   "white_check_mark": {
-    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer"],
+    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer", ""],
     "char": "✅",
     "category": "symbols"
   },
@@ -4360,7 +4360,7 @@
     "category": "symbols"
   },
   "cyclone": {
-    "keywords": ["weather", "swirl", "blue", "cloud", "vortex", "spiral", "whirlpool", "spin"],
+    "keywords": ["weather", "swirl", "blue", "cloud", "vortex", "spiral", "whirlpool", "spin", "hurricane"],
     "char": "🌀",
     "category": "symbols"
   },
@@ -4395,12 +4395,12 @@
     "category": "symbols"
   },
   "customs": {
-    "keywords": ["passport", "border", "blue-square"],
+    "keywords": ["passport", "border", "blue-square", "TSA"],
     "char": "🛃",
     "category": "symbols"
   },
   "baggage_claim": {
-    "keywords": ["blue-square", "airport", "transport"],
+    "keywords": ["blue-square", "airport", "transport", "travel"],
     "char": "🛄",
     "category": "symbols"
   },
@@ -4445,12 +4445,12 @@
     "category": "symbols"
   },
   "baby_symbol": {
-    "keywords": ["orange-square", "child"],
+    "keywords": ["orange-square", "child", "baby"],
     "char": "🚼",
     "category": "symbols"
   },
   "restroom": {
-    "keywords": ["blue-square", "toilet", "refresh", "wc", "gender"],
+    "keywords": ["blue-square", "toilet", "refresh", "wc", "gender", "water_closet"],
     "char": "🚻",
     "category": "symbols"
   },
@@ -4465,7 +4465,7 @@
     "category": "symbols"
   },
   "signal_strength": {
-    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars"],
+    "keywords": ["blue-square", "reception", "phone", "internet", "connection", "wifi", "bluetooth", "bars", "3G"],
     "char": "📶",
     "category": "symbols"
   },
@@ -4890,17 +4890,17 @@
     "category": "symbols"
   },
   "small_orange_diamond": {
-    "keywords": ["shape", "jewel", "gem"],
+    "keywords": ["shape", "jewel", "gem", "orange"],
     "char": "🔸",
     "category": "symbols"
   },
   "small_blue_diamond": {
-    "keywords": ["shape", "jewel", "gem"],
+    "keywords": ["shape", "jewel", "gem", "blue"],
     "char": "🔹",
     "category": "symbols"
   },
   "large_orange_diamond": {
-    "keywords": ["shape", "jewel", "gem"],
+    "keywords": ["shape", "jewel", "gem", "orange"],
     "char": "🔶",
     "category": "symbols"
   },
@@ -4980,7 +4980,7 @@
     "category": "symbols"
   },
   "loud_sound": {
-    "keywords": ["volume", "noise", "noisy", "speaker", "broadcast"],
+    "keywords": ["volume", "noise", "noisy", "speaker", "broadcast", "volume_up"],
     "char": "🔊",
     "category": "symbols"
   },
@@ -4990,12 +4990,12 @@
     "category": "symbols"
   },
   "mega": {
-    "keywords": ["sound", "speaker", "volume"],
+    "keywords": ["sound", "speaker", "volume","loud"],
     "char": "📣",
     "category": "symbols"
   },
   "loudspeaker": {
-    "keywords": ["volume", "sound"],
+    "keywords": ["volume", "sound", "too_loud"],
     "char": "📢",
     "category": "symbols"
   },
