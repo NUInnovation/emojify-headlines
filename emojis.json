@@ -1385,32 +1385,32 @@
     "category": "animals_and_nature"
   },
   "cactus": {
-    "keywords": ["vegetable", "plant", ],
+    "keywords": ["plant", "cacti"],
     "char": "🌵",
     "category": "animals_and_nature"
   },
   "christmas_tree": {
-    "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
+    "keywords": ["christmas", "festival", "vacation", "december", "xmas", "celebration"],
     "char": "🎄",
     "category": "animals_and_nature"
   },
   "evergreen_tree": {
-    "keywords": ["plant", "nature"],
+    "keywords": ["plant", "nature", "tree", "camphor", "cypress", "evergreen"],
     "char": "🌲",
     "category": "animals_and_nature"
   },
   "deciduous_tree": {
-    "keywords": ["plant", "nature"],
+    "keywords": ["plant", "nature", "deciduous"],
     "char": "🌳",
     "category": "animals_and_nature"
   },
   "palm_tree": {
-    "keywords": ["plant", "vegetable",  "summer", "beach", "mojito"],
+    "keywords": ["plant", "palm", "summer", "beach", "mojito"],
     "char": "🌴",
     "category": "animals_and_nature"
   },
   "seedling": {
-    "keywords": ["plant",  "grass", "lawn", "spring"],
+    "keywords": ["plant", "cultivate", "grass", "lawn", "spring"],
     "char": "🌱",
     "category": "animals_and_nature"
   },
@@ -1420,22 +1420,22 @@
     "category": "animals_and_nature"
   },
   "shamrock": {
-    "keywords": ["vegetable", "plant",  "irish"],
+    "keywords": ["vegetable", "plant", "irish"],
     "char": "☘",
     "category": "animals_and_nature"
   },
   "four_leaf_clover": {
-    "keywords": ["vegetable", "plant",  "lucky", "irish"],
+    "keywords": ["vegetable", "plant", "lucky", "irish", "happiness"],
     "char": "🍀",
     "category": "animals_and_nature"
   },
   "bamboo": {
-    "keywords": ["plant",  "vegetable", "panda", "pine_decoration"],
+    "keywords": ["plant", "vegetable", "panda", "pine_decoration"],
     "char": "🎍",
     "category": "animals_and_nature"
   },
   "tanabata_tree": {
-    "keywords": ["plant",  "branch", "summer"],
+    "keywords": ["plant",  "branch", "summer", "tanabata"],
     "char": "🎋",
     "category": "animals_and_nature"
   },
@@ -1445,17 +1445,17 @@
     "category": "animals_and_nature"
   },
   "fallen_leaf": {
-    "keywords": ["nature", "plant", "vegetable", "leaves"],
+    "keywords": ["nature", "plant", "vegetable", "leaves", "yellow_leaf", "autumn"],
     "char": "🍂",
     "category": "animals_and_nature"
   },
   "maple_leaf": {
-    "keywords": [ "plant", "vegetable", "canada", "fall"],
+    "keywords": [ "plant", "vegetable", "canada", "fall", "canada", "red_leaf"],
     "char": "🍁",
     "category": "animals_and_nature"
   },
   "ear_of_rice": {
-    "keywords": [ "plant"],
+    "keywords": [ "plant", "farm", "grain" ],
     "char": "🌾",
     "category": "animals_and_nature"
   },
@@ -1465,12 +1465,12 @@
     "category": "animals_and_nature"
   },
   "sunflower": {
-    "keywords": [ "plant", "fall"],
+    "keywords": [ "plant", "flowers"],
     "char": "🌻",
     "category": "animals_and_nature"
   },
   "rose": {
-    "keywords": ["flowers", "valentines", "love", "spring"],
+    "keywords": ["flowers", "valentines", "love", "spring", "romantic", "romance", "lover"],
     "char": "🌹",
     "category": "animals_and_nature"
   },
@@ -1490,7 +1490,7 @@
     "category": "animals_and_nature"
   },
   "bouquet": {
-    "keywords": ["flowers",  "spring"],
+    "keywords": ["flowers",  "spring", "love", "romance", "romantic", "gift"],
     "char": "💐",
     "category": "animals_and_nature"
   },
@@ -1505,32 +1505,32 @@
     "category": "animals_and_nature"
   },
   "jack_o_lantern": {
-    "keywords": ["halloween", "light", "pumpkin", "creepy", "fall"],
+    "keywords": ["halloween", "light", "pumpkin", "creepy"],
     "char": "🎃",
     "category": "animals_and_nature"
   },
   "shell": {
-    "keywords": [ "sea", "beach"],
+    "keywords": [ "sea", "beach", "sea_shell"],
     "char": "🐚",
     "category": "animals_and_nature"
   },
   "spider_web": {
-    "keywords": [ "insect", "arachnid", "silk"],
+    "keywords": [ "insect", "arachnid", "silk", "spider"],
     "char": "🕸",
     "category": "animals_and_nature"
   },
   "earth_americas": {
-    "keywords": ["globe", "world", "USA", "international"],
+    "keywords": ["globe", "world", "international", "Americas", "USA"],
     "char": "🌎",
     "category": "animals_and_nature"
   },
   "earth_africa": {
-    "keywords": ["globe", "world", "international"],
+    "keywords": ["globe", "world", "international", "Africa"],
     "char": "🌍",
     "category": "animals_and_nature"
   },
   "earth_asia": {
-    "keywords": ["globe", "world", "east", "international"],
+    "keywords": ["globe", "world", "east", "international", "Asia"],
     "char": "🌏",
     "category": "animals_and_nature"
   },
@@ -1595,12 +1595,12 @@
     "category": "animals_and_nature"
   },
   "sun_with_face": {
-    "keywords": [ "morning", "sky"],
+    "keywords": [ "morning", "sky", "sun"],
     "char": "🌞",
     "category": "animals_and_nature"
   },
   "crescent_moon": {
-    "keywords": ["night", "sleep", "sky", "evening", "magic"],
+    "keywords": ["night", "sleep", "sky", "evening", "magic" "good_night"],
     "char": "🌙",
     "category": "animals_and_nature"
   },
@@ -1610,12 +1610,12 @@
     "category": "animals_and_nature"
   },
   "star2": {
-    "keywords": ["night", "sparkle", "awesome", "good", "magic"],
+    "keywords": ["night", "sparkle", "awesome", "good", "magic", "star", "bling"],
     "char": "🌟",
     "category": "animals_and_nature"
   },
   "dizzy": {
-    "keywords": ["star", "sparkle", "shoot", "magic"],
+    "keywords": ["star", "sparkle", "shoot", "magic", "falling_star"],
     "char": "💫",
     "category": "animals_and_nature"
   },
@@ -1625,7 +1625,7 @@
     "category": "animals_and_nature"
   },
   "comet": {
-    "keywords": ["space"],
+    "keywords": ["space", "astronomy"],
     "char": "☄",
     "category": "animals_and_nature"
   },
@@ -1635,7 +1635,7 @@
     "category": "animals_and_nature"
   },
   "white_sun_with_small_cloud": {
-    "keywords": ["weather"],
+    "keywords": ["weather", "cloud"],
     "char": "🌤",
     "category": "animals_and_nature"
   },
@@ -1660,12 +1660,12 @@
     "category": "animals_and_nature"
   },
   "cloud_with_rain": {
-    "keywords": ["weather"],
+    "keywords": ["weather", "rainy"],
     "char": "🌧",
     "category": "animals_and_nature"
   },
   "thunder_cloud_and_rain": {
-    "keywords": ["weather", "lightning"],
+    "keywords": ["weather", "lightning", "thundershower"],
     "char": "⛈",
     "category": "animals_and_nature"
   },
@@ -1695,7 +1695,7 @@
     "category": "animals_and_nature"
   },
   "cloud_with_snow": {
-    "keywords": ["weather"],
+    "keywords": ["weather", "rain and snow"],
     "char": "🌨",
     "category": "animals_and_nature"
   },
@@ -1720,17 +1720,17 @@
     "category": "animals_and_nature"
   },
   "cloud_with_tornado": {
-    "keywords": ["weather", "cyclone", "twister"],
+    "keywords": ["weather", "cyclone", "twister", "typhoon", "hurricane"],
     "char": "🌪",
     "category": "animals_and_nature"
   },
   "fog": {
-    "keywords": ["weather"],
+    "keywords": ["weather", "dark", "unseen"],
     "char": "🌫",
     "category": "animals_and_nature"
   },
   "umbrella_without_rain": {
-    "keywords": ["weather", "spring"],
+    "keywords": ["weather", "spring", "umbrella"],
     "char": "☂",
     "category": "animals_and_nature"
   },
@@ -1755,27 +1755,27 @@
     "category": "animals_and_nature"
   },
   "green_apple": {
-    "keywords": ["fruit", ],
+    "keywords": ["fruit", "apple", "sour_apple" ],
     "char": "🍏",
     "category": "food_and_drink"
   },
   "apple": {
-    "keywords": ["fruit", "mac", "school"],
+    "keywords": ["fruit", "mac", "school", "red_apple"],
     "char": "🍎",
     "category": "food_and_drink"
   },
   "pear": {
-    "keywords": ["fruit",  "food"],
+    "keywords": ["fruit", "food"],
     "char": "🍐",
     "category": "food_and_drink"
   },
   "tangerine": {
-    "keywords": ["food", "fruit", ],
+    "keywords": ["food", "fruit" ],
     "char": "🍊",
     "category": "food_and_drink"
   },
   "lemon": {
-    "keywords": ["fruit", ],
+    "keywords": ["fruit", "food"],
     "char": "🍋",
     "category": "food_and_drink"
   },
@@ -1795,7 +1795,7 @@
     "category": "food_and_drink"
   },
   "strawberry": {
-    "keywords": ["fruit", "food", ],
+    "keywords": ["fruit", "food" ],
     "char": "🍓",
     "category": "food_and_drink"
   },
@@ -1840,7 +1840,7 @@
     "category": "food_and_drink"
   },
   "sweet_potato": {
-    "keywords": ["food", ],
+    "keywords": ["food","yam", "Ipomoea", "batatas" ],
     "char": "🍠",
     "category": "food_and_drink"
   },
@@ -2100,7 +2100,7 @@
     "category": "activity"
   },
   "football": {
-    "keywords": ["sports", "balls", "NFL"],
+    "keywords": ["sports", "balls", "NFL", "Super Bowl"],
     "char": "🏈",
     "category": "activity"
   },
