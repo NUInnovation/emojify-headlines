@@ -9,3 +9,11 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
 
 
 Secured permission from Emojipedia to use their logo within Fair Use.
+
+Secured API from Emojipedia:
+
+https://docs.google.com/document/d/1ERR7q89jNkUA13AQUDqS96OWT25s80uekwhCfsmyw1s/edit?usp=sharing
+
+Your private key:
+
+ad591ab90c99dc4d632c35ee70d37c36341cb3ba
