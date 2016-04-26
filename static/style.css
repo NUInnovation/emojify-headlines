@@ -14,10 +14,17 @@ body {
 
 h1 {
   font-size: 80px;
+  margin-bottom: 0;
 }
 
 h2 {
   margin-bottom: 0;
+  color: #666666;
+  font-weight: normal;
+}
+
+p {
+  font-size: 20pt;   
 }
 
 .displaybox {
@@ -27,5 +34,6 @@ h2 {
 
 textarea {
   resize: none;
-  font-size: 20pt;
+  font-size: 48pt;
+  padding: ; 
 }
