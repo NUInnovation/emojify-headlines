@@ -8,21 +8,29 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
  - Chenhui Zhou
 
 ##Setup Instructions
-1. Flask Setup
-- Make sure you have pip installed.
+####1. Flask Setup
+1. Make sure you have pip installed.
 
-- Set up virtualenv
-        sudo pip install virtualenv
+2. Set up virtualenv
+```
+sudo pip install virtualenv
+```
 
-- activate the `venv` virtual environment.
-        cd venv
-        source bin/activate
+3. activate the `venv` virtual environment.
+```
+cd venv
+source bin/activate
+```
 
-- install Flask
-        pip install flask
+4. install Flask
+```
+pip install flask
+```
 
-2. To start the app:
-        python app.py
+####2. To start the app:
+```
+python app.py
+```
 
   This should start the application on `localhost:5000`.
 
