@@ -47,8 +47,11 @@ deactivate
 - change color of input text if word recognized
 - synonym lookup/term expansion
 - roots of words
-- trim punctuation
-- capitalization - change everything to lowercase
+- trim punctuation [DONE 04/25]
+- capitalization - change everything to lowercase [DONE 04/25]
+- handle negation
+- word frequency
+
 
 ##Emojipedia API
 
