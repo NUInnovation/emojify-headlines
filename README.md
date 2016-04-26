@@ -32,6 +32,7 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
 - synonym lookup/term expansion
 - roots of words
 - trim punctuation
+- capitalization - change everything to lowercase
 
 ##Emojipedia API
 
