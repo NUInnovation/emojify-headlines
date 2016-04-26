@@ -1040,12 +1040,12 @@
     "category": "animals_and_nature"
   },
   "rabbit": {
-    "keywords": [  "bunny", "hop", "carrots" "spring", "magic"],
+    "keywords": [  "bunny", "hop", "carrots", "spring", "magic"],
     "char": "🐰",
     "category": "animals_and_nature"
   },
   "bear": {
-    "keywords": [  "roar", "grr", "yogi" "wild" "brown bear", "black bear", "grizzly"],
+    "keywords": [  "roar", "grr", "yogi", "wild", "brown bear", "black bear", "grizzly"],
     "char": "🐻",
     "category": "animals_and_nature"
   },
@@ -1150,7 +1150,7 @@
     "category": "animals_and_nature"
   },
   "wolf": {
-    "keywords": [  "wild" "wild dog", "coyote"],
+    "keywords": [  "wild", "wild dog", "coyote"],
     "char": "🐺",
     "category": "animals_and_nature"
   },
@@ -1300,7 +1300,7 @@
     "category": "animals_and_nature"
   },
   "ram": {
-    "keywords": [ "sheep", ],
+    "keywords": [ "sheep" ],
     "char": "🐏",
     "category": "animals_and_nature"
   },
