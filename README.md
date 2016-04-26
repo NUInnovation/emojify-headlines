@@ -8,7 +8,7 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
  - Chenhui Zhou
 
 ##Setup Instructions
-####1. Flask Setup
+####1. Flask Setup:
 1. Make sure you have pip installed.
 
 2. Set up virtualenv
@@ -21,7 +21,7 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
   cd venv
   source bin/activate
   ```
-  
+
 4. install Flask
   ```
   pip install flask
@@ -33,6 +33,14 @@ python app.py
 ```
 
   This should start the application on `localhost:5000`.
+
+####3. To close out of the app and deactivate your virtual environment:
+Close out of the application by typing `CTRL-C`
+
+To deactivate your virtual environment:
+```
+deactivate
+```
 
 ##To Dos
 ####Monday April 25, 2016
