@@ -715,7 +715,7 @@
     "category": "people"
   },
   "two_men_holding_hands": {
-    "keywords": ["pair", "couple", "love", "like", "bromance", "gay", "friendship", "people", "human", "homosexual", ],
+    "keywords": ["pair", "couple", "love", "like", "bromance", "gay", "friendship", "people", "human", "homosexual" ],
     "char": "👬",
     "category": "people"
   },
@@ -730,7 +730,7 @@
     "category": "people"
   },
   "information_desk_person": {
-    "keywords": ["info", "information", "help",],
+    "keywords": ["info", "information", "help"],
     "char": "💁",
     "category": "people"
   },
@@ -975,7 +975,7 @@
     "category": "people"
   },
   "school_satchel": {
-    "keywords": ["student", "education", "bag" "backpack", "book bag"],
+    "keywords": ["student", "education", "bag", "backpack", "book bag"],
     "char": "🎒",
     "category": "people"
   },
@@ -1040,12 +1040,12 @@
     "category": "animals_and_nature"
   },
   "rabbit": {
-    "keywords": [  "bunny", "hop", "carrots" "spring", "magic"],
+    "keywords": [  "bunny", "hop", "carrots", "spring", "magic"],
     "char": "🐰",
     "category": "animals_and_nature"
   },
   "bear": {
-    "keywords": [  "roar", "grr", "yogi" "wild" "brown bear", "black bear", "grizzly"],
+    "keywords": [  "roar", "grr", "yogi", "wild", "brown bear", "black bear", "grizzly"],
     "char": "🐻",
     "category": "animals_and_nature"
   },
@@ -1055,7 +1055,7 @@
     "category": "animals_and_nature"
   },
   "koala": {
-    "keywords": [ "Australia", "marsupial",],
+    "keywords": [ "Australia", "marsupial"],
     "char": "🐨",
     "category": "animals_and_nature"
   },
@@ -1095,12 +1095,12 @@
     "category": "animals_and_nature"
   },
   "monkey_face": {
-    "keywords": [  "monkey", "circus", ],
+    "keywords": [  "monkey", "circus" ],
     "char": "🐵",
     "category": "animals_and_nature"
   },
   "see_no_evil": {
-    "keywords": ["monkey",  "can't see", "doesn't see", "won't see", ],
+    "keywords": ["monkey",  "can't see", "doesn't see", "won't see"],
     "char": "🙈",
     "category": "animals_and_nature"
   },
@@ -1150,7 +1150,7 @@
     "category": "animals_and_nature"
   },
   "wolf": {
-    "keywords": [  "wild" "wild dog", "coyote"],
+    "keywords": [  "wild", "wild dog", "coyote"],
     "char": "🐺",
     "category": "animals_and_nature"
   },
@@ -1225,7 +1225,7 @@
     "category": "animals_and_nature"
   },
   "fish": {
-    "keywords": [ "food", ],
+    "keywords": [ "food"],
     "char": "🐟",
     "category": "animals_and_nature"
   },
@@ -1300,7 +1300,7 @@
     "category": "animals_and_nature"
   },
   "ram": {
-    "keywords": [ "sheep", ],
+    "keywords": [ "sheep"],
     "char": "🐏",
     "category": "animals_and_nature"
   },
@@ -1350,7 +1350,7 @@
     "category": "animals_and_nature"
   },
   "poodle": {
-    "keywords": ["dog",  "101", ],
+    "keywords": ["dog",  "101"],
     "char": "🐩",
     "category": "animals_and_nature"
   },
@@ -1600,7 +1600,7 @@
     "category": "animals_and_nature"
   },
   "crescent_moon": {
-    "keywords": ["night", "sleep", "sky", "evening", "magic" "good_night"],
+    "keywords": ["night", "sleep", "sky", "evening", "magic", "good_night"],
     "char": "🌙",
     "category": "animals_and_nature"
   },
@@ -2855,7 +2855,7 @@
     "category": "travel_and_places"
   },
   "house_with_garden": {
-    "keywords": ["home", "plant", ],
+    "keywords": ["home", "plant" ],
     "char": "🏡",
     "category": "travel_and_places"
   },
