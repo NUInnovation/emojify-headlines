@@ -29,7 +29,8 @@ def load_dictionary():
   return dictionary
 
 def dictionary_lookup(dictionary, word):
-  word = word.strip()
+  # strip whitespace and make lowercase
+  word = word.rstrip(" !@#$%^&*()?.,").lower()
   result = ""
   result = unicode(result, 'utf-8')
 
