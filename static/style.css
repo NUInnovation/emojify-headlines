@@ -1,6 +1,7 @@
 body {
   font-family: Helvetica;
   font-weight: lighter;
+  background-color: #92bde5;
 }
 
 .container {
@@ -15,6 +16,10 @@ body {
 h1 {
   font-size: 80px;
   margin-bottom: 0;
+}
+
+img {
+  
 }
 
 h2 {
@@ -34,7 +39,7 @@ p {
 }
 
 .inputtext {
-  font-size: 36pt;
+  font-size: 32pt;
 }
 
 textarea {
