@@ -34,8 +34,9 @@ p {
 }
 
 #credits p {
-  font-size: 12pt;
+  font-size: 10pt;
   margin-top: 200px;
+  margin-left: 20px;
 }
 
 .displaybox {
