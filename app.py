@@ -37,10 +37,16 @@ def dictionary_lookup(dictionary, word):
   for key, value in dictionary.iteritems():
     if word == key:
       result = value["char"]
-    else:
+      break
+    
+  if result == "":
+    for key, value in dictionary.iteritems():
       if word in value["keywords"]:
-        result = value['char']
+        result = value["char"]
 
+  if result == None:
+    result = ""
+  print result
   return result
 
 if __name__ == '__main__':
