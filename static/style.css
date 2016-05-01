@@ -18,9 +18,13 @@ h1 {
   margin-bottom: 0;
 }
 
-img {
-
+input {
+  width: 75px;
+  background-color: #febe38;
+  border-radius: 10px;
 }
+
+
 
 h2 {
   margin-bottom: 0;
@@ -46,6 +50,11 @@ p {
 
 .inputtext {
   font-size: 28pt;
+}
+
+.twitter-share-button {
+  width: 100px;
+  height: auto;
 }
 
 textarea {
