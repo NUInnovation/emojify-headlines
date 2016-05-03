@@ -3,6 +3,8 @@
 <head>
   <title>Emojify</title>
   <link rel=stylesheet type=text/css href="static/style.css">
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <script id="tumblr-js" async src="https://assets.tumblr.com/share-button.js"></script>
 </head>
 <body>
   <div class="container">
@@ -28,6 +30,20 @@
       <div class="share">
         <h2 style="font-size: 12pt"> Share your translation: </h2>
         <a class="twitter-share-button" href='https://twitter.com/intent/tweet?text={{translation}}%20"{{originaltext}}".%20Translated%20by&url=none&hashtags=emojify'>Tweet</a>
+
+        <a class="facebook-share-button" data-href="" 
+    data-layout="button_count">Post</a>
+    <!--<div class="fb_share" data-order="1" style="display: block;">
+<a class="bf_dom shareBtn square" href="javascript:;" rel:gt_act="share/facebook/share" data-bfa="@a:Share; @d:Facebook;">
+<i class="fb_icon fa"></i><span></span></a>
+</div>-->
+
+        <g:plus action="share"></g:plus>
+
+
+        <a class="tumblr-share-button" href="https://www.tumblr.com/share">Tumblr</a>
+        <a class="tumblr-share-button" data-color="blue" data-notes="right" href="https://embed.tumblr.com/share"></a>
+
       </div>
     </div>
     <div id="credits">
@@ -57,3 +73,21 @@
     return t;
   }(document, "script", "twitter-wjs"));
 </script>
+
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+<script>(!function(d,s,id){
+  var js,ajs=d.getElementsByTagName(s)[0];
+  if(!d.getElementById(id)){
+    js=d.createElement(s);js.id=id;
+    js.src="https://secure.assets.tumblr.com/share-button.js";
+    ajs.parentNode.insertBefore(js,ajs);}}(document, "script", "tumblr-js"));</script>
+
+  
+
