@@ -55,7 +55,7 @@ def lemmatize(word):
 
 def dictionary_lookup(dictionary, word):
   # strip whitespace and make lowercase
-  word = word.rstrip(" !@#$%^&*()?.,")
+  word = word.rstrip(" !@#$%^&*()?.,").lower()
   result = ""
   result = unicode(result, 'utf-8')
 
