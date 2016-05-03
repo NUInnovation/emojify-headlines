@@ -6274,13 +6274,8 @@
     "char": "🇹🇯",
     "category": "flags"
   },
-<<<<<<< HEAD
-  "tz": {
-    "keywords": ["tanzania,", "republic", "flag", "nation", "country", "banner"],
-=======
   "tanzania": {
     "keywords": [],
->>>>>>> c116f83e0e7706b764f6f49590bc05ebccfcbf01
     "char": "🇹🇿",
     "category": "flags"
   },
@@ -6349,20 +6344,6 @@
     "char": "🇺🇦",
     "category": "flags"
   },
-<<<<<<< HEAD
-  "ae": {
-    "keywords": ["arab", "emirates", "flag", "nation", "country", "banner"],
-    "char": "🇦🇪",
-    "category": "flags"
-  },
-  "gb": {
-    "keywords": ["united kingdom", "great", "britain", "northern", "ireland", "flag", "nation", "country", "banner", "british", "UK", "english", "england", "union jack"],
-    "char": "🇬🇧",
-    "category": "flags"
-  },
-  "us": {
-    "keywords": ["united states", "america", "flag", "nation", "country", "banner"],
-=======
   "uae": {
     "keywords": ["united", "arab", "emirates"],
     "char": "🇦🇪",
@@ -6375,7 +6356,6 @@
   },
   "usa": {
     "keywords": ["united", "states", "america", "flag", "country", "banner", "american"],
->>>>>>> c116f83e0e7706b764f6f49590bc05ebccfcbf01
     "char": "🇺🇸",
     "category": "flags"
   },
