@@ -255,7 +255,7 @@
     "category": "people"
   },
   "fearful": {
-    "keywords": [ "scared", "terrified", "nervous", "oops", "huh"],
+    "keywords": [ "scared", "terrified", "nervous", "oops", "huh", "fear"],
     "char": "😨",
     "category": "people"
   },
@@ -1690,7 +1690,7 @@
     "category": "animals_and_nature"
   },
   "snowflake": {
-    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas"],
+    "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas", "snow"],
     "char": "❄️",
     "category": "animals_and_nature"
   },
@@ -3590,12 +3590,12 @@
     "category": "objects"
   },
   "chart_with_upwards_trend": {
-    "keywords": ["graph", "presentation", "stats", "recovery", "business", "economics", "money", "sales", "good", "success"],
+    "keywords": ["graph", "presentation", "stats", "recovery", "business", "economics", "money", "sales", "good", "success", "grow", "increase"],
     "char": "📈",
     "category": "objects"
   },
   "chart_with_downwards_trend": {
-    "keywords": ["graph", "presentation", "stats", "recession", "business", "economics", "money", "sales", "bad", "failure"],
+    "keywords": ["graph", "presentation", "stats", "recession", "business", "economics", "money", "sales", "bad", "failure", "decrease"],
     "char": "📉",
     "category": "objects"
   },
