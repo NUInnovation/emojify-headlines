@@ -6275,7 +6275,7 @@
     "category": "flags"
   },
   "tz": {
-    "keywords": ["tanzania,", "united", "republic", "flag", "nation", "country", "banner"],
+    "keywords": ["tanzania,", "republic", "flag", "nation", "country", "banner"],
     "char": "🇹🇿",
     "category": "flags"
   },
@@ -6345,17 +6345,17 @@
     "category": "flags"
   },
   "ae": {
-    "keywords": ["united", "arab", "emirates", "flag", "nation", "country", "banner"],
+    "keywords": ["arab", "emirates", "flag", "nation", "country", "banner"],
     "char": "🇦🇪",
     "category": "flags"
   },
   "gb": {
-    "keywords": ["united", "kingdom", "great", "britain", "northern", "ireland", "flag", "nation", "country", "banner", "british", "UK", "english", "england", "union jack"],
+    "keywords": ["united kingdom", "great", "britain", "northern", "ireland", "flag", "nation", "country", "banner", "british", "UK", "english", "england", "union jack"],
     "char": "🇬🇧",
     "category": "flags"
   },
   "us": {
-    "keywords": ["united", "states", "america", "flag", "nation", "country", "banner"],
+    "keywords": ["united states", "america", "flag", "nation", "country", "banner"],
     "char": "🇺🇸",
     "category": "flags"
   },
