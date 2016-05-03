@@ -8,6 +8,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
+  nltk.download("wordnet")
+  nltk.download("averaged_perceptron_tagger")
   return render_template('index.html')
 
 @app.route('/translate', methods=['POST'])
