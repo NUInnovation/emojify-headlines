@@ -2030,7 +2030,7 @@
     "category": "food_and_drink"
   },
   "beer": {
-    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze"],
+    "keywords": ["relax", "beverage", "drink", "drunk", "party", "pub", "summer", "alcohol", "booze", "bar"],
     "char": "🍺",
     "category": "food_and_drink"
   },
@@ -2355,7 +2355,7 @@
     "category": "activity"
   },
   "dart": {
-    "keywords": ["game", "play", "bar"],
+    "keywords": ["game", "play"],
     "char": "🎯",
     "category": "activity"
   },

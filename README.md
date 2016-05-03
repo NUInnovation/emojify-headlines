@@ -58,7 +58,7 @@ deactivate
 ####Monday April 25, 2016
 - change color of input text if word recognized
 - synonym lookup/term expansion
-- roots of words
+- roots of words [DONE 05/01]
 - trim punctuation [DONE 04/25]
 - capitalization - change everything to lowercase [DONE 04/25]
 - handle negation
