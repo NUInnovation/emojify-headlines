@@ -39,7 +39,6 @@ def lemmatize(word):
   # get part of speech of word
   tagged = nltk.pos_tag([word])
   tag = tagged[0][1][0:2]
-  print tag
 
   if tag == "VB":
     pos = wn.VERB
@@ -53,7 +52,6 @@ def lemmatize(word):
   # lemmatize word
   result = WordNetLemmatizer().lemmatize(word, pos)
 
-  print result
   return result
 
 def dictionary_lookup(dictionary, word):
@@ -74,7 +72,7 @@ def dictionary_lookup(dictionary, word):
 
   if result == None:
     result = ""
-  print result
+
   return result
 
 if __name__ == '__main__':
