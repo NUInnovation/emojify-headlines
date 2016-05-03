@@ -11,21 +11,33 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
 ####1. Flask Setup:
 1. Make sure you have pip installed.
 
-2. Set up virtualenv
+2. Install virtualenv
   ```
   sudo pip install virtualenv
   ```
 
-3. activate the `venv` virtual environment.
+3. Activate the `venv` virtual environment.
   ```
-  cd venv
-  source bin/activate
+  virtualenv venv
+  source venv/bin/activate
   ```
 
-4. install Flask
+4. Install Flask
   ```
   pip install flask
   ```
+
+5. Install NLTK
+  ```
+  pip install nltk
+  ```
+
+6. Download NLTK packages using `nltk-setup.py` script.
+  ```
+  python nltk-setup.py
+  ```
+
+
 
 ####2. To start the app:
 ```
