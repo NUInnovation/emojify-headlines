@@ -61,8 +61,9 @@ deactivate
 - roots of words [DONE 05/01]
 - trim punctuation [DONE 04/25]
 - capitalization - change everything to lowercase [DONE 04/25]
-- handle negation
+- handle negation [DONE 05/07]
 - word frequency
+- keyword in search bar for fb and google + link
 
 
 ##Emojipedia API

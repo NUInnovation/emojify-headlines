@@ -55,20 +55,29 @@ input {
 .twitter-share-button {
   width: 100px;
   height: auto;
-  margin-top: 20px;
+  margin-top: 3px;
+  
 }
 
 .fb-share-button {
-  margin-top: -15px;
- 
+  margin-top: -1px;
+
 }
 
+.google-plus-share {
+  margin-top: 3px;
+}
 
+table {
+  vertical-align: middle;
+}
 
-.share {
+#share {
   display: inline-block;
   *display: inline;
+
 }
+
 
 #credits p {
   text-align:center;
