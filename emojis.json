@@ -1,16 +1,16 @@
 {
   "grinning": {
-    "keywords": [ "smile", "happy", "joy", ":D"],
+    "keywords": [ "smile", "happy", "joy", ":D", ":)"],
     "char": "😀",
     "category": "people"
   },
   "grimacing": {
-    "keywords": [ "grimace", "teeth"],
+    "keywords": [ "grimace", "teeth", "D:", "pain"],
     "char": "😬",
     "category": "people"
   },
   "grin": {
-    "keywords": [ "happy", "smile", "joy"],
+    "keywords": [ "happy", "smile", "joy", ":D"],
     "char": "😁",
     "category": "people"
   },
@@ -170,7 +170,7 @@
     "category": "people"
   },
   "thinking": {
-    "keywords": [ "hmmm", "wonder", "think", "thoughts"],
+    "keywords": [ "hmmm", "wonder", "think", "thoughts", "ponder"],
     "char": "🤔",
     "category": "people"
   },
@@ -180,12 +180,12 @@
     "category": "people"
   },
   "disappointed": {
-    "keywords": [ "sad", "upset", "depressed", ":("],
+    "keywords": [ "sad", "upset", "depressed", ":(", "disappointed", "feels_down"],
     "char": "😞",
     "category": "people"
   },
   "worried": {
-    "keywords": [ "concern", "nervous", ":(", "concerned", "oh_no"],
+    "keywords": [ "concern", "nervous", ":(", "concerned", "oh_no", "anxious"],
     "char": "😟",
     "category": "people"
   },
@@ -370,7 +370,7 @@
     "category": "people"
   },
   "skull": {
-    "keywords": ["dead", "skeleton", "creepy", "death", "die"],
+    "keywords": ["dead", "skeleton", "creepy", "death", "die", "bone"],
     "char": "💀",
     "category": "people"
   },
@@ -615,7 +615,7 @@
     "category": "people"
   },
   "man": {
-    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache"],
+    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache", "Donald_Trump", "Bernie_Sanders", "Ted_Cruz"],
     "char": "👨",
     "category": "people"
   },
@@ -625,7 +625,7 @@
     "category": "people"
   },
   "person_with_blond_hair": {
-    "keywords": ["man", "male", "boy", "blonde", "guy"],
+    "keywords": ["man", "male", "boy", "blonde", "guy", "Hillary_Clinton"],
     "char": "👱",
     "category": "people"
   },
@@ -635,12 +635,12 @@
     "category": "people"
   },
   "older_woman": {
-    "keywords": ["female", "women", "girl", "lady", "old"],
+    "keywords": ["female", "women", "girl", "lady", "old", "Hillary_Clinton"],
     "char": "👵",
     "category": "people"
   },
   "man_with_gua_pi_mao": {
-    "keywords": ["male", "boy"],
+    "keywords": ["male", "boy", "Chinese"],
     "char": "👲",
     "category": "people"
   },
@@ -1225,7 +1225,7 @@
     "category": "animals_and_nature"
   },
   "fish": {
-    "keywords": [ "food"],
+    "keywords": [ "food", "salmon", "halibut", "sushi", "seafood"],
     "char": "🐟",
     "category": "animals_and_nature"
   },
@@ -1235,7 +1235,7 @@
     "category": "animals_and_nature"
   },
   "dolphin": {
-    "keywords": [  "fish", "sea", "ocean", "flipper", "fins", "beach"],
+    "keywords": [  "fish", "sea", "ocean", "flipper", "fins", "beach", "marine"],
     "char": "🐬",
     "category": "animals_and_nature"
   },
@@ -1895,7 +1895,7 @@
     "category": "food_and_drink"
   },
   "pizza": {
-    "keywords": ["food", "party"],
+    "keywords": ["food"],
     "char": "🍕",
     "category": "food_and_drink"
   },
@@ -2070,7 +2070,7 @@
     "category": "food_and_drink"
   },
   "coffee": {
-    "keywords": ["beverage", "caffeine", "latte", "espresso"],
+    "keywords": ["beverage", "caffeine", "latte", "espresso", "macchiato", "Starbucks"],
     "char": "☕",
     "category": "food_and_drink"
   },
@@ -2240,7 +2240,7 @@
     "category": "activity"
   },
   "man_levitating": {
-    "keywords": ["suit", "business", "levitate", "hover", "jump"],
+    "keywords": ["suit", "business", "levitate", "hover", "jump", "man"],
     "char": "🕴",
     "category": "activity"
   },
@@ -3295,7 +3295,7 @@
     "category": "objects"
   },
   "skull_and_crossbones": {
-    "keywords": ["poison", "danger", "deadly", "scary"],
+    "keywords": ["poison", "danger", "deadly", "scary", "bones"],
     "char": "☠",
     "category": "objects"
   },
@@ -4995,7 +4995,7 @@
     "category": "symbols"
   },
   "loudspeaker": {
-    "keywords": ["volume", "sound", "too_loud"],
+    "keywords": ["volume", "sound", "too_loud", "says", "said", "say"],
     "char": "📢",
     "category": "symbols"
   },
