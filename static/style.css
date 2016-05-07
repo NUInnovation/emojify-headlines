@@ -57,6 +57,13 @@ input {
   height: auto;
 }
 
+
+
+.share {
+  display: inline-block;
+  *display: inline;
+}
+
 #credits p {
   text-align:center;
   font-size: 10pt;
