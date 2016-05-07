@@ -63,6 +63,7 @@ deactivate
 - capitalization - change everything to lowercase [DONE 04/25]
 - handle negation
 - word frequency
+- keyword in search bar for fb and google + link
 
 
 ##Emojipedia API
