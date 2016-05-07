@@ -27,15 +27,29 @@ def translate():
     inputtext = inputtext.lower()
     tokens = nltk.word_tokenize(inputtext)
     tags = nltk.pos_tag(tokens) 
+    
     if print_statements:
-      print tags
+      print "Tagged input:", tags, "\n"
 
     # translate each word individually
+    antonym = False
     translation = ""
     for tag in tags:
+      word = tag[0]
+      pos_tag = tag[1]
+
       if print_statements:
-        print tag[0]
-      word = lemmatize(tag[0], tag[1])
+        print "Original word:", word
+      
+      if word == "not":
+        antonym = True
+        continue
+      
+      if antonym == True:
+        word = find_antonym(word, pos_tag)
+        antonym == False
+      
+      word = lemmatize(word, pos_tag)
       trans = dictionary_lookup(dictionary, word)
       translation += trans
 
@@ -49,14 +63,31 @@ def load_dictionary():
     dictionary = json.load(f)
   return dictionary
 
-def lemmatize(word, pos_tag):
+def find_antonym(word, pos_tag):
   global print_statements
 
+  tag = pos_tag[0:2]
+  if tag != 'JJ':
+    return word
+
+  s = str(wn.lemma(word+".a.01."+word).antonyms())
+  
+  if print_statements:
+    print "Found antonym:", s
+  
+  start = s.find("'")
+  end = s.find(".")
+  result = s[start+1:end]
+  return result
+
+
+def lemmatize(word, pos_tag):
+  global print_statements
   # get part of speech of word
   tag = pos_tag[0:2]
 
   if print_statements:
-    print tag
+    print "Part of speech:", tag
 
   if tag == "VB":
     pos = wn.VERB
@@ -71,11 +102,12 @@ def lemmatize(word, pos_tag):
   result = WordNetLemmatizer().lemmatize(word, pos)
 
   if print_statements:
-    print result
+    print "Lemmatized word:", result
 
   return result
 
 def dictionary_lookup(dictionary, word):
+  global print_statements
   # strip whitespace and make lowercase
   result = ""
   result = unicode(result, 'utf-8')
@@ -93,9 +125,8 @@ def dictionary_lookup(dictionary, word):
   if result == None:
     result = ""
 
-  global print_statements
   if print_statements:
-    print result
+    print "Dictionary lookup:", result, "\n"
 
   return result
 
