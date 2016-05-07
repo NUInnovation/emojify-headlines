@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template
+import os
 import json
 import nltk
 from nltk.corpus import wordnet as wn
@@ -7,6 +8,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
+  nltk.download("wordnet")
+  nltk.download("averaged_perceptron_tagger")
   return render_template('index.html')
 
 @app.route('/translate', methods=['POST'])
@@ -36,7 +39,6 @@ def lemmatize(word):
   # get part of speech of word
   tagged = nltk.pos_tag([word])
   tag = tagged[0][1][0:2]
-  print tag
 
   if tag == "VB":
     pos = wn.VERB
@@ -50,7 +52,6 @@ def lemmatize(word):
   # lemmatize word
   result = WordNetLemmatizer().lemmatize(word, pos)
 
-  print result
   return result
 
 def dictionary_lookup(dictionary, word):
@@ -71,9 +72,10 @@ def dictionary_lookup(dictionary, word):
 
   if result == None:
     result = ""
-  print result
+
   return result
 
 if __name__ == '__main__':
   app.debug = True
-  app.run()
+  port = int(os.environ.get("PORT", 5000))
+  app.run(host='0.0.0.0', port=port)
