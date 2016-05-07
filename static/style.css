@@ -55,6 +55,7 @@ input {
 .twitter-share-button {
   width: 100px;
   height: auto;
+  margin-top: 3px;
   
 }
 
@@ -63,7 +64,13 @@ input {
 
 }
 
+.google-plus-share {
+  margin-top: 3px;
+}
 
+table {
+  vertical-align: middle;
+}
 
 #share {
   display: inline-block;
