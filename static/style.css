@@ -55,6 +55,12 @@ input {
 .twitter-share-button {
   width: 100px;
   height: auto;
+  margin-top: 20px;
+}
+
+.fb-share-button {
+  margin-top: -15px;
+ 
 }
 
 
