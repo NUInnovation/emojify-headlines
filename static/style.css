@@ -55,20 +55,22 @@ input {
 .twitter-share-button {
   width: 100px;
   height: auto;
-  margin-top: 20px;
+  
 }
 
 .fb-share-button {
-  margin-top: -15px;
- 
+  margin-top: -1px;
+
 }
 
 
 
-.share {
+#share {
   display: inline-block;
   *display: inline;
+
 }
+
 
 #credits p {
   text-align:center;
