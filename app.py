@@ -22,8 +22,15 @@ def translate():
 
   # translate each word individually
   translation = ""
+  anto = False
   for word in inputtext.split():
     word = lemmatize(word)
+    if word == "not":
+      anto = True
+      continue
+    if anto == True:
+      word = antonyms(word)
+      anto = False
     trans = dictionary_lookup(dictionary, word)
     translation += trans
 
@@ -34,6 +41,19 @@ def load_dictionary():
   with open('emojis.json') as f:
     dictionary = json.load(f)
   return dictionary
+
+def antonyms(word):
+  tagged = nltk.pos_tag([word])
+  tag = tagged[0][1][0:2]
+  if tag != 'JJ':
+    return word
+  s = str(wn.lemma(word+".a.01."+word).antonyms())
+  print s
+  start = s.find("'")
+  end = s.find(".")
+  result = s[start+1:end]
+  return result
+
 
 def lemmatize(word):
   # get part of speech of word
