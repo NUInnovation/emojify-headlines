@@ -1130,7 +1130,7 @@
     "category": "animals_and_nature"
   },
   "bird": {
-    "keywords": [  "fly", "tweet", "spring", "chirp"],
+    "keywords": [  "fly", "tweet", "spring", "chirp", "pidgeon", "sparrow", "robin", "cardinals", "bluebird", "woodpecker", "peacock", "dove"],
     "char": "🐦",
     "category": "animals_and_nature"
   },
@@ -1395,17 +1395,17 @@
     "category": "animals_and_nature"
   },
   "evergreen_tree": {
-    "keywords": ["plant", "nature", "tree", "camphor", "cypress", "evergreen"],
+    "keywords": ["plant", "nature", "tree", "camphor", "cypress", "evergreen", "outdoors"],
     "char": "🌲",
     "category": "animals_and_nature"
   },
   "deciduous_tree": {
-    "keywords": ["plant", "nature", "deciduous"],
+    "keywords": ["plant", "nature", "deciduous", "outdoors"],
     "char": "🌳",
     "category": "animals_and_nature"
   },
   "palm_tree": {
-    "keywords": ["plant", "palm", "summer", "beach", "mojito"],
+    "keywords": ["plant", "palm", "summer", "beach", "mojito", "outdoors"],
     "char": "🌴",
     "category": "animals_and_nature"
   },
@@ -2225,7 +2225,7 @@
     "category": "activity"
   },
   "bicyclist": {
-    "keywords": ["sports", "bike", "exercise", "hipster"],
+    "keywords": ["sports", "bike", "exercise"],
     "char": "🚴",
     "category": "activity"
   },
@@ -2320,7 +2320,7 @@
     "category": "activity"
   },
   "saxophone": {
-    "keywords": ["music", "instrument", "jazz", "blues"],
+    "keywords": ["music", "instrument", "jazz", "blues", "music_band", "band"],
     "char": "🎷",
     "category": "activity"
   },
@@ -2330,7 +2330,7 @@
     "category": "activity"
   },
   "guitar": {
-    "keywords": ["music", "instrument"],
+    "keywords": ["music", "instrument", "band"],
     "char": "🎸",
     "category": "activity"
   },
@@ -2345,7 +2345,7 @@
     "category": "activity"
   },
   "video_game": {
-    "keywords": ["play", "console", "PS4", "controller"],
+    "keywords": ["play", "console", "PS4", "controller", "PlayStation", "Xbox", "Nintendo"],
     "char": "🎮",
     "category": "activity"
   },
@@ -2625,7 +2625,7 @@
     "category": "travel_and_places"
   },
   "fuelpump": {
-    "keywords": ["gas station", "petroleum"],
+    "keywords": ["gas_station", "petroleum", "oil"],
     "char": "⛽",
     "category": "travel_and_places"
   },
@@ -3150,7 +3150,7 @@
     "category": "objects"
   },
   "bulb": {
-    "keywords": ["light", "electricity", "idea"],
+    "keywords": ["light", "electricity", "idea", "illuminate", "lightbulb", "light_bulb"],
     "char": "💡",
     "category": "objects"
   },
@@ -3260,12 +3260,12 @@
     "category": "objects"
   },
   "gun": {
-    "keywords": ["violence", "weapon", "pistol", "revolver"],
+    "keywords": ["violence", "weapon", "pistol", "revolver", "bang", "shoot", "sniper", "school_shooting", "shot", "NRA", "National_Rifle_Association", "gun_control"],
     "char": "🔫",
     "category": "objects"
   },
   "bomb": {
-    "keywords": ["boom", "explode", "explosion", "terrorism"],
+    "keywords": ["boom", "explode", "explosion", "terrorism", "destroy", "destruction", "dynamite"],
     "char": "💣",
     "category": "objects"
   },
@@ -3275,7 +3275,7 @@
     "category": "objects"
   },
   "dagger_knife": {
-    "keywords": ["weapon"],
+    "keywords": ["weapon", "hidden_weapon", "concealed_weapon"],
     "char": "🗡",
     "category": "objects"
   },
