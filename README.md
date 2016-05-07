@@ -32,16 +32,11 @@ EECS 395: Design and Innovation in Journalism. Spring 2016
   pip install nltk
   ```
 
-6. Download NLTK packages using `nltk-setup.py` script.
-  ```
-  python nltk-setup.py
-  ```
 
 
-
-####2. To start the app:
+####2. To start the app locally:
 ```
-python app.py
+python app.py --print
 ```
 
   This should start the application on `localhost:5000`.
@@ -55,15 +50,16 @@ deactivate
 ```
 
 ##To Dos
-####Monday April 25, 2016
 - change color of input text if word recognized
 - synonym lookup/term expansion
+- word frequency
+- keyword in search bar for fb and google + link
+
+####Finished To-Dos
 - roots of words [DONE 05/01]
 - trim punctuation [DONE 04/25]
 - capitalization - change everything to lowercase [DONE 04/25]
-- handle negation [DONE 05/07]
-- word frequency
-- keyword in search bar for fb and google + link
+- handle negation [DONE 05/07
 
 
 ##Emojipedia API
