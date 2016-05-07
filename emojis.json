@@ -1595,7 +1595,7 @@
     "category": "animals_and_nature"
   },
   "sun_with_face": {
-    "keywords": [ "morning", "sky", "sun"],
+    "keywords": [ "morning", "sky", "sun", "day"],
     "char": "🌞",
     "category": "animals_and_nature"
   },
@@ -1680,7 +1680,7 @@
     "category": "animals_and_nature"
   },
   "fire": {
-    "keywords": ["hot", "cook", "flame"],
+    "keywords": ["hot", "cook", "flame", "wildfire"],
     "char": "🔥",
     "category": "animals_and_nature"
   },
@@ -3015,7 +3015,7 @@
     "category": "objects"
   },
   "cd": {
-    "keywords": ["technology", "dvd", "disk", "disc", "90s"],
+    "keywords": ["technology", "dvd", "disk", "disc", "90s", "album"],
     "char": "💿",
     "category": "objects"
   },
@@ -3180,7 +3180,7 @@
     "category": "objects"
   },
   "dollar": {
-    "keywords": ["money", "sales", "bill", "currency"],
+    "keywords": ["money", "sales", "bill", "currency", "sold", "sell"],
     "char": "💵",
     "category": "objects"
   },
