@@ -1895,7 +1895,7 @@
     "category": "food_and_drink"
   },
   "pizza": {
-    "keywords": ["food", "party"],
+    "keywords": ["food"],
     "char": "🍕",
     "category": "food_and_drink"
   },
