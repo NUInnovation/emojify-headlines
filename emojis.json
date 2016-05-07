@@ -200,7 +200,7 @@
     "category": "people"
   },
   "pensive": {
-    "keywords": [ "sad", "depressed", "okay", "upset", "think"],
+    "keywords": [ "sad", "depressed", "okay", "upset"],
     "char": "😔",
     "category": "people"
   },
@@ -2830,7 +2830,7 @@
     "category": "travel_and_places"
   },
   "european_castle": {
-    "keywords": ["building", "royalty", "history"],
+    "keywords": ["building", "royalty", "historical_monument"],
     "char": "🏰",
     "category": "travel_and_places"
   },
@@ -3180,7 +3180,7 @@
     "category": "objects"
   },
   "dollar": {
-    "keywords": ["money", "sales", "bill", "currency", "sold", "sell"],
+    "keywords": ["money", "sales", "bill", "currency", "sold", "sell", "budget"],
     "char": "💵",
     "category": "objects"
   },
@@ -3570,7 +3570,7 @@
     "category": "objects"
   },
   "scroll": {
-    "keywords": ["documents", "ancient", "history", "paper"],
+    "keywords": ["documents", "ancient", "declaration", "paper", "Constitution"],
     "char": "📜",
     "category": "objects"
   },
@@ -5065,7 +5065,7 @@
     "category": "symbols"
   },
   "clock1": {
-    "keywords": ["time", "late", "early", "schedule"],
+    "keywords": ["time", "late", "early", "schedule", "hour", "minute", "seconds"],
     "char": "🕐",
     "category": "symbols"
   },
