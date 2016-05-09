@@ -86,6 +86,8 @@ def find_antonym(word, pos_tag):
 
 def lemmatize(word, pos_tag):
   global print_statements
+  result = word
+
   # get part of speech of word
   tag = pos_tag[0:2]
 
@@ -98,11 +100,14 @@ def lemmatize(word, pos_tag):
     pos = wn.ADJ
   elif tag == "RB":
     pos = wn.ADV
-  else:
+  elif tag == "NN":
     pos = wn.NOUN
+  else:
+    pos = False
 
   # lemmatize word
-  result = WordNetLemmatizer().lemmatize(word, pos)
+  if pos:
+    result = WordNetLemmatizer().lemmatize(word, pos)
 
   if print_statements:
     print "Lemmatized word:", result
