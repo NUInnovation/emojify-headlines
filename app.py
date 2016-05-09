@@ -42,11 +42,11 @@ def translate():
         print "Original word:", word
       
       if word == "not":
-	    if antonym == True:
-		  antonym = False
-	    else:
-		  antonym = True
-	    continue
+        if antonym == True:
+          antonym = False
+        else:
+          antonym = True
+        continue
       
       if antonym == True:
         word = find_antonym(word, pos_tag)
