@@ -42,9 +42,9 @@ def translate():
         print "Original word:", word
       
       if word == "not":
-	    if antonym == True:
-		  antonym = False
-		else:
+        if antonym == True:
+          antonym = False
+        else:
           antonym = True
         continue
       
