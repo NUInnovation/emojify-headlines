@@ -24,8 +24,8 @@ def translate():
     dictionary = load_dictionary()
 
     # tokenize input sentence and POS tag
-    inputtext = inputtext.lower()
-    tokens = nltk.word_tokenize(inputtext)
+    lower = inputtext.lower()
+    tokens = nltk.word_tokenize(lower)
     tags = nltk.pos_tag(tokens) 
     
     if print_statements:
@@ -59,7 +59,7 @@ def translate():
     return render_template('index.html')
 
 def load_dictionary():
-  with open('emojis.json') as f:
+  with open('emojis_lemmatized.json') as f:
     dictionary = json.load(f)
   return dictionary
 
