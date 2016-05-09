@@ -1130,7 +1130,7 @@
     "category": "animals_and_nature"
   },
   "bird": {
-    "keywords": [  "fly", "tweet", "spring", "chirp", "pidgeon", "sparrow", "robin", "cardinals", "bluebird", "woodpecker", "peacock", "dove"],
+    "keywords": ["tweet", "spring", "chirp", "pidgeon", "sparrow", "robin", "cardinals", "bluebird", "woodpecker", "peacock", "dove"],
     "char": "🐦",
     "category": "animals_and_nature"
   },
@@ -2560,7 +2560,7 @@
     "category": "travel_and_places"
   },
   "airplane": {
-    "keywords": ["plane", "vehicle", "transportation", "flight", "fly"],
+    "keywords": ["plane", "vehicle", "transportation", "flight", "fly", "airline"],
     "char": "✈️",
     "category": "travel_and_places"
   },
