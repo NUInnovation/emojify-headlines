@@ -59,7 +59,7 @@ def translate():
     return render_template('index.html')
 
 def load_dictionary():
-  with open('emojis_lemmatized.json') as f:
+  with open('emojis.json') as f:
     dictionary = json.load(f)
   return dictionary
 
