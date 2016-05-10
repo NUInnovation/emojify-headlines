@@ -4190,7 +4190,7 @@
     "category": "symbols"
   },
   "no_entry_sign": {
-    "keywords": ["forbid", "stop", "limit", "denied", "disallow", "circle"],
+    "keywords": ["forbid", "stop", "limit", "denied", "disallow", "can’t", "can't"],
     "char": "🚫",
     "category": "symbols"
   },
