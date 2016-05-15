@@ -600,7 +600,7 @@
     "category": "people"
   },
   "baby": {
-    "keywords": ["child", "boy", "girl", "toddler"],
+    "keywords": ["child", "boy", "girl", "toddler", "infant"],
     "char": "👶",
     "category": "people"
   },
@@ -995,7 +995,7 @@
     "category": "people"
   },
   "briefcase": {
-    "keywords": ["business", "documents", "work", "law", "legal"],
+    "keywords": ["business", "documents", "work", "law", "legal", "career"],
     "char": "💼",
     "category": "people"
   },
@@ -1110,7 +1110,7 @@
     "category": "animals_and_nature"
   },
   "speak_no_evil": {
-    "keywords": ["monkey", "can't speak", "won't speak", "don't speak",  "omg"],
+    "keywords": ["monkey", "can't speak", "won't speak", "don't speak",  "omg", "secret"],
     "char": "🙊",
     "category": "animals_and_nature"
   },
@@ -2575,7 +2575,7 @@
     "category": "travel_and_places"
   },
   "boat": {
-    "keywords": ["ship", "summer", "transportation", "water", "sailing", "sailboat"],
+    "keywords": ["ship", "summer", "transportation", "water", "sailing", "sailboat", "sail"],
     "char": "⛵",
     "category": "travel_and_places"
   },
@@ -2845,7 +2845,7 @@
     "category": "travel_and_places"
   },
   "statue_of_liberty": {
-    "keywords": ["american", "newyork"],
+    "keywords": ["american", "new york"],
     "char": "🗽",
     "category": "travel_and_places"
   },
@@ -2965,7 +2965,7 @@
     "category": "objects"
   },
   "computer": {
-    "keywords": ["technology", "laptop", "screen", "display", "monitor"],
+    "keywords": ["technology", "laptop", "screen", "display", "monitor", "online"],
     "char": "💻",
     "category": "objects"
   },
@@ -3180,7 +3180,7 @@
     "category": "objects"
   },
   "dollar": {
-    "keywords": ["money", "sales", "bill", "currency", "sold", "sell", "budget"],
+    "keywords": ["money", "sales", "bill", "currency", "sold", "sell", "budget", "investment"],
     "char": "💵",
     "category": "objects"
   },
@@ -3240,7 +3240,7 @@
     "category": "objects"
   },
   "pick": {
-    "keywords": ["tools", "dig"],
+    "keywords": ["tools", "dig", "unearth"],
     "char": "⛏",
     "category": "objects"
   },
@@ -3300,7 +3300,7 @@
     "category": "objects"
   },
   "coffin": {
-    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery"],
+    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery", "grave"],
     "char": "⚰",
     "category": "objects"
   },
@@ -4710,7 +4710,7 @@
     "category": "symbols"
   },
   "arrow_right_hook": {
-    "keywords": ["blue-square", "return", "rotade", "direction"],
+    "keywords": ["blue-square", "return", "rotade", "direction", "turning"],
     "char": "↪️",
     "category": "symbols"
   },
