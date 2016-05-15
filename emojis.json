@@ -2845,7 +2845,7 @@
     "category": "travel_and_places"
   },
   "statue_of_liberty": {
-    "keywords": ["american", "new york"],
+    "keywords": ["american", "new_york"],
     "char": "🗽",
     "category": "travel_and_places"
   },
