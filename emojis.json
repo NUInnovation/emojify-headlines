@@ -605,12 +605,12 @@
     "category": "people"
   },
   "boy": {
-    "keywords": ["man", "male", "guy", "teenager", "friend"],
+    "keywords": ["man", "male", "guy", "teenager", "friend", "he", "his", "him"],
     "char": "👦",
     "category": "people"
   },
   "girl": {
-    "keywords": ["female", "woman", "gal", "teenager", "friend"],
+    "keywords": ["female", "woman", "gal", "teenager", "friend", "she", "her"],
     "char": "👧",
     "category": "people"
   },
