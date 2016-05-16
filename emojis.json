@@ -4245,7 +4245,7 @@
     "category": "symbols"
   },
   "exclamation": {
-    "keywords": ["heavy_exclamation_mark", "danger", "surprise", "punctuation", "wow", "warning"],
+    "keywords": ["heavy_exclamation_mark", "surprise", "punctuation", "wow", "warning"],
     "char": "❗",
     "category": "symbols"
   },
@@ -4310,7 +4310,7 @@
     "category": "symbols"
   },
   "children_crossing": {
-    "keywords": ["school", "warning", "danger", "sign", "driving", "yellow-diamond"],
+    "keywords": ["school", "warning", "sign", "driving", "yellow-diamond"],
     "char": "🚸",
     "category": "symbols"
   },
@@ -4880,7 +4880,7 @@
     "category": "symbols"
   },
   "red_circle": {
-    "keywords": ["shape", "error", "danger"],
+    "keywords": ["shape", "error"],
     "char": "🔴",
     "category": "symbols"
   },

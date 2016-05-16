@@ -5,9 +5,9 @@ import json
 import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
+
+
 app = Flask(__name__)
-
-
 @app.route('/')
 def hello_world():
   return render_template('index.html')
@@ -35,6 +35,8 @@ def translate():
     antonym = False
     translation = ""
     for tag in tags:
+      trans = ""
+
       word = tag[0]
       pos_tag = tag[1]
 
@@ -54,6 +56,14 @@ def translate():
       
       word = lemmatize(word, pos_tag)
       trans = dictionary_lookup(dictionary, word)
+
+      if trans == "":
+        syns = find_synonyms(word, pos_tag)
+        for syn in syns:
+          trans = dictionary_lookup(dictionary, syn)
+          if trans != "":
+            break
+
       translation += trans
 
     # render translation result
@@ -83,12 +93,22 @@ def find_antonym(word, pos_tag):
   result = s[start+1:end]
   return result
 
-
-def lemmatize(word, pos_tag):
+def find_synonyms(word, pos_tag):
   global print_statements
-  result = word
 
-  # get part of speech of word
+  syns = []
+
+  tag = get_wn_pos_tag(pos_tag)
+  for synset in wn.synsets(word):
+    for lemma in synset.lemmas():
+      syns.append(lemma.name())
+
+  if print_statements:
+    print "Found synonyms", syns
+
+  return syns
+
+def get_wn_pos_tag(pos_tag):
   tag = pos_tag[0:2]
 
   if print_statements:
@@ -104,6 +124,13 @@ def lemmatize(word, pos_tag):
     pos = wn.NOUN
   else:
     pos = False
+  return pos
+
+def lemmatize(word, pos_tag):
+  global print_statements
+  result = word
+
+  pos = get_wn_pos_tag(pos_tag)
 
   # lemmatize word
   if pos:

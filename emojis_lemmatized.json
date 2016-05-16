@@ -108,7 +108,7 @@
       "orange-circle"
     ]
   }, 
-  "admission ticket": {
+  "admission_ticket": {
     "category": "activity", 
     "char": "🎟", 
     "keywords": [
@@ -118,8 +118,8 @@
       "sport"
     ]
   }, 
-  "aerial tramway": {
-    "category": "travel and places", 
+  "aerial_tramway": {
+    "category": "travel_and_places", 
     "char": "🚡", 
     "keywords": [
       "transportation", 
@@ -135,18 +135,19 @@
     ]
   }, 
   "airplane": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "✈️", 
     "keywords": [
       "plane", 
       "vehicle", 
       "transportation", 
       "flight", 
-      "fly"
+      "fly", 
+      "airline"
     ]
   }, 
-  "airplane arrival": {
-    "category": "travel and places", 
+  "airplane_arrival": {
+    "category": "travel_and_places", 
     "char": "🛬", 
     "keywords": [
       "airport", 
@@ -154,8 +155,8 @@
       "boarding"
     ]
   }, 
-  "airplane departure": {
-    "category": "travel and places", 
+  "airplane_departure": {
+    "category": "travel_and_places", 
     "char": "🛫", 
     "keywords": [
       "airport", 
@@ -164,7 +165,7 @@
       "land"
     ]
   }, 
-  "alarm clock": {
+  "alarm_clock": {
     "category": "objects", 
     "char": "⏰", 
     "keywords": [
@@ -199,11 +200,11 @@
       "UFO", 
       "paul", 
       "martian", 
-      "outer space"
+      "outer_space"
     ]
   }, 
   "ambulance": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚑", 
     "keywords": [
       "health", 
@@ -225,7 +226,7 @@
     ]
   }, 
   "anchor": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⚓", 
     "keywords": [
       "ship", 
@@ -289,7 +290,7 @@
     ]
   }, 
   "ant": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐜", 
     "keywords": [
       "insect", 
@@ -311,13 +312,13 @@
     ]
   }, 
   "apple": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍎", 
     "keywords": [
       "fruit", 
       "mac", 
       "school", 
-      "red apple"
+      "red_apple"
     ]
   }, 
   "aquarius": {
@@ -356,7 +357,7 @@
       "armenian"
     ]
   }, 
-  "arrow backward": {
+  "arrow_backward": {
     "category": "symbols", 
     "char": "◀️", 
     "keywords": [
@@ -365,7 +366,7 @@
       "direction"
     ]
   }, 
-  "arrow double down": {
+  "arrow_double_down": {
     "category": "symbols", 
     "char": "⏬", 
     "keywords": [
@@ -374,7 +375,7 @@
       "bottom"
     ]
   }, 
-  "arrow double up": {
+  "arrow_double_up": {
     "category": "symbols", 
     "char": "⏫", 
     "keywords": [
@@ -383,7 +384,7 @@
       "top"
     ]
   }, 
-  "arrow down": {
+  "arrow_down": {
     "category": "symbols", 
     "char": "⬇️", 
     "keywords": [
@@ -392,7 +393,7 @@
       "bottom"
     ]
   }, 
-  "arrow down small": {
+  "arrow_down_small": {
     "category": "symbols", 
     "char": "🔽", 
     "keywords": [
@@ -401,7 +402,7 @@
       "bottom"
     ]
   }, 
-  "arrow forward": {
+  "arrow_forward": {
     "category": "symbols", 
     "char": "▶️", 
     "keywords": [
@@ -411,59 +412,54 @@
       "play"
     ]
   }, 
-  "arrow heading down": {
+  "arrow_heading_down": {
     "category": "symbols", 
     "char": "⤵️", 
     "keywords": [
       "blue-square", 
       "direction", 
-      "bottom", 
-      "head"
+      "bottom"
     ]
   }, 
-  "arrow heading up": {
+  "arrow_heading_up": {
     "category": "symbols", 
     "char": "⤴️", 
     "keywords": [
       "blue-square", 
       "direction", 
-      "top", 
-      "head"
+      "top"
     ]
   }, 
-  "arrow left": {
+  "arrow_left": {
     "category": "symbols", 
     "char": "⬅️", 
     "keywords": [
       "blue-square", 
       "previous", 
-      "back", 
-      "leave"
+      "back"
     ]
   }, 
-  "arrow lower left": {
+  "arrow_lower_left": {
     "category": "symbols", 
     "char": "↙️", 
     "keywords": [
       "blue-square", 
       "direction", 
       "diagonal", 
-      "southwest", 
-      "low"
+      "southwest"
     ]
   }, 
-  "arrow lower right": {
+  "arrow_lower_right": {
     "category": "symbols", 
     "char": "↘️", 
     "keywords": [
       "blue-square", 
       "direction", 
       "diagonal", 
-      "southeast", 
-      "low"
+      "southeast"
     ]
   }, 
-  "arrow right": {
+  "arrow_right": {
     "category": "symbols", 
     "char": "➡️", 
     "keywords": [
@@ -471,7 +467,7 @@
       "next"
     ]
   }, 
-  "arrow right hook": {
+  "arrow_right_hook": {
     "category": "symbols", 
     "char": "↪️", 
     "keywords": [
@@ -481,7 +477,7 @@
       "direction"
     ]
   }, 
-  "arrow up": {
+  "arrow_up": {
     "category": "symbols", 
     "char": "⬆️", 
     "keywords": [
@@ -491,7 +487,7 @@
       "direction"
     ]
   }, 
-  "arrow up down": {
+  "arrow_up_down": {
     "category": "symbols", 
     "char": "↕️", 
     "keywords": [
@@ -501,7 +497,7 @@
       "vertical"
     ]
   }, 
-  "arrow up small": {
+  "arrow_up_small": {
     "category": "symbols", 
     "char": "🔼", 
     "keywords": [
@@ -513,7 +509,7 @@
       "top"
     ]
   }, 
-  "arrow upper left": {
+  "arrow_upper_left": {
     "category": "symbols", 
     "char": "↖️", 
     "keywords": [
@@ -521,11 +517,10 @@
       "point", 
       "direction", 
       "diagonal", 
-      "northwest", 
-      "leave"
+      "northwest"
     ]
   }, 
-  "arrow upper right": {
+  "arrow_upper_right": {
     "category": "symbols", 
     "char": "↗️", 
     "keywords": [
@@ -536,25 +531,23 @@
       "northeast"
     ]
   }, 
-  "arrows clockwise": {
+  "arrows_clockwise": {
     "category": "symbols", 
     "char": "🔃", 
     "keywords": [
       "sync", 
       "cycle", 
       "round", 
-      "repeat", 
-      "arrow"
+      "repeat"
     ]
   }, 
-  "arrows counterclockwise": {
+  "arrows_counterclockwise": {
     "category": "symbols", 
     "char": "🔄", 
     "keywords": [
       "blue-square", 
       "sync", 
-      "cycle", 
-      "arrow"
+      "cycle"
     ]
   }, 
   "art": {
@@ -568,20 +561,19 @@
       "color"
     ]
   }, 
-  "articulated lorry": {
-    "category": "travel and places", 
+  "articulated_lorry": {
+    "category": "travel_and_places", 
     "char": "🚛", 
     "keywords": [
       "vehicle", 
       "cars", 
       "transportation", 
       "express", 
-      "articulate", 
       "car"
     ]
   }, 
-  "artificial satellite": {
-    "category": "travel and places", 
+  "artificial_satellite": {
+    "category": "travel_and_places", 
     "char": "🛰", 
     "keywords": [
       "communication", 
@@ -608,7 +600,7 @@
       "poison"
     ]
   }, 
-  "athletic shoe": {
+  "athletic_shoe": {
     "category": "people", 
     "char": "👟", 
     "keywords": [
@@ -635,13 +627,13 @@
       "sale"
     ]
   }, 
-  "atom symbol": {
+  "atom_symbol": {
     "category": "symbols", 
     "char": "⚛", 
     "keywords": [
       "science", 
       "chemistry", 
-      "atom symbol", 
+      "atom_symbol", 
       "atoms", 
       "atom", 
       "atom"
@@ -688,24 +680,25 @@
       "toddler"
     ]
   }, 
-  "baby bottle": {
-    "category": "food and drink", 
+  "baby_bottle": {
+    "category": "food_and_drink", 
     "char": "🍼", 
     "keywords": [
       "food", 
       "container", 
-      "milk"
+      "milk", 
+      "pregnant"
     ]
   }, 
-  "baby chick": {
-    "category": "animals and nature", 
+  "baby_chick": {
+    "category": "animals_and_nature", 
     "char": "🐤", 
     "keywords": [
       "chicken", 
       "bird"
     ]
   }, 
-  "baby symbol": {
+  "baby_symbol": {
     "category": "symbols", 
     "char": "🚼", 
     "keywords": [
@@ -732,7 +725,7 @@
       "sport"
     ]
   }, 
-  "baggage claim": {
+  "baggage_claim": {
     "category": "symbols", 
     "char": "🛄", 
     "keywords": [
@@ -762,7 +755,7 @@
       "circus"
     ]
   }, 
-  "ballot box with ballot": {
+  "ballot_box_with_ballot": {
     "category": "objects", 
     "char": "🗳", 
     "keywords": [
@@ -770,7 +763,7 @@
       "vote"
     ]
   }, 
-  "ballot box with check": {
+  "ballot_box_with_check": {
     "category": "symbols", 
     "char": "☑️", 
     "keywords": [
@@ -784,17 +777,17 @@
     ]
   }, 
   "bamboo": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🎍", 
     "keywords": [
       "plant", 
       "vegetable", 
       "panda", 
-      "pine decoration"
+      "pine_decoration"
     ]
   }, 
   "banana": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍌", 
     "keywords": [
       "fruit", 
@@ -802,7 +795,7 @@
       "monkey"
     ]
   }, 
-  "bandage face": {
+  "bandage_face": {
     "category": "people", 
     "char": "🤕", 
     "keywords": [
@@ -825,7 +818,7 @@
     "keywords": []
   }, 
   "bank": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏦", 
     "keywords": [
       "building", 
@@ -837,7 +830,7 @@
       "sale"
     ]
   }, 
-  "bar chart": {
+  "bar_chart": {
     "category": "objects", 
     "char": "📊", 
     "keywords": [
@@ -908,8 +901,8 @@
       "sustain"
     ]
   }, 
-  "beach with umbrella": {
-    "category": "travel and places", 
+  "beach_with_umbrella": {
+    "category": "travel_and_places", 
     "char": "🏖", 
     "keywords": [
       "weather", 
@@ -920,7 +913,7 @@
     ]
   }, 
   "bear": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐻", 
     "keywords": [
       "roar", 
@@ -941,7 +934,7 @@
     ]
   }, 
   "bee": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐝", 
     "keywords": [
       "insect", 
@@ -952,7 +945,7 @@
     ]
   }, 
   "beer": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍺", 
     "keywords": [
       "relax", 
@@ -968,7 +961,7 @@
     ]
   }, 
   "beers": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍻", 
     "keywords": [
       "relax", 
@@ -984,7 +977,7 @@
     ]
   }, 
   "beetle": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐞", 
     "keywords": [
       "insect", 
@@ -997,7 +990,7 @@
     "keywords": [
       "badge", 
       "shield", 
-      "good and evil"
+      "good_and_evil"
     ]
   }, 
   "belarus": {
@@ -1028,7 +1021,7 @@
       "chime"
     ]
   }, 
-  "bellhop bell": {
+  "bellhop_bell": {
     "category": "objects", 
     "char": "🛎", 
     "keywords": [
@@ -1041,7 +1034,7 @@
     "keywords": []
   }, 
   "bento": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍱", 
     "keywords": [
       "food", 
@@ -1070,7 +1063,7 @@
     ]
   }, 
   "bike": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚲", 
     "keywords": [
       "sports", 
@@ -1096,20 +1089,19 @@
       "bath"
     ]
   }, 
-  "biohazard sign": {
+  "biohazard_sign": {
     "category": "symbols", 
     "char": "☣", 
     "keywords": [
       "danger", 
-      "biohazard sign", 
+      "biohazard_sign", 
       "deadly"
     ]
   }, 
   "bird": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐦", 
     "keywords": [
-      "fly", 
       "tweet", 
       "spring", 
       "chirp", 
@@ -1125,14 +1117,14 @@
     ]
   }, 
   "birthday": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🎂", 
     "keywords": [
       "food", 
       "dessert"
     ]
   }, 
-  "black circle": {
+  "black_circle": {
     "category": "symbols", 
     "char": "⚫", 
     "keywords": [
@@ -1141,14 +1133,14 @@
       "round"
     ]
   }, 
-  "black circle for record": {
+  "black_circle_for_record": {
     "category": "symbols", 
     "char": "⏺", 
     "keywords": [
       "blue-square"
     ]
   }, 
-  "black joker": {
+  "black_joker": {
     "category": "symbols", 
     "char": "🃏", 
     "keywords": [
@@ -1160,7 +1152,7 @@
       "card"
     ]
   }, 
-  "black large square": {
+  "black_large_square": {
     "category": "symbols", 
     "char": "⬛", 
     "keywords": [
@@ -1169,16 +1161,14 @@
       "button"
     ]
   }, 
-  "black left pointing double triangle with vertical bar": {
+  "black_left_pointing_double_triangle_with_vertical_bar": {
     "category": "symbols", 
     "char": "⏮", 
     "keywords": [
-      "backward", 
-      "leave", 
-      "point"
+      "backward"
     ]
   }, 
-  "black medium small square": {
+  "black_medium_small_square": {
     "category": "symbols", 
     "char": "◾", 
     "keywords": [
@@ -1187,7 +1177,7 @@
       "button"
     ]
   }, 
-  "black medium square": {
+  "black_medium_square": {
     "category": "symbols", 
     "char": "◼️", 
     "keywords": [
@@ -1196,7 +1186,7 @@
       "icon"
     ]
   }, 
-  "black nib": {
+  "black_nib": {
     "category": "objects", 
     "char": "✒️", 
     "keywords": [
@@ -1207,27 +1197,25 @@
       "write"
     ]
   }, 
-  "black right pointing double triangle with vertical bar": {
+  "black_right_pointing_double_triangle_with_vertical_bar": {
     "category": "symbols", 
     "char": "⏯", 
     "keywords": [
       "blue-square", 
       "play", 
-      "pause", 
-      "point"
+      "pause"
     ]
   }, 
-  "black right pointing triangle with double vertical bar": {
+  "black_right_pointing_triangle_with_double_vertical_bar": {
     "category": "symbols", 
     "char": "⏭", 
     "keywords": [
       "forward", 
       "next", 
-      "blue-square", 
-      "point"
+      "blue-square"
     ]
   }, 
-  "black small square": {
+  "black_small_square": {
     "category": "symbols", 
     "char": "▪️", 
     "keywords": [
@@ -1235,7 +1223,7 @@
       "icon"
     ]
   }, 
-  "black square button": {
+  "black_square_button": {
     "category": "symbols", 
     "char": "🔲", 
     "keywords": [
@@ -1244,7 +1232,7 @@
       "frame"
     ]
   }, 
-  "black square for stop": {
+  "black_square_for_stop": {
     "category": "symbols", 
     "char": "⏹", 
     "keywords": [
@@ -1252,7 +1240,7 @@
     ]
   }, 
   "blossom": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌼", 
     "keywords": [
       "nature", 
@@ -1262,7 +1250,7 @@
     ]
   }, 
   "blowfish": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐡", 
     "keywords": [
       "food", 
@@ -1270,7 +1258,7 @@
       "ocean"
     ]
   }, 
-  "blue book": {
+  "blue_book": {
     "category": "objects", 
     "char": "📘", 
     "keywords": [
@@ -1281,15 +1269,15 @@
       "study"
     ]
   }, 
-  "blue car": {
-    "category": "travel and places", 
+  "blue_car": {
+    "category": "travel_and_places", 
     "char": "🚙", 
     "keywords": [
       "transportation", 
       "vehicle"
     ]
   }, 
-  "blue heart": {
+  "blue_heart": {
     "category": "symbols", 
     "char": "💙", 
     "keywords": [
@@ -1317,12 +1305,12 @@
     ]
   }, 
   "boar": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐗", 
     "keywords": []
   }, 
   "boat": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛵", 
     "keywords": [
       "ship", 
@@ -1363,7 +1351,7 @@
     "category": "objects", 
     "char": "📖", 
     "keywords": [
-      "open book", 
+      "open_book", 
       "read", 
       "library", 
       "knowledge", 
@@ -1381,15 +1369,14 @@
       "save"
     ]
   }, 
-  "bookmark tabs": {
+  "bookmark_tabs": {
     "category": "objects", 
     "char": "📑", 
     "keywords": [
       "favorite", 
       "save", 
       "order", 
-      "tidy", 
-      "tab"
+      "tidy"
     ]
   }, 
   "books": {
@@ -1403,7 +1390,7 @@
     ]
   }, 
   "boom": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "💥", 
     "keywords": [
       "bomb", 
@@ -1438,7 +1425,7 @@
     "keywords": []
   }, 
   "bottle": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍾", 
     "keywords": [
       "food", 
@@ -1447,7 +1434,7 @@
     ]
   }, 
   "bouquet": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "💐", 
     "keywords": [
       "flowers", 
@@ -1469,7 +1456,7 @@
       "kneel"
     ]
   }, 
-  "bow and arrow": {
+  "bow_and_arrow": {
     "category": "activity", 
     "char": "🏹", 
     "keywords": [
@@ -1506,7 +1493,7 @@
     ]
   }, 
   "bread": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍞", 
     "keywords": [
       "food", 
@@ -1515,7 +1502,7 @@
       "toast"
     ]
   }, 
-  "bride with veil": {
+  "bride_with_veil": {
     "category": "people", 
     "char": "👰", 
     "keywords": [
@@ -1524,8 +1511,8 @@
       "wedding"
     ]
   }, 
-  "bridge at night": {
-    "category": "travel and places", 
+  "bridge_at_night": {
+    "category": "travel_and_places", 
     "char": "🌉", 
     "keywords": [
       "photo", 
@@ -1574,7 +1561,7 @@
       "island"
     ]
   }, 
-  "broken heart": {
+  "broken_heart": {
     "category": "symbols", 
     "char": "💔", 
     "keywords": [
@@ -1594,15 +1581,15 @@
     ]
   }, 
   "bug": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐛", 
     "keywords": [
       "insect", 
       "worm"
     ]
   }, 
-  "building construction": {
-    "category": "travel and places", 
+  "building_construction": {
+    "category": "travel_and_places", 
     "char": "🏗", 
     "keywords": [
       "wip", 
@@ -1612,7 +1599,7 @@
     ]
   }, 
   "buildings": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏘", 
     "keywords": [
       "houses", 
@@ -1630,7 +1617,7 @@
       "idea", 
       "illuminate", 
       "lightbulb", 
-      "light bulb"
+      "light_bulb"
     ]
   }, 
   "bulgaria": {
@@ -1640,8 +1627,8 @@
       "bulgarian"
     ]
   }, 
-  "bullettrain front": {
-    "category": "travel and places", 
+  "bullettrain_front": {
+    "category": "travel_and_places", 
     "char": "🚅", 
     "keywords": [
       "transportation", 
@@ -1652,8 +1639,8 @@
       "travel"
     ]
   }, 
-  "bullettrain side": {
-    "category": "travel and places", 
+  "bullettrain_side": {
+    "category": "travel_and_places", 
     "char": "🚄", 
     "keywords": [
       "transportation", 
@@ -1666,7 +1653,7 @@
     "keywords": []
   }, 
   "burrito": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🌯", 
     "keywords": [
       "food", 
@@ -1679,7 +1666,7 @@
     "keywords": []
   }, 
   "bus": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚌", 
     "keywords": [
       "car", 
@@ -1688,14 +1675,14 @@
     ]
   }, 
   "busstop": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚏", 
     "keywords": [
       "transportation", 
       "wait"
     ]
   }, 
-  "bust in silhouette": {
+  "bust_in_silhouette": {
     "category": "people", 
     "char": "👤", 
     "keywords": [
@@ -1704,7 +1691,7 @@
       "human"
     ]
   }, 
-  "busts in silhouette": {
+  "busts_in_silhouette": {
     "category": "people", 
     "char": "👥", 
     "keywords": [
@@ -1713,7 +1700,6 @@
       "humans", 
       "group", 
       "team", 
-      "bust", 
       "user", 
       "human"
     ]
@@ -1724,7 +1710,7 @@
     "keywords": []
   }, 
   "cactus": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌵", 
     "keywords": [
       "plant", 
@@ -1733,7 +1719,7 @@
     ]
   }, 
   "cake": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍰", 
     "keywords": [
       "food", 
@@ -1766,7 +1752,7 @@
     ]
   }, 
   "camel": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐫", 
     "keywords": [
       "hot", 
@@ -1783,7 +1769,7 @@
       "gadget"
     ]
   }, 
-  "camera with flash": {
+  "camera_with_flash": {
     "category": "objects", 
     "char": "📸", 
     "keywords": [
@@ -1798,7 +1784,7 @@
     "keywords": []
   }, 
   "camping": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏕", 
     "keywords": [
       "photo", 
@@ -1841,7 +1827,7 @@
     ]
   }, 
   "candy": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍬", 
     "keywords": [
       "snack", 
@@ -1849,7 +1835,7 @@
       "sweet"
     ]
   }, 
-  "capital abcd": {
+  "capital_abcd": {
     "category": "symbols", 
     "char": "🔠", 
     "keywords": [
@@ -1871,7 +1857,7 @@
     ]
   }, 
   "car": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚗", 
     "keywords": [
       "red", 
@@ -1879,7 +1865,7 @@
       "vehicle"
     ]
   }, 
-  "card file box": {
+  "card_file_box": {
     "category": "objects", 
     "char": "🗃", 
     "keywords": [
@@ -1887,7 +1873,7 @@
       "stationery"
     ]
   }, 
-  "card index": {
+  "card_index": {
     "category": "objects", 
     "char": "📇", 
     "keywords": [
@@ -1895,19 +1881,18 @@
       "stationery"
     ]
   }, 
-  "card index dividers": {
+  "card_index_dividers": {
     "category": "objects", 
     "char": "🗂", 
     "keywords": [
       "organizing", 
       "business", 
       "stationery", 
-      "divider", 
       "organize"
     ]
   }, 
-  "carousel horse": {
-    "category": "travel and places", 
+  "carousel_horse": {
+    "category": "travel_and_places", 
     "char": "🎠", 
     "keywords": [
       "photo", 
@@ -1915,7 +1900,7 @@
     ]
   }, 
   "cat": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐱", 
     "keywords": [
       "meow", 
@@ -1924,7 +1909,7 @@
     ]
   }, 
   "cat2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐈", 
     "keywords": [
       "meow", 
@@ -1980,10 +1965,10 @@
       "graph", 
       "presentation", 
       "stats", 
-      "birth rate"
+      "birth_rate"
     ]
   }, 
-  "chart with downwards trend": {
+  "chart_with_downwards_trend": {
     "category": "objects", 
     "char": "📉", 
     "keywords": [
@@ -2001,7 +1986,7 @@
       "sale"
     ]
   }, 
-  "chart with upwards trend": {
+  "chart_with_upwards_trend": {
     "category": "objects", 
     "char": "📈", 
     "keywords": [
@@ -2020,8 +2005,8 @@
       "sale"
     ]
   }, 
-  "checkered flag": {
-    "category": "travel and places", 
+  "checkered_flag": {
+    "category": "travel_and_places", 
     "char": "🏁", 
     "keywords": [
       "contest", 
@@ -2030,8 +2015,8 @@
       "gokart"
     ]
   }, 
-  "cheese wedge": {
-    "category": "food and drink", 
+  "cheese_wedge": {
+    "category": "food_and_drink", 
     "char": "🧀", 
     "keywords": [
       "food", 
@@ -2039,7 +2024,7 @@
     ]
   }, 
   "cherries": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍒", 
     "keywords": [
       "food", 
@@ -2047,8 +2032,8 @@
       "cherry"
     ]
   }, 
-  "cherry blossom": {
-    "category": "animals and nature", 
+  "cherry_blossom": {
+    "category": "animals_and_nature", 
     "char": "🌸", 
     "keywords": [
       "plant", 
@@ -2057,7 +2042,7 @@
     ]
   }, 
   "chestnut": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌰", 
     "keywords": [
       "food", 
@@ -2065,7 +2050,7 @@
     ]
   }, 
   "chicken": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐔", 
     "keywords": [
       "cluck", 
@@ -2073,18 +2058,15 @@
       "egg"
     ]
   }, 
-  "children crossing": {
+  "children_crossing": {
     "category": "symbols", 
     "char": "🚸", 
     "keywords": [
       "school", 
       "warning", 
-      "danger", 
       "sign", 
       "driving", 
       "yellow-diamond", 
-      "child", 
-      "cross", 
       "warn", 
       "drive"
     ]
@@ -2105,14 +2087,14 @@
     ]
   }, 
   "chipmunk": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐿", 
     "keywords": [
       "rodent"
     ]
   }, 
-  "chocolate bar": {
-    "category": "food and drink", 
+  "chocolate_bar": {
+    "category": "food_and_drink", 
     "char": "🍫", 
     "keywords": [
       "food", 
@@ -2126,8 +2108,8 @@
     "char": "🇨🇽", 
     "keywords": []
   }, 
-  "christmas tree": {
-    "category": "animals and nature", 
+  "christmas_tree": {
+    "category": "animals_and_nature", 
     "char": "🎄", 
     "keywords": [
       "christmas", 
@@ -2139,7 +2121,7 @@
     ]
   }, 
   "church": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛪", 
     "keywords": [
       "building", 
@@ -2160,7 +2142,7 @@
       "theater"
     ]
   }, 
-  "circus tent": {
+  "circus_tent": {
     "category": "activity", 
     "char": "🎪", 
     "keywords": [
@@ -2169,8 +2151,8 @@
       "party"
     ]
   }, 
-  "city sunrise": {
-    "category": "travel and places", 
+  "city_sunrise": {
+    "category": "travel_and_places", 
     "char": "🌇", 
     "keywords": [
       "photo", 
@@ -2178,8 +2160,8 @@
       "dawn"
     ]
   }, 
-  "city sunset": {
-    "category": "travel and places", 
+  "city_sunset": {
+    "category": "travel_and_places", 
     "char": "🌆", 
     "keywords": [
       "photo", 
@@ -2191,7 +2173,7 @@
     ]
   }, 
   "cityscape": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏙", 
     "keywords": [
       "photo", 
@@ -2488,7 +2470,7 @@
       "schedule"
     ]
   }, 
-  "closed book": {
+  "closed_book": {
     "category": "objects", 
     "char": "📕", 
     "keywords": [
@@ -2496,11 +2478,10 @@
       "library", 
       "knowledge", 
       "textbook", 
-      "learn", 
-      "close"
+      "learn"
     ]
   }, 
-  "closed lock with key": {
+  "closed_lock_with_key": {
     "category": "objects", 
     "char": "🔐", 
     "keywords": [
@@ -2508,51 +2489,50 @@
       "privacy"
     ]
   }, 
-  "closed umbrella": {
+  "closed_umbrella": {
     "category": "people", 
     "char": "🌂", 
     "keywords": [
       "weather", 
       "rain", 
       "drizzle", 
-      "umbrella", 
-      "close"
+      "umbrella"
     ]
   }, 
   "cloud": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "☁️", 
     "keywords": [
       "weather", 
       "sky"
     ]
   }, 
-  "cloud with lightning": {
-    "category": "animals and nature", 
+  "cloud_with_lightning": {
+    "category": "animals_and_nature", 
     "char": "🌩", 
     "keywords": [
       "weather", 
       "thunder"
     ]
   }, 
-  "cloud with rain": {
-    "category": "animals and nature", 
+  "cloud_with_rain": {
+    "category": "animals_and_nature", 
     "char": "🌧", 
     "keywords": [
       "weather", 
       "rainy"
     ]
   }, 
-  "cloud with snow": {
-    "category": "animals and nature", 
+  "cloud_with_snow": {
+    "category": "animals_and_nature", 
     "char": "🌨", 
     "keywords": [
       "weather", 
       "rain and snow"
     ]
   }, 
-  "cloud with tornado": {
-    "category": "animals and nature", 
+  "cloud_with_tornado": {
+    "category": "animals_and_nature", 
     "char": "🌪", 
     "keywords": [
       "weather", 
@@ -2576,7 +2556,7 @@
     ]
   }, 
   "cocktail": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍸", 
     "keywords": [
       "drink", 
@@ -2599,7 +2579,7 @@
     ]
   }, 
   "coffee": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "☕", 
     "keywords": [
       "beverage", 
@@ -2623,7 +2603,7 @@
       "cemetery"
     ]
   }, 
-  "cold sweat": {
+  "cold_sweat": {
     "category": "people", 
     "char": "😰", 
     "keywords": [
@@ -2638,7 +2618,7 @@
     ]
   }, 
   "comet": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "☄", 
     "keywords": [
       "space", 
@@ -2668,7 +2648,7 @@
       "monitor"
     ]
   }, 
-  "confetti ball": {
+  "confetti_ball": {
     "category": "objects", 
     "char": "🎊", 
     "keywords": [
@@ -2712,7 +2692,7 @@
     ]
   }, 
   "construction": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚧", 
     "keywords": [
       "wip", 
@@ -2722,7 +2702,7 @@
       "warn"
     ]
   }, 
-  "construction worker": {
+  "construction_worker": {
     "category": "people", 
     "char": "👷", 
     "keywords": [
@@ -2733,16 +2713,15 @@
       "build"
     ]
   }, 
-  "control knobs": {
+  "control_knobs": {
     "category": "objects", 
     "char": "🎛", 
     "keywords": [
-      "dial", 
-      "knob"
+      "dial"
     ]
   }, 
-  "convenience store": {
-    "category": "travel and places", 
+  "convenience_store": {
+    "category": "travel_and_places", 
     "char": "🏪", 
     "keywords": [
       "building", 
@@ -2759,7 +2738,7 @@
     ]
   }, 
   "cookie": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍪", 
     "keywords": [
       "food", 
@@ -2804,7 +2783,7 @@
     ]
   }, 
   "corn": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🌽", 
     "keywords": [
       "food", 
@@ -2820,7 +2799,7 @@
       "rica"
     ]
   }, 
-  "couch and lamp": {
+  "couch_and_lamp": {
     "category": "objects", 
     "char": "🛋", 
     "keywords": [
@@ -2847,7 +2826,7 @@
       "valentine"
     ]
   }, 
-  "couple with heart": {
+  "couple_with_heart": {
     "category": "people", 
     "char": "💑", 
     "keywords": [
@@ -2878,7 +2857,7 @@
     ]
   }, 
   "cow": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐮", 
     "keywords": [
       "beef", 
@@ -2889,7 +2868,7 @@
     ]
   }, 
   "cow2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐄", 
     "keywords": [
       "beef", 
@@ -2899,13 +2878,13 @@
     ]
   }, 
   "crab": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🦀", 
     "keywords": [
       "crustacean"
     ]
   }, 
-  "credit card": {
+  "credit_card": {
     "category": "objects", 
     "char": "💳", 
     "keywords": [
@@ -2918,8 +2897,8 @@
       "sale"
     ]
   }, 
-  "crescent moon": {
-    "category": "animals and nature", 
+  "crescent_moon": {
+    "category": "animals_and_nature", 
     "char": "🌙", 
     "keywords": [
       "night", 
@@ -2927,7 +2906,7 @@
       "sky", 
       "evening", 
       "magic", 
-      "good night", 
+      "good_night", 
       "even"
     ]
   }, 
@@ -2947,32 +2926,28 @@
     ]
   }, 
   "crocodile": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐊", 
     "keywords": [
       "reptile", 
       "alligator"
     ]
   }, 
-  "crossed flags": {
+  "crossed_flags": {
     "category": "objects", 
     "char": "🎌", 
     "keywords": [
       "japanese", 
       "nation", 
       "country", 
-      "border", 
-      "cross", 
-      "flag"
+      "border"
     ]
   }, 
-  "crossed swords": {
+  "crossed_swords": {
     "category": "objects", 
     "char": "⚔", 
     "keywords": [
-      "weapon", 
-      "cross", 
-      "sword"
+      "weapon"
     ]
   }, 
   "crown": {
@@ -3000,7 +2975,7 @@
       "tear"
     ]
   }, 
-  "crying cat face": {
+  "crying_cat_face": {
     "category": "people", 
     "char": "😿", 
     "keywords": [
@@ -3009,12 +2984,11 @@
       "sad", 
       "cats", 
       "upset", 
-      "cry", 
       "tear", 
       "cat"
     ]
   }, 
-  "crystal ball": {
+  "crystal_ball": {
     "category": "objects", 
     "char": "🔮", 
     "keywords": [
@@ -3022,7 +2996,7 @@
       "party", 
       "magic", 
       "circus", 
-      "fortune teller"
+      "fortune_teller"
     ]
   }, 
   "cuba": {
@@ -3042,9 +3016,9 @@
       "affection", 
       "valentines", 
       "cupid", 
-      "heart pain", 
+      "heart_pain", 
       "lovestruck", 
-      "love struck", 
+      "love_struck", 
       "valentine"
     ]
   }, 
@@ -3053,7 +3027,7 @@
     "char": "🇨🇼", 
     "keywords": []
   }, 
-  "curly loop": {
+  "curly_loop": {
     "category": "symbols", 
     "char": "➰", 
     "keywords": [
@@ -3063,7 +3037,7 @@
       "squiggle"
     ]
   }, 
-  "currency exchange": {
+  "currency_exchange": {
     "category": "symbols", 
     "char": "💱", 
     "keywords": [
@@ -3075,7 +3049,7 @@
     ]
   }, 
   "curry": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍛", 
     "keywords": [
       "food", 
@@ -3085,7 +3059,7 @@
     ]
   }, 
   "custard": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍮", 
     "keywords": [
       "dessert", 
@@ -3130,14 +3104,13 @@
       "czech"
     ]
   }, 
-  "dagger knife": {
+  "dagger_knife": {
     "category": "objects", 
     "char": "🗡", 
     "keywords": [
       "weapon", 
-      "hidden weapon", 
-      "concealed weapon", 
-      "conceal"
+      "hidden_weapon", 
+      "concealed_weapon"
     ]
   }, 
   "dancer": {
@@ -3167,7 +3140,7 @@
     ]
   }, 
   "dango": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍡", 
     "keywords": [
       "food", 
@@ -3175,14 +3148,13 @@
       "meat"
     ]
   }, 
-  "dark sunglasses": {
+  "dark_sunglasses": {
     "category": "people", 
     "char": "🕶", 
     "keywords": [
       "cool", 
       "accessories", 
       "sunny", 
-      "sunglass", 
       "accessory"
     ]
   }, 
@@ -3195,7 +3167,7 @@
     ]
   }, 
   "dash": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "💨", 
     "keywords": [
       "wind", 
@@ -3215,8 +3187,8 @@
       "schedule"
     ]
   }, 
-  "deciduous tree": {
-    "category": "animals and nature", 
+  "deciduous_tree": {
+    "category": "animals_and_nature", 
     "char": "🌳", 
     "keywords": [
       "plant", 
@@ -3232,8 +3204,8 @@
       "danish"
     ]
   }, 
-  "department store": {
-    "category": "travel and places", 
+  "department_store": {
+    "category": "travel_and_places", 
     "char": "🏬", 
     "keywords": [
       "building", 
@@ -3241,8 +3213,8 @@
       "mall"
     ]
   }, 
-  "derelict house": {
-    "category": "travel and places", 
+  "derelict_house": {
+    "category": "travel_and_places", 
     "char": "🏚", 
     "keywords": [
       "abandon", 
@@ -3252,7 +3224,7 @@
     ]
   }, 
   "desert": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏜", 
     "keywords": [
       "photo", 
@@ -3260,8 +3232,8 @@
       "saharah"
     ]
   }, 
-  "desert island": {
-    "category": "travel and places", 
+  "desert_island": {
+    "category": "travel_and_places", 
     "char": "🏝", 
     "keywords": [
       "photo", 
@@ -3269,7 +3241,7 @@
       "mojito"
     ]
   }, 
-  "desktop computer": {
+  "desktop_computer": {
     "category": "objects", 
     "char": "🖥", 
     "keywords": [
@@ -3292,7 +3264,7 @@
       "demon"
     ]
   }, 
-  "diamond shape with a dot inside": {
+  "diamond_shape_with_a_dot_inside": {
     "category": "symbols", 
     "char": "💠", 
     "keywords": [
@@ -3325,34 +3297,30 @@
       "depressed", 
       ":(", 
       "disappointed", 
-      "feels down", 
-      "feel"
+      "feels_down"
     ]
   }, 
-  "disappointed relieved": {
+  "disappointed_relieved": {
     "category": "people", 
     "char": "😥", 
     "keywords": [
       "phew", 
       "sweat", 
-      "nervous", 
-      "disappoint", 
-      "relieve"
+      "nervous"
     ]
   }, 
   "dizzy": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "💫", 
     "keywords": [
       "star", 
       "sparkle", 
       "shoot", 
       "magic", 
-      "falling star", 
-      "fall"
+      "falling_star"
     ]
   }, 
-  "dizzy face": {
+  "dizzy_face": {
     "category": "people", 
     "char": "😵", 
     "keywords": [
@@ -3366,7 +3334,7 @@
     "char": "🇩🇯", 
     "keywords": []
   }, 
-  "do not litter": {
+  "do_not_litter": {
     "category": "symbols", 
     "char": "🚯", 
     "keywords": [
@@ -3374,12 +3342,12 @@
       "bin", 
       "garbage", 
       "circle", 
-      "do not litter", 
+      "do_not_litter", 
       "litter"
     ]
   }, 
   "dog": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐶", 
     "keywords": [
       "friend", 
@@ -3392,7 +3360,7 @@
     ]
   }, 
   "dog2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐕", 
     "keywords": [
       "friend", 
@@ -3426,7 +3394,7 @@
     ]
   }, 
   "dolphin": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐬", 
     "keywords": [
       "fish", 
@@ -3460,7 +3428,7 @@
       "exit"
     ]
   }, 
-  "double vertical bar": {
+  "double_vertical_bar": {
     "category": "symbols", 
     "char": "⏸", 
     "keywords": [
@@ -3469,7 +3437,7 @@
     ]
   }, 
   "doughnut": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍩", 
     "keywords": [
       "food", 
@@ -3479,8 +3447,8 @@
       "donut"
     ]
   }, 
-  "dove of peace": {
-    "category": "animals and nature", 
+  "dove_of_peace": {
+    "category": "animals_and_nature", 
     "char": "🕊", 
     "keywords": [
       "bird", 
@@ -3489,7 +3457,7 @@
     ]
   }, 
   "dragon": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐉", 
     "keywords": [
       "myth", 
@@ -3498,8 +3466,8 @@
       "green"
     ]
   }, 
-  "dragon face": {
-    "category": "animals and nature", 
+  "dragon_face": {
+    "category": "animals_and_nature", 
     "char": "🐲", 
     "keywords": [
       "myth", 
@@ -3528,8 +3496,8 @@
       "dress up"
     ]
   }, 
-  "dromedary camel": {
-    "category": "animals and nature", 
+  "dromedary_camel": {
+    "category": "animals_and_nature", 
     "char": "🐪", 
     "keywords": [
       "hot", 
@@ -3539,7 +3507,7 @@
     ]
   }, 
   "droplet": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "💧", 
     "keywords": [
       "water", 
@@ -3566,8 +3534,8 @@
       "listen"
     ]
   }, 
-  "ear of rice": {
-    "category": "animals and nature", 
+  "ear_of_rice": {
+    "category": "animals_and_nature", 
     "char": "🌾", 
     "keywords": [
       "plant", 
@@ -3575,8 +3543,8 @@
       "grain"
     ]
   }, 
-  "earth africa": {
-    "category": "animals and nature", 
+  "earth_africa": {
+    "category": "animals_and_nature", 
     "char": "🌍", 
     "keywords": [
       "globe", 
@@ -3585,20 +3553,19 @@
       "Africa"
     ]
   }, 
-  "earth americas": {
-    "category": "animals and nature", 
+  "earth_americas": {
+    "category": "animals_and_nature", 
     "char": "🌎", 
     "keywords": [
       "globe", 
       "world", 
       "international", 
       "Americas", 
-      "USA", 
-      "america"
+      "USA"
     ]
   }, 
-  "earth asia": {
-    "category": "animals and nature", 
+  "earth_asia": {
+    "category": "animals_and_nature", 
     "char": "🌏", 
     "keywords": [
       "globe", 
@@ -3616,7 +3583,7 @@
     ]
   }, 
   "egg": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍳", 
     "keywords": [
       "food", 
@@ -3625,7 +3592,7 @@
     ]
   }, 
   "eggplant": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍆", 
     "keywords": [
       "vegetable", 
@@ -3650,18 +3617,17 @@
       "number"
     ]
   }, 
-  "eight pointed black star": {
+  "eight_pointed_black_star": {
     "category": "symbols", 
     "char": "✴️", 
     "keywords": [
       "orange-square", 
       "shape", 
       "polygon", 
-      "black hole", 
-      "point"
+      "black_hole"
     ]
   }, 
-  "eight spoked asterisk": {
+  "eight_spoked_asterisk": {
     "category": "symbols", 
     "char": "✳️", 
     "keywords": [
@@ -3678,7 +3644,7 @@
       "salvador"
     ]
   }, 
-  "electric plug": {
+  "electric_plug": {
     "category": "objects", 
     "char": "🔌", 
     "keywords": [
@@ -3687,7 +3653,7 @@
     ]
   }, 
   "elephant": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐘", 
     "keywords": [
       "nose", 
@@ -3723,7 +3689,7 @@
       "communication"
     ]
   }, 
-  "envelope with arrow": {
+  "envelope_with_arrow": {
     "category": "objects", 
     "char": "📩", 
     "keywords": [
@@ -3777,25 +3743,25 @@
       "sale"
     ]
   }, 
-  "european castle": {
-    "category": "travel and places", 
+  "european_castle": {
+    "category": "travel_and_places", 
     "char": "🏰", 
     "keywords": [
       "building", 
       "royalty", 
-      "historical monument"
+      "historical_monument"
     ]
   }, 
-  "european post office": {
-    "category": "travel and places", 
+  "european_post_office": {
+    "category": "travel_and_places", 
     "char": "🏤", 
     "keywords": [
       "building", 
       "email"
     ]
   }, 
-  "evergreen tree": {
-    "category": "animals and nature", 
+  "evergreen_tree": {
+    "category": "animals_and_nature", 
     "char": "🌲", 
     "keywords": [
       "plant", 
@@ -3811,8 +3777,7 @@
     "category": "symbols", 
     "char": "❗", 
     "keywords": [
-      "heavy exclamation mark", 
-      "danger", 
+      "heavy_exclamation_mark", 
       "surprise", 
       "punctuation", 
       "wow", 
@@ -3826,7 +3791,7 @@
     "keywords": [
       "face", 
       "indifferent", 
-      "- -", 
+      "-_-", 
       "meh"
     ]
   }, 
@@ -3880,11 +3845,11 @@
       "attack", 
       "hand", 
       "pound", 
-      "pound it"
+      "pound_it"
     ]
   }, 
   "factory": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏭", 
     "keywords": [
       "building", 
@@ -3902,17 +3867,16 @@
       "island"
     ]
   }, 
-  "fallen leaf": {
-    "category": "animals and nature", 
+  "fallen_leaf": {
+    "category": "animals_and_nature", 
     "char": "🍂", 
     "keywords": [
       "nature", 
       "plant", 
       "vegetable", 
       "leaves", 
-      "yellow leaf", 
+      "yellow_leaf", 
       "autumn", 
-      "fall", 
       "leaf"
     ]
   }, 
@@ -3932,7 +3896,7 @@
       "child"
     ]
   }, 
-  "family man woman boys": {
+  "family_man_woman_boys": {
     "category": "people", 
     "char": "👨‍👩‍👦‍👦", 
     "keywords": [
@@ -3943,7 +3907,7 @@
       "child"
     ]
   }, 
-  "family man woman girl": {
+  "family_man_woman_girl": {
     "category": "people", 
     "char": "👨‍👩‍👧", 
     "keywords": [
@@ -3953,7 +3917,7 @@
       "parent"
     ]
   }, 
-  "family man woman girl boy": {
+  "family_man_woman_girl_boy": {
     "category": "people", 
     "char": "👨‍👩‍👧‍👦", 
     "keywords": [
@@ -3964,19 +3928,18 @@
       "child"
     ]
   }, 
-  "family man woman girls": {
+  "family_man_woman_girls": {
     "category": "people", 
     "char": "👨‍👩‍👧‍👧", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "girl", 
       "parent", 
       "child"
     ]
   }, 
-  "family men boy": {
+  "family_men_boy": {
     "category": "people", 
     "char": "👨‍👨‍👦", 
     "keywords": [
@@ -3987,19 +3950,18 @@
       "child"
     ]
   }, 
-  "family men boys": {
+  "family_men_boys": {
     "category": "people", 
     "char": "👨‍👨‍👦‍👦", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "boy", 
       "parent", 
       "child"
     ]
   }, 
-  "family men girl": {
+  "family_men_girl": {
     "category": "people", 
     "char": "👨‍👨‍👧", 
     "keywords": [
@@ -4010,7 +3972,7 @@
       "child"
     ]
   }, 
-  "family men girl boy": {
+  "family_men_girl_boy": {
     "category": "people", 
     "char": "👨‍👨‍👧‍👦", 
     "keywords": [
@@ -4021,76 +3983,68 @@
       "child"
     ]
   }, 
-  "family men girls": {
+  "family_men_girls": {
     "category": "people", 
     "char": "👨‍👨‍👧‍👧", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "girl", 
       "parent", 
       "child"
     ]
   }, 
-  "family women boy": {
+  "family_women_boy": {
     "category": "people", 
     "char": "👩‍👩‍👦", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "woman", 
       "parent", 
       "child"
     ]
   }, 
-  "family women boys": {
+  "family_women_boys": {
     "category": "people", 
     "char": "👩‍👩‍👦‍👦", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "woman", 
-      "boy", 
       "parent", 
       "child"
     ]
   }, 
-  "family women girl": {
+  "family_women_girl": {
     "category": "people", 
     "char": "👩‍👩‍👧", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "woman", 
       "parent", 
       "child"
     ]
   }, 
-  "family women girl boy": {
+  "family_women_girl_boy": {
     "category": "people", 
     "char": "👩‍👩‍👧‍👦", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "woman", 
       "parent", 
       "child"
     ]
   }, 
-  "family women girls": {
+  "family_women_girls": {
     "category": "people", 
     "char": "👩‍👩‍👧‍👧", 
     "keywords": [
       "home", 
       "parents", 
       "children", 
-      "woman", 
-      "girl", 
       "parent", 
       "child"
     ]
@@ -4103,7 +4057,7 @@
       "island"
     ]
   }, 
-  "fast forward": {
+  "fast_forward": {
     "category": "symbols", 
     "char": "⏩", 
     "keywords": [
@@ -4136,7 +4090,7 @@
     ]
   }, 
   "feet": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐾", 
     "keywords": [
       "tracking", 
@@ -4144,14 +4098,13 @@
       "dog", 
       "cat", 
       "pet", 
-      "paw prints", 
+      "paw_prints", 
       "foot", 
       "track", 
-      "footprint", 
-      "print"
+      "footprint"
     ]
   }, 
-  "female couple with heart": {
+  "female_couple_with_heart": {
     "category": "people", 
     "char": "👩‍❤️‍👩", 
     "keywords": [
@@ -4166,7 +4119,7 @@
       "valentine"
     ]
   }, 
-  "female couplekiss": {
+  "female_couplekiss": {
     "category": "people", 
     "char": "👩‍❤️‍💋‍👩", 
     "keywords": [
@@ -4181,8 +4134,8 @@
       "date"
     ]
   }, 
-  "ferris wheel": {
-    "category": "travel and places", 
+  "ferris_wheel": {
+    "category": "travel_and_places", 
     "char": "🎡", 
     "keywords": [
       "photo", 
@@ -4191,7 +4144,7 @@
     ]
   }, 
   "ferry": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛴", 
     "keywords": [
       "boat", 
@@ -4199,7 +4152,7 @@
       "yacht"
     ]
   }, 
-  "field hockey": {
+  "field_hockey": {
     "category": "activity", 
     "char": "🏑", 
     "keywords": [
@@ -4214,7 +4167,7 @@
       "fijian"
     ]
   }, 
-  "file cabinet": {
+  "file_cabinet": {
     "category": "objects", 
     "char": "🗄", 
     "keywords": [
@@ -4223,7 +4176,7 @@
       "organize"
     ]
   }, 
-  "file folder": {
+  "file_folder": {
     "category": "objects", 
     "char": "📁", 
     "keywords": [
@@ -4233,15 +4186,14 @@
       "document"
     ]
   }, 
-  "film frames": {
+  "film_frames": {
     "category": "objects", 
     "char": "🎞", 
     "keywords": [
-      "movie", 
-      "frame"
+      "movie"
     ]
   }, 
-  "film projector": {
+  "film_projector": {
     "category": "objects", 
     "char": "📽", 
     "keywords": [
@@ -4259,7 +4211,7 @@
     ]
   }, 
   "fire": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🔥", 
     "keywords": [
       "hot", 
@@ -4268,8 +4220,8 @@
       "wildfire"
     ]
   }, 
-  "fire engine": {
-    "category": "travel and places", 
+  "fire_engine": {
+    "category": "travel_and_places", 
     "char": "🚒", 
     "keywords": [
       "transportation", 
@@ -4279,7 +4231,7 @@
     ]
   }, 
   "fireworks": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🎆", 
     "keywords": [
       "photo", 
@@ -4290,8 +4242,8 @@
       "congratulation"
     ]
   }, 
-  "first quarter moon": {
-    "category": "animals and nature", 
+  "first_quarter_moon": {
+    "category": "animals_and_nature", 
     "char": "🌓", 
     "keywords": [
       "twilight", 
@@ -4303,8 +4255,8 @@
       "even"
     ]
   }, 
-  "first quarter moon with face": {
-    "category": "animals and nature", 
+  "first_quarter_moon_with_face": {
+    "category": "animals_and_nature", 
     "char": "🌛", 
     "keywords": [
       "twilight", 
@@ -4317,7 +4269,7 @@
     ]
   }, 
   "fish": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐟", 
     "keywords": [
       "food", 
@@ -4327,8 +4279,8 @@
       "seafood"
     ]
   }, 
-  "fish cake": {
-    "category": "food and drink", 
+  "fish_cake": {
+    "category": "food_and_drink", 
     "char": "🍥", 
     "keywords": [
       "food", 
@@ -4337,7 +4289,7 @@
       "beach"
     ]
   }, 
-  "fishing pole and fish": {
+  "fishing_pole_and_fish": {
     "category": "activity", 
     "char": "🎣", 
     "keywords": [
@@ -4390,17 +4342,16 @@
       "camp"
     ]
   }, 
-  "fleur de lis": {
+  "fleur_de_lis": {
     "category": "symbols", 
     "char": "⚜", 
     "keywords": [
       "decorative", 
       "scout", 
-      "France", 
-      "li"
+      "France"
     ]
   }, 
-  "floppy disk": {
+  "floppy_disk": {
     "category": "objects", 
     "char": "💾", 
     "keywords": [
@@ -4413,14 +4364,13 @@
       "80"
     ]
   }, 
-  "flower playing cards": {
+  "flower_playing_cards": {
     "category": "symbols", 
     "char": "🎴", 
     "keywords": [
       "game", 
       "sunset", 
-      "red", 
-      "card"
+      "red"
     ]
   }, 
   "flushed": {
@@ -4438,7 +4388,7 @@
     ]
   }, 
   "fog": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌫", 
     "keywords": [
       "weather", 
@@ -4447,7 +4397,7 @@
     ]
   }, 
   "foggy": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🌁", 
     "keywords": [
       "photo", 
@@ -4484,16 +4434,16 @@
       "step"
     ]
   }, 
-  "fork and knife": {
-    "category": "food and drink", 
+  "fork_and_knife": {
+    "category": "food_and_drink", 
     "char": "🍴", 
     "keywords": [
       "cutlery", 
       "kitchen"
     ]
   }, 
-  "fork and knife with plate": {
-    "category": "food and drink", 
+  "fork_and_knife_with_plate": {
+    "category": "food_and_drink", 
     "char": "🍽", 
     "keywords": [
       "food", 
@@ -4505,7 +4455,7 @@
     ]
   }, 
   "fountain": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛲", 
     "keywords": [
       "photo", 
@@ -4524,8 +4474,8 @@
       "number"
     ]
   }, 
-  "four leaf clover": {
-    "category": "animals and nature", 
+  "four_leaf_clover": {
+    "category": "animals_and_nature", 
     "char": "🍀", 
     "keywords": [
       "vegetable", 
@@ -4535,7 +4485,7 @@
       "happiness"
     ]
   }, 
-  "frame with picture": {
+  "frame_with_picture": {
     "category": "objects", 
     "char": "🖼", 
     "keywords": [
@@ -4580,18 +4530,17 @@
       "territory"
     ]
   }, 
-  "fried shrimp": {
-    "category": "food and drink", 
+  "fried_shrimp": {
+    "category": "food_and_drink", 
     "char": "🍤", 
     "keywords": [
       "food", 
       "appetizer", 
-      "summer", 
-      "fry"
+      "summer"
     ]
   }, 
   "fries": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍟", 
     "keywords": [
       "chips", 
@@ -4602,7 +4551,7 @@
     ]
   }, 
   "frog": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐸", 
     "keywords": [
       "ribbit", 
@@ -4622,16 +4571,16 @@
     ]
   }, 
   "fuelpump": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛽", 
     "keywords": [
-      "gas station", 
+      "gas_station", 
       "petroleum", 
       "oil"
     ]
   }, 
-  "full moon": {
-    "category": "animals and nature", 
+  "full_moon": {
+    "category": "animals_and_nature", 
     "char": "🌕", 
     "keywords": [
       "yellow", 
@@ -4644,8 +4593,8 @@
       "even"
     ]
   }, 
-  "full moon with face": {
-    "category": "animals and nature", 
+  "full_moon_with_face": {
+    "category": "animals_and_nature", 
     "char": "🌝", 
     "keywords": [
       "twilight", 
@@ -4657,7 +4606,7 @@
       "even"
     ]
   }, 
-  "funeral urn": {
+  "funeral_urn": {
     "category": "objects", 
     "char": "⚱", 
     "keywords": [
@@ -4681,7 +4630,7 @@
       "gambian"
     ]
   }, 
-  "game die": {
+  "game_die": {
     "category": "activity", 
     "char": "🎲", 
     "keywords": [
@@ -4762,7 +4711,7 @@
       "xmas"
     ]
   }, 
-  "gift heart": {
+  "gift_heart": {
     "category": "symbols", 
     "char": "💝", 
     "keywords": [
@@ -4784,7 +4733,7 @@
       "friend"
     ]
   }, 
-  "globe with meridians": {
+  "globe_with_meridians": {
     "category": "symbols", 
     "char": "🌐", 
     "keywords": [
@@ -4793,12 +4742,11 @@
       "world", 
       "internet", 
       "interweb", 
-      "i18n", 
-      "meridian"
+      "i18n"
     ]
   }, 
   "goat": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐐", 
     "keywords": []
   }, 
@@ -4824,7 +4772,7 @@
     ]
   }, 
   "grapes": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍇", 
     "keywords": [
       "fruit", 
@@ -4841,16 +4789,16 @@
       "athens"
     ]
   }, 
-  "green apple": {
-    "category": "food and drink", 
+  "green_apple": {
+    "category": "food_and_drink", 
     "char": "🍏", 
     "keywords": [
       "fruit", 
       "apple", 
-      "sour apple"
+      "sour_apple"
     ]
   }, 
-  "green book": {
+  "green_book": {
     "category": "objects", 
     "char": "📗", 
     "keywords": [
@@ -4860,7 +4808,7 @@
       "study"
     ]
   }, 
-  "green heart": {
+  "green_heart": {
     "category": "symbols", 
     "char": "💚", 
     "keywords": [
@@ -4882,7 +4830,7 @@
     "char": "🇬🇩", 
     "keywords": []
   }, 
-  "grey exclamation": {
+  "grey_exclamation": {
     "category": "symbols", 
     "char": "❕", 
     "keywords": [
@@ -4891,11 +4839,11 @@
       "gray", 
       "wow", 
       "warning", 
-      "somewhat important", 
+      "somewhat_important", 
       "warn"
     ]
   }, 
-  "grey question": {
+  "grey_question": {
     "category": "symbols", 
     "char": "❔", 
     "keywords": [
@@ -5005,12 +4953,11 @@
       "bang", 
       "shoot", 
       "sniper", 
-      "school shooting", 
+      "school_shooting", 
       "shot", 
       "NRA", 
-      "National Rifle Association", 
-      "gun control", 
-      "shoot"
+      "National_Rifle_Association", 
+      "gun_control"
     ]
   }, 
   "guyana": {
@@ -5036,7 +4983,7 @@
     ]
   }, 
   "hamburger": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍔", 
     "keywords": [
       "meat", 
@@ -5057,7 +5004,7 @@
       "tool"
     ]
   }, 
-  "hammer and pick": {
+  "hammer_and_pick": {
     "category": "objects", 
     "char": "⚒", 
     "keywords": [
@@ -5067,7 +5014,7 @@
       "tool"
     ]
   }, 
-  "hammer and wrench": {
+  "hammer_and_wrench": {
     "category": "objects", 
     "char": "🛠", 
     "keywords": [
@@ -5078,7 +5025,7 @@
     ]
   }, 
   "hamster": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐹", 
     "keywords": [
       "nibble", 
@@ -5095,9 +5042,8 @@
       "highfive", 
       "palm", 
       "ban", 
-      "raised hand", 
-      "finger", 
-      "raise"
+      "raised_hand", 
+      "finger"
     ]
   }, 
   "handbag": {
@@ -5120,26 +5066,24 @@
       "twitter"
     ]
   }, 
-  "hatched chick": {
-    "category": "animals and nature", 
+  "hatched_chick": {
+    "category": "animals_and_nature", 
     "char": "🐥", 
     "keywords": [
       "chicken", 
       "baby", 
-      "bird", 
-      "hatch"
+      "bird"
     ]
   }, 
-  "hatching chick": {
-    "category": "animals and nature", 
+  "hatching_chick": {
+    "category": "animals_and_nature", 
     "char": "🐣", 
     "keywords": [
       "chicken", 
       "egg", 
       "born", 
       "baby", 
-      "bird", 
-      "hatch"
+      "bird"
     ]
   }, 
   "headphones": {
@@ -5153,8 +5097,8 @@
       "gadget"
     ]
   }, 
-  "hear no evil": {
-    "category": "animals and nature", 
+  "hear_no_evil": {
+    "category": "animals_and_nature", 
     "char": "🙉", 
     "keywords": [
       "monkey", 
@@ -5180,7 +5124,7 @@
       "valentine"
     ]
   }, 
-  "heart decoration": {
+  "heart_decoration": {
     "category": "symbols", 
     "char": "💟", 
     "keywords": [
@@ -5191,7 +5135,7 @@
       "memory"
     ]
   }, 
-  "heart eyes": {
+  "heart_eyes": {
     "category": "people", 
     "char": "😍", 
     "keywords": [
@@ -5201,11 +5145,10 @@
       "valentines", 
       "infatuation", 
       "crush", 
-      "eye", 
       "valentine"
     ]
   }, 
-  "heart eyes cat": {
+  "heart_eyes_cat": {
     "category": "people", 
     "char": "😻", 
     "keywords": [
@@ -5214,7 +5157,6 @@
       "affection", 
       "cats", 
       "valentines", 
-      "eye", 
       "cat", 
       "valentine"
     ]
@@ -5228,7 +5170,7 @@
       "affection", 
       "valentines", 
       "pink", 
-      "in love", 
+      "in_love", 
       "valentine"
     ]
   }, 
@@ -5241,8 +5183,8 @@
       "affection", 
       "valentines", 
       "pink", 
-      "in love", 
-      "super love", 
+      "in_love", 
+      "super_love", 
       "valentine"
     ]
   }, 
@@ -5259,7 +5201,7 @@
       "suit"
     ]
   }, 
-  "heavy check mark": {
+  "heavy_check_mark": {
     "category": "symbols", 
     "char": "✔️", 
     "keywords": [
@@ -5270,7 +5212,7 @@
       "tick"
     ]
   }, 
-  "heavy division sign": {
+  "heavy_division_sign": {
     "category": "symbols", 
     "char": "➗", 
     "keywords": [
@@ -5279,7 +5221,7 @@
       "calculation"
     ]
   }, 
-  "heavy dollar sign": {
+  "heavy_dollar_sign": {
     "category": "symbols", 
     "char": "💲", 
     "keywords": [
@@ -5291,7 +5233,7 @@
       "sale"
     ]
   }, 
-  "heavy heart exclamation mark ornament": {
+  "heavy_heart_exclamation_mark_ornament": {
     "category": "symbols", 
     "char": "❣", 
     "keywords": [
@@ -5299,7 +5241,7 @@
       "love"
     ]
   }, 
-  "heavy minus sign": {
+  "heavy_minus_sign": {
     "category": "symbols", 
     "char": "➖", 
     "keywords": [
@@ -5309,7 +5251,7 @@
       "less"
     ]
   }, 
-  "heavy multiplication x": {
+  "heavy_multiplication_x": {
     "category": "symbols", 
     "char": "✖️", 
     "keywords": [
@@ -5317,7 +5259,7 @@
       "calculation"
     ]
   }, 
-  "heavy plus sign": {
+  "heavy_plus_sign": {
     "category": "symbols", 
     "char": "➕", 
     "keywords": [
@@ -5329,7 +5271,7 @@
     ]
   }, 
   "helicopter": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚁", 
     "keywords": [
       "transportation", 
@@ -5348,7 +5290,7 @@
     ]
   }, 
   "herb": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌿", 
     "keywords": [
       "vegetable", 
@@ -5360,7 +5302,7 @@
     ]
   }, 
   "hibiscus": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌺", 
     "keywords": [
       "plant", 
@@ -5370,7 +5312,7 @@
       "flower"
     ]
   }, 
-  "high brightness": {
+  "high_brightness": {
     "category": "symbols", 
     "char": "🔆", 
     "keywords": [
@@ -5379,7 +5321,7 @@
       "bright"
     ]
   }, 
-  "high heel": {
+  "high_heel": {
     "category": "people", 
     "char": "👠", 
     "keywords": [
@@ -5416,8 +5358,8 @@
     "char": "🇭🇳", 
     "keywords": []
   }, 
-  "honey pot": {
-    "category": "food and drink", 
+  "honey_pot": {
+    "category": "food_and_drink", 
     "char": "🍯", 
     "keywords": [
       "bees", 
@@ -5435,13 +5377,13 @@
     ]
   }, 
   "horse": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐴", 
     "keywords": [
       "neigh"
     ]
   }, 
-  "horse racing": {
+  "horse_racing": {
     "category": "activity", 
     "char": "🏇", 
     "keywords": [
@@ -5454,7 +5396,7 @@
     ]
   }, 
   "hospital": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏥", 
     "keywords": [
       "building", 
@@ -5463,8 +5405,8 @@
       "doctor"
     ]
   }, 
-  "hot dog": {
-    "category": "food and drink", 
+  "hot_dog": {
+    "category": "food_and_drink", 
     "char": "🌭", 
     "keywords": [
       "food", 
@@ -5472,8 +5414,8 @@
       "hotdog"
     ]
   }, 
-  "hot pepper": {
-    "category": "food and drink", 
+  "hot_pepper": {
+    "category": "food_and_drink", 
     "char": "🌶", 
     "keywords": [
       "food", 
@@ -5481,7 +5423,7 @@
     ]
   }, 
   "hotel": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏨", 
     "keywords": [
       "building", 
@@ -5512,26 +5454,25 @@
       "test"
     ]
   }, 
-  "hourglass flowing sand": {
+  "hourglass_flowing_sand": {
     "category": "objects", 
     "char": "⏳", 
     "keywords": [
       "oldschool", 
       "time", 
-      "countdown", 
-      "flow"
+      "countdown"
     ]
   }, 
   "house": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏠", 
     "keywords": [
       "building", 
       "home"
     ]
   }, 
-  "house with garden": {
-    "category": "travel and places", 
+  "house_with_garden": {
+    "category": "travel_and_places", 
     "char": "🏡", 
     "keywords": [
       "home", 
@@ -5544,9 +5485,8 @@
     "keywords": [
       "embrace", 
       "hug", 
-      "jazz hands", 
-      "hug", 
-      "hand"
+      "jazz_hands", 
+      "hug"
     ]
   }, 
   "hungary": {
@@ -5565,8 +5505,8 @@
       "hush"
     ]
   }, 
-  "ice cream": {
-    "category": "food and drink", 
+  "ice_cream": {
+    "category": "food_and_drink", 
     "char": "🍨", 
     "keywords": [
       "food", 
@@ -5574,7 +5514,7 @@
       "dessert"
     ]
   }, 
-  "ice hockey": {
+  "ice_hockey": {
     "category": "activity", 
     "char": "🏒", 
     "keywords": [
@@ -5582,7 +5522,7 @@
       "sport"
     ]
   }, 
-  "ice skate": {
+  "ice_skate": {
     "category": "activity", 
     "char": "⛸", 
     "keywords": [
@@ -5591,7 +5531,7 @@
     ]
   }, 
   "icecream": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍦", 
     "keywords": [
       "food", 
@@ -5616,7 +5556,7 @@
       "word"
     ]
   }, 
-  "ideograph advantage": {
+  "ideograph_advantage": {
     "category": "symbols", 
     "char": "🉐", 
     "keywords": [
@@ -5637,7 +5577,7 @@
       "horn"
     ]
   }, 
-  "inbox tray": {
+  "inbox_tray": {
     "category": "objects", 
     "char": "📥", 
     "keywords": [
@@ -5646,7 +5586,7 @@
       "document"
     ]
   }, 
-  "incoming envelope": {
+  "incoming_envelope": {
     "category": "objects", 
     "char": "📨", 
     "keywords": [
@@ -5666,7 +5606,7 @@
     "char": "🇮🇩", 
     "keywords": []
   }, 
-  "information desk person": {
+  "information_desk_person": {
     "category": "people", 
     "char": "💁", 
     "keywords": [
@@ -5677,7 +5617,7 @@
       "hair flick"
     ]
   }, 
-  "information source": {
+  "information_source": {
     "category": "symbols", 
     "char": "ℹ️", 
     "keywords": [
@@ -5760,7 +5700,7 @@
     "char": "🇨🇮", 
     "keywords": []
   }, 
-  "izakaya lantern": {
+  "izakaya_lantern": {
     "category": "objects", 
     "char": "🏮", 
     "keywords": [
@@ -5770,8 +5710,8 @@
       "spooky"
     ]
   }, 
-  "jack o lantern": {
-    "category": "animals and nature", 
+  "jack_o_lantern": {
+    "category": "animals_and_nature", 
     "char": "🎃", 
     "keywords": [
       "halloween", 
@@ -5794,8 +5734,8 @@
       "japanese"
     ]
   }, 
-  "japanese castle": {
-    "category": "travel and places", 
+  "japanese_castle": {
+    "category": "travel_and_places", 
     "char": "🏯", 
     "keywords": [
       "photo", 
@@ -5840,7 +5780,7 @@
       "tear"
     ]
   }, 
-  "joy cat": {
+  "joy_cat": {
     "category": "people", 
     "char": "😹", 
     "keywords": [
@@ -5861,7 +5801,7 @@
     ]
   }, 
   "kaaba": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🕋", 
     "keywords": [
       "mecca", 
@@ -5901,14 +5841,14 @@
       "text"
     ]
   }, 
-  "keycap star": {
+  "keycap_star": {
     "category": "symbols", 
     "char": "*⃣", 
     "keywords": [
       "asterisk"
     ]
   }, 
-  "keycap ten": {
+  "keycap_ten": {
     "category": "symbols", 
     "char": "🔟", 
     "keywords": [
@@ -5961,16 +5901,15 @@
       "valentine"
     ]
   }, 
-  "kissing cat": {
+  "kissing_cat": {
     "category": "people", 
     "char": "😽", 
     "keywords": [
       "cats", 
-      "kiss", 
       "cat"
     ]
   }, 
-  "kissing closed eyes": {
+  "kissing_closed_eyes": {
     "category": "people", 
     "char": "😚", 
     "keywords": [
@@ -5979,13 +5918,10 @@
       "affection", 
       "valentines", 
       "infatuation", 
-      "kiss", 
-      "close", 
-      "eye", 
       "valentine"
     ]
   }, 
-  "kissing heart": {
+  "kissing_heart": {
     "category": "people", 
     "char": "😘", 
     "keywords": [
@@ -5995,25 +5931,21 @@
       "valentines", 
       "infatuation", 
       "kiss", 
-      "kiss", 
       "valentine"
     ]
   }, 
-  "kissing smiling eyes": {
+  "kissing_smiling_eyes": {
     "category": "people", 
     "char": "😙", 
     "keywords": [
       "affection", 
       "valentines", 
       "infatuation", 
-      "kiss", 
-      "smile", 
-      "eye", 
       "valentine"
     ]
   }, 
   "koala": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐨", 
     "keywords": [
       "Australia", 
@@ -6062,7 +5994,7 @@
       "lao"
     ]
   }, 
-  "large blue circle": {
+  "large_blue_circle": {
     "category": "symbols", 
     "char": "🔵", 
     "keywords": [
@@ -6071,7 +6003,7 @@
       "button"
     ]
   }, 
-  "large blue diamond": {
+  "large_blue_diamond": {
     "category": "symbols", 
     "char": "🔷", 
     "keywords": [
@@ -6080,7 +6012,7 @@
       "gem"
     ]
   }, 
-  "large orange diamond": {
+  "large_orange_diamond": {
     "category": "symbols", 
     "char": "🔶", 
     "keywords": [
@@ -6090,8 +6022,8 @@
       "orange"
     ]
   }, 
-  "last quarter moon": {
-    "category": "animals and nature", 
+  "last_quarter_moon": {
+    "category": "animals_and_nature", 
     "char": "🌗", 
     "keywords": [
       "twilight", 
@@ -6103,8 +6035,8 @@
       "even"
     ]
   }, 
-  "last quarter moon with face": {
-    "category": "animals and nature", 
+  "last_quarter_moon_with_face": {
+    "category": "animals_and_nature", 
     "char": "🌜", 
     "keywords": [
       "twilight", 
@@ -6116,7 +6048,7 @@
       "even"
     ]
   }, 
-  "latin cross": {
+  "latin_cross": {
     "category": "symbols", 
     "char": "✝", 
     "keywords": [
@@ -6148,7 +6080,7 @@
     ]
   }, 
   "leaves": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🍃", 
     "keywords": [
       "nature", 
@@ -6177,16 +6109,15 @@
       "note"
     ]
   }, 
-  "left luggage": {
+  "left_luggage": {
     "category": "symbols", 
     "char": "🛅", 
     "keywords": [
       "blue-square", 
-      "travel", 
-      "leave"
+      "travel"
     ]
   }, 
-  "left right arrow": {
+  "left_right_arrow": {
     "category": "symbols", 
     "char": "↔️", 
     "keywords": [
@@ -6196,7 +6127,7 @@
       "sideways"
     ]
   }, 
-  "left speech bubble": {
+  "left_speech_bubble": {
     "category": "symbols", 
     "char": "🗨", 
     "keywords": [
@@ -6204,12 +6135,11 @@
       "message", 
       "talk", 
       "chatting", 
-      "leave", 
       "word", 
       "chat"
     ]
   }, 
-  "leftwards arrow with hook": {
+  "leftwards_arrow_with_hook": {
     "category": "symbols", 
     "char": "↩️", 
     "keywords": [
@@ -6221,7 +6151,7 @@
     ]
   }, 
   "lemon": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍋", 
     "keywords": [
       "fruit", 
@@ -6240,7 +6170,7 @@
     ]
   }, 
   "leopard": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐆", 
     "keywords": [
       "spots", 
@@ -6254,7 +6184,7 @@
     "char": "🇱🇸", 
     "keywords": []
   }, 
-  "level slider": {
+  "level_slider": {
     "category": "objects", 
     "char": "🎚", 
     "keywords": [
@@ -6289,8 +6219,8 @@
     "char": "🇱🇮", 
     "keywords": []
   }, 
-  "light rail": {
-    "category": "travel and places", 
+  "light_rail": {
+    "category": "travel_and_places", 
     "char": "🚈", 
     "keywords": [
       "transportation", 
@@ -6306,19 +6236,17 @@
       "ring"
     ]
   }, 
-  "linked paperclips": {
+  "linked_paperclips": {
     "category": "objects", 
     "char": "🖇", 
     "keywords": [
       "documents", 
       "stationery", 
-      "link", 
-      "paperclip", 
       "document"
     ]
   }, 
-  "lion face": {
-    "category": "animals and nature", 
+  "lion_face": {
+    "category": "animals_and_nature", 
     "char": "🦁", 
     "keywords": [
       "lion", 
@@ -6361,7 +6289,7 @@
       "padlock"
     ]
   }, 
-  "lock with ink pen": {
+  "lock_with_ink_pen": {
     "category": "objects", 
     "char": "🔏", 
     "keywords": [
@@ -6370,7 +6298,7 @@
     ]
   }, 
   "lollipop": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍭", 
     "keywords": [
       "food", 
@@ -6387,7 +6315,7 @@
       "cassette"
     ]
   }, 
-  "loud sound": {
+  "loud_sound": {
     "category": "symbols", 
     "char": "🔊", 
     "keywords": [
@@ -6396,7 +6324,7 @@
       "noisy", 
       "speaker", 
       "broadcast", 
-      "volume up"
+      "volume_up"
     ]
   }, 
   "loudspeaker": {
@@ -6405,7 +6333,7 @@
     "keywords": [
       "volume", 
       "sound", 
-      "too loud", 
+      "too_loud", 
       "says", 
       "said", 
       "say", 
@@ -6413,8 +6341,8 @@
       "say"
     ]
   }, 
-  "love hotel": {
-    "category": "travel and places", 
+  "love_hotel": {
+    "category": "travel_and_places", 
     "char": "🏩", 
     "keywords": [
       "like", 
@@ -6423,7 +6351,7 @@
       "date"
     ]
   }, 
-  "love letter": {
+  "love_letter": {
     "category": "objects", 
     "char": "💌", 
     "keywords": [
@@ -6435,7 +6363,7 @@
       "valentine"
     ]
   }, 
-  "low brightness": {
+  "low_brightness": {
     "category": "symbols", 
     "char": "🔅", 
     "keywords": [
@@ -6443,53 +6371,45 @@
       "afternoon", 
       "warm", 
       "summer", 
-      "small light"
+      "small_light"
     ]
   }, 
-  "lower left ballpoint pen": {
+  "lower_left_ballpoint_pen": {
     "category": "objects", 
     "char": "🖊", 
     "keywords": [
       "stationery", 
       "writing", 
       "write", 
-      "low", 
-      "leave", 
       "write"
     ]
   }, 
-  "lower left crayon": {
+  "lower_left_crayon": {
     "category": "objects", 
     "char": "🖍", 
     "keywords": [
       "drawing", 
       "creativity", 
-      "low", 
-      "leave", 
       "draw"
     ]
   }, 
-  "lower left fountain pen": {
+  "lower_left_fountain_pen": {
     "category": "objects", 
     "char": "🖋", 
     "keywords": [
       "stationery", 
       "writing", 
       "write", 
-      "low", 
-      "leave", 
       "write"
     ]
   }, 
-  "lower left paintbrush": {
+  "lower_left_paintbrush": {
     "category": "objects", 
     "char": "🖌", 
     "keywords": [
       "drawing", 
       "creativity", 
       "art", 
-      "low", 
-      "leave", 
       "draw"
     ]
   }, 
@@ -6534,7 +6454,7 @@
       "detective"
     ]
   }, 
-  "mag right": {
+  "mag_right": {
     "category": "objects", 
     "char": "🔎", 
     "keywords": [
@@ -6563,17 +6483,16 @@
       "communication"
     ]
   }, 
-  "mailbox closed": {
+  "mailbox_closed": {
     "category": "objects", 
     "char": "📪", 
     "keywords": [
       "email", 
       "communication", 
-      "inbox", 
-      "close"
+      "inbox"
     ]
   }, 
-  "mailbox with mail": {
+  "mailbox_with_mail": {
     "category": "objects", 
     "char": "📬", 
     "keywords": [
@@ -6582,7 +6501,7 @@
       "communication"
     ]
   }, 
-  "mailbox with no mail": {
+  "mailbox_with_no_mail": {
     "category": "objects", 
     "char": "📭", 
     "keywords": [
@@ -6607,7 +6526,7 @@
     "char": "🇲🇻", 
     "keywords": []
   }, 
-  "male couple with heart": {
+  "male_couple_with_heart": {
     "category": "people", 
     "char": "👨‍❤️‍👨", 
     "keywords": [
@@ -6622,7 +6541,7 @@
       "valentine"
     ]
   }, 
-  "male couplekiss": {
+  "male_couplekiss": {
     "category": "people", 
     "char": "👨‍❤️‍💋‍👨", 
     "keywords": [
@@ -6658,12 +6577,12 @@
       "classy", 
       "sir", 
       "moustache", 
-      "Donald Trump", 
-      "Bernie Sanders", 
-      "Ted Cruz"
+      "Donald_Trump", 
+      "Bernie_Sanders", 
+      "Ted_Cruz"
     ]
   }, 
-  "man levitating": {
+  "man_levitating": {
     "category": "activity", 
     "char": "🕴", 
     "keywords": [
@@ -6672,11 +6591,10 @@
       "levitate", 
       "hover", 
       "jump", 
-      "man", 
-      "levitate"
+      "man"
     ]
   }, 
-  "man with gua pi mao": {
+  "man_with_gua_pi_mao": {
     "category": "people", 
     "char": "👲", 
     "keywords": [
@@ -6685,7 +6603,7 @@
       "Chinese"
     ]
   }, 
-  "man with turban": {
+  "man_with_turban": {
     "category": "people", 
     "char": "👳", 
     "keywords": [
@@ -6696,7 +6614,7 @@
       "arab"
     ]
   }, 
-  "mans shoe": {
+  "mans_shoe": {
     "category": "people", 
     "char": "👞", 
     "keywords": [
@@ -6704,19 +6622,18 @@
       "male", 
       "men", 
       "dress shoes", 
-      "man", 
       "shoe"
     ]
   }, 
-  "mantelpiece clock": {
+  "mantelpiece_clock": {
     "category": "objects", 
     "char": "🕰", 
     "keywords": [
       "time"
     ]
   }, 
-  "maple leaf": {
-    "category": "animals and nature", 
+  "maple_leaf": {
+    "category": "animals_and_nature", 
     "char": "🍁", 
     "keywords": [
       "plant", 
@@ -6724,7 +6641,7 @@
       "canada", 
       "fall", 
       "canada", 
-      "red leaf"
+      "red_leaf"
     ]
   }, 
   "marshall islands": {
@@ -6773,8 +6690,8 @@
     "char": "🇾🇹", 
     "keywords": []
   }, 
-  "meat on bone": {
-    "category": "food and drink", 
+  "meat_on_bone": {
+    "category": "food_and_drink", 
     "char": "🍖", 
     "keywords": [
       "good", 
@@ -6793,7 +6710,7 @@
     ]
   }, 
   "melon": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍈", 
     "keywords": [
       "fruit", 
@@ -6819,14 +6736,13 @@
       "write"
     ]
   }, 
-  "menorah with nine branches": {
+  "menorah_with_nine_branches": {
     "category": "symbols", 
     "char": "🕎", 
     "keywords": [
       "hanukkah", 
       "candles", 
       "jewish", 
-      "branch", 
       "candle"
     ]
   }, 
@@ -6844,7 +6760,7 @@
     ]
   }, 
   "metro": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚇", 
     "keywords": [
       "transportation", 
@@ -6886,18 +6802,18 @@
       "study"
     ]
   }, 
-  "middle finger": {
+  "middle_finger": {
     "category": "people", 
     "char": "🖕", 
     "keywords": [
       "hand", 
       "fingers", 
       "rude", 
-      "flip off", 
+      "flip_off", 
       "finger"
     ]
   }, 
-  "military medal": {
+  "military_medal": {
     "category": "activity", 
     "char": "🎖", 
     "keywords": [
@@ -6907,8 +6823,8 @@
       "win"
     ]
   }, 
-  "milky way": {
-    "category": "travel and places", 
+  "milky_way": {
+    "category": "travel_and_places", 
     "char": "🌌", 
     "keywords": [
       "photo", 
@@ -6919,7 +6835,7 @@
     ]
   }, 
   "minibus": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚐", 
     "keywords": [
       "vehicle", 
@@ -6939,7 +6855,7 @@
       "90"
     ]
   }, 
-  "mobile phone off": {
+  "mobile_phone_off": {
     "category": "symbols", 
     "char": "📴", 
     "keywords": [
@@ -6962,7 +6878,7 @@
     "char": "🇲🇨", 
     "keywords": []
   }, 
-  "money mouth": {
+  "money_mouth": {
     "category": "people", 
     "char": "🤑", 
     "keywords": [
@@ -6972,7 +6888,7 @@
       "moolah"
     ]
   }, 
-  "money with wings": {
+  "money_with_wings": {
     "category": "objects", 
     "char": "💸", 
     "keywords": [
@@ -6980,7 +6896,6 @@
       "bills", 
       "payment", 
       "sale", 
-      "wing", 
       "bill"
     ]
   }, 
@@ -7003,15 +6918,15 @@
     ]
   }, 
   "monkey": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐒", 
     "keywords": [
       "banana", 
       "circus"
     ]
   }, 
-  "monkey face": {
-    "category": "animals and nature", 
+  "monkey_face": {
+    "category": "animals_and_nature", 
     "char": "🐵", 
     "keywords": [
       "monkey", 
@@ -7019,7 +6934,7 @@
     ]
   }, 
   "monorail": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚝", 
     "keywords": [
       "transportation", 
@@ -7049,7 +6964,7 @@
     "keywords": []
   }, 
   "moon": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌔", 
     "keywords": [
       "night", 
@@ -7070,7 +6985,7 @@
       "moroccan"
     ]
   }, 
-  "mortar board": {
+  "mortar_board": {
     "category": "people", 
     "char": "🎓", 
     "keywords": [
@@ -7088,7 +7003,7 @@
     ]
   }, 
   "mosque": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🕌", 
     "keywords": [
       "islam", 
@@ -7096,15 +7011,15 @@
       "minaret"
     ]
   }, 
-  "motor boat": {
-    "category": "travel and places", 
+  "motor_boat": {
+    "category": "travel_and_places", 
     "char": "🛥", 
     "keywords": [
       "ship"
     ]
   }, 
   "motorway": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🛣", 
     "keywords": [
       "road", 
@@ -7113,8 +7028,8 @@
       "highway"
     ]
   }, 
-  "mount fuji": {
-    "category": "travel and places", 
+  "mount_fuji": {
+    "category": "travel_and_places", 
     "char": "🗻", 
     "keywords": [
       "photo", 
@@ -7123,7 +7038,7 @@
     ]
   }, 
   "mountain": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛰", 
     "keywords": [
       "photo", 
@@ -7131,7 +7046,7 @@
       "environment"
     ]
   }, 
-  "mountain bicyclist": {
+  "mountain_bicyclist": {
     "category": "activity", 
     "char": "🚵", 
     "keywords": [
@@ -7143,8 +7058,8 @@
       "sport"
     ]
   }, 
-  "mountain cableway": {
-    "category": "travel and places", 
+  "mountain_cableway": {
+    "category": "travel_and_places", 
     "char": "🚠", 
     "keywords": [
       "transportation", 
@@ -7152,8 +7067,8 @@
       "ski"
     ]
   }, 
-  "mountain railway": {
-    "category": "travel and places", 
+  "mountain_railway": {
+    "category": "travel_and_places", 
     "char": "🚞", 
     "keywords": [
       "transportation", 
@@ -7161,7 +7076,7 @@
     ]
   }, 
   "mouse": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐭", 
     "keywords": [
       "cheese", 
@@ -7172,13 +7087,13 @@
     ]
   }, 
   "mouse2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐁", 
     "keywords": [
       "rodent"
     ]
   }, 
-  "movie camera": {
+  "movie_camera": {
     "category": "objects", 
     "char": "🎥", 
     "keywords": [
@@ -7217,7 +7132,7 @@
     ]
   }, 
   "museum": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏛", 
     "keywords": [
       "art", 
@@ -7226,14 +7141,14 @@
     ]
   }, 
   "mushroom": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🍄", 
     "keywords": [
       "plant", 
       "vegetable"
     ]
   }, 
-  "musical keyboard": {
+  "musical_keyboard": {
     "category": "activity", 
     "char": "🎹", 
     "keywords": [
@@ -7241,7 +7156,7 @@
       "instrument"
     ]
   }, 
-  "musical note": {
+  "musical_note": {
     "category": "symbols", 
     "char": "🎵", 
     "keywords": [
@@ -7250,7 +7165,7 @@
       "sound"
     ]
   }, 
-  "musical score": {
+  "musical_score": {
     "category": "activity", 
     "char": "🎼", 
     "keywords": [
@@ -7273,7 +7188,7 @@
     "char": "🇲🇲", 
     "keywords": []
   }, 
-  "nail care": {
+  "nail_care": {
     "category": "people", 
     "char": "💅", 
     "keywords": [
@@ -7281,10 +7196,10 @@
       "manicure", 
       "finger", 
       "fashion", 
-      "nail polish"
+      "nail_polish"
     ]
   }, 
-  "name badge": {
+  "name_badge": {
     "category": "symbols", 
     "char": "📛", 
     "keywords": [
@@ -7297,8 +7212,8 @@
     "char": "🇳🇦", 
     "keywords": []
   }, 
-  "national park": {
-    "category": "travel and places", 
+  "national_park": {
+    "category": "travel_and_places", 
     "char": "🏞", 
     "keywords": [
       "photo", 
@@ -7324,15 +7239,14 @@
       "tie"
     ]
   }, 
-  "negative squared cross mark": {
+  "negative_squared_cross_mark": {
     "category": "symbols", 
     "char": "❎", 
     "keywords": [
       "x", 
       "green-square", 
       "no", 
-      "deny", 
-      "square"
+      "deny"
     ]
   }, 
   "nepal": {
@@ -7363,7 +7277,7 @@
       "dutch"
     ]
   }, 
-  "neutral face": {
+  "neutral_face": {
     "category": "people", 
     "char": "😐", 
     "keywords": [
@@ -7390,8 +7304,15 @@
       "caledonia"
     ]
   }, 
-  "new moon": {
-    "category": "animals and nature", 
+  "new zealand": {
+    "category": "flags", 
+    "char": "🇳🇿", 
+    "keywords": [
+      "zealand"
+    ]
+  }, 
+  "new_moon": {
+    "category": "animals_and_nature", 
     "char": "🌑", 
     "keywords": [
       "twilight", 
@@ -7403,8 +7324,8 @@
       "even"
     ]
   }, 
-  "new moon with face": {
-    "category": "animals and nature", 
+  "new_moon_with_face": {
+    "category": "animals_and_nature", 
     "char": "🌚", 
     "keywords": [
       "twilight", 
@@ -7414,13 +7335,6 @@
       "evening", 
       "sleep", 
       "even"
-    ]
-  }, 
-  "new zealand": {
-    "category": "flags", 
-    "char": "🇳🇿", 
-    "keywords": [
-      "zealand"
     ]
   }, 
   "newspaper": {
@@ -7459,14 +7373,13 @@
     "char": "🇳🇬", 
     "keywords": []
   }, 
-  "night with stars": {
-    "category": "travel and places", 
+  "night_with_stars": {
+    "category": "travel_and_places", 
     "char": "🌃", 
     "keywords": [
       "evening", 
       "city", 
       "downtown", 
-      "star", 
       "even"
     ]
   }, 
@@ -7485,7 +7398,7 @@
     "char": "🇳🇺", 
     "keywords": []
   }, 
-  "no bell": {
+  "no_bell": {
     "category": "symbols", 
     "char": "🔕", 
     "keywords": [
@@ -7496,21 +7409,19 @@
       "silent"
     ]
   }, 
-  "no bicycles": {
+  "no_bicycles": {
     "category": "symbols", 
     "char": "🚳", 
     "keywords": [
       "cyclist", 
       "prohibited", 
       "circle", 
-      "no bicycles", 
-      "no biking", 
-      "bicycle", 
-      "prohibit", 
-      "bicycle"
+      "no_bicycles", 
+      "no_biking", 
+      "prohibit"
     ]
   }, 
-  "no entry": {
+  "no_entry": {
     "category": "symbols", 
     "char": "⛔", 
     "keywords": [
@@ -7524,7 +7435,7 @@
       "deny"
     ]
   }, 
-  "no entry sign": {
+  "no_entry_sign": {
     "category": "symbols", 
     "char": "🚫", 
     "keywords": [
@@ -7533,11 +7444,12 @@
       "limit", 
       "denied", 
       "disallow", 
-      "circle", 
+      "can’t", 
+      "can't", 
       "deny"
     ]
   }, 
-  "no good": {
+  "no_good": {
     "category": "people", 
     "char": "🙅", 
     "keywords": [
@@ -7545,28 +7457,26 @@
       "no way"
     ]
   }, 
-  "no mobile phones": {
+  "no_mobile_phones": {
     "category": "symbols", 
     "char": "📵", 
     "keywords": [
       "iphone", 
       "mute", 
       "circle", 
-      "no phones", 
-      "phone", 
-      "phone"
+      "no_phones"
     ]
   }, 
-  "no mouth": {
+  "no_mouth": {
     "category": "people", 
     "char": "😶", 
     "keywords": [
       "silence", 
       "silent", 
-      "blank face"
+      "blank_face"
     ]
   }, 
-  "no pedestrians": {
+  "no_pedestrians": {
     "category": "symbols", 
     "char": "🚷", 
     "keywords": [
@@ -7574,14 +7484,13 @@
       "crossing", 
       "walking", 
       "circle", 
-      "no jaywalk", 
-      "pedestrian", 
+      "no_jaywalk", 
       "rule", 
       "cross", 
       "walk"
     ]
   }, 
-  "no smoking": {
+  "no_smoking": {
     "category": "symbols", 
     "char": "🚭", 
     "keywords": [
@@ -7591,7 +7500,7 @@
       "smoke"
     ]
   }, 
-  "non potable water": {
+  "non_potable_water": {
     "category": "symbols", 
     "char": "🚱", 
     "keywords": [
@@ -7649,7 +7558,7 @@
       "note"
     ]
   }, 
-  "notebook with decorative cover": {
+  "notebook_with_decorative_cover": {
     "category": "objects", 
     "char": "📔", 
     "keywords": [
@@ -7670,7 +7579,7 @@
       "note"
     ]
   }, 
-  "nut and bolt": {
+  "nut_and_bolt": {
     "category": "objects", 
     "char": "🔩", 
     "keywords": [
@@ -7698,7 +7607,7 @@
     ]
   }, 
   "ocean": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌊", 
     "keywords": [
       "sea", 
@@ -7709,7 +7618,7 @@
     ]
   }, 
   "octopus": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐙", 
     "keywords": [
       "ocean", 
@@ -7719,7 +7628,7 @@
     ]
   }, 
   "oden": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍢", 
     "keywords": [
       "food", 
@@ -7727,7 +7636,7 @@
     ]
   }, 
   "office": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏢", 
     "keywords": [
       "building", 
@@ -7735,7 +7644,7 @@
       "work"
     ]
   }, 
-  "oil drum": {
+  "oil_drum": {
     "category": "objects", 
     "char": "🛢", 
     "keywords": [
@@ -7752,7 +7661,7 @@
       "blue-square"
     ]
   }, 
-  "ok hand": {
+  "ok_hand": {
     "category": "people", 
     "char": "👌", 
     "keywords": [
@@ -7760,13 +7669,12 @@
       "limbs", 
       "perfect", 
       "okay", 
-      "sounds good", 
+      "sounds_good", 
       "finger", 
-      "limb", 
-      "sound"
+      "limb"
     ]
   }, 
-  "ok woman": {
+  "ok_woman": {
     "category": "people", 
     "char": "🙆", 
     "keywords": [
@@ -7775,7 +7683,7 @@
       "head"
     ]
   }, 
-  "old key": {
+  "old_key": {
     "category": "objects", 
     "char": "🗝", 
     "keywords": [
@@ -7784,7 +7692,7 @@
       "password"
     ]
   }, 
-  "older man": {
+  "older_man": {
     "category": "people", 
     "char": "👴", 
     "keywords": [
@@ -7792,11 +7700,10 @@
       "male", 
       "men", 
       "old", 
-      "bernie", 
-      "old"
+      "bernie"
     ]
   }, 
-  "older woman": {
+  "older_woman": {
     "category": "people", 
     "char": "👵", 
     "keywords": [
@@ -7805,12 +7712,11 @@
       "girl", 
       "lady", 
       "old", 
-      "Hillary Clinton", 
-      "old", 
+      "Hillary_Clinton", 
       "woman"
     ]
   }, 
-  "om symbol": {
+  "om_symbol": {
     "category": "symbols", 
     "char": "🕉", 
     "keywords": [
@@ -7836,8 +7742,8 @@
       "word"
     ]
   }, 
-  "oncoming automobile": {
-    "category": "travel and places", 
+  "oncoming_automobile": {
+    "category": "travel_and_places", 
     "char": "🚘", 
     "keywords": [
       "car", 
@@ -7845,16 +7751,16 @@
       "transportation"
     ]
   }, 
-  "oncoming bus": {
-    "category": "travel and places", 
+  "oncoming_bus": {
+    "category": "travel_and_places", 
     "char": "🚍", 
     "keywords": [
       "vehicle", 
       "transportation"
     ]
   }, 
-  "oncoming police car": {
-    "category": "travel and places", 
+  "oncoming_police_car": {
+    "category": "travel_and_places", 
     "char": "🚔", 
     "keywords": [
       "vehicle", 
@@ -7864,8 +7770,8 @@
       "911"
     ]
   }, 
-  "oncoming taxi": {
-    "category": "travel and places", 
+  "oncoming_taxi": {
+    "category": "travel_and_places", 
     "char": "🚖", 
     "keywords": [
       "vehicle", 
@@ -7884,7 +7790,7 @@
       "number"
     ]
   }, 
-  "open file folder": {
+  "open_file_folder": {
     "category": "objects", 
     "char": "📂", 
     "keywords": [
@@ -7893,17 +7799,16 @@
       "document"
     ]
   }, 
-  "open hands": {
+  "open_hands": {
     "category": "people", 
     "char": "👐", 
     "keywords": [
       "fingers", 
       "butterfly", 
-      "hand", 
       "finger"
     ]
   }, 
-  "open mouth": {
+  "open_mouth": {
     "category": "people", 
     "char": "😮", 
     "keywords": [
@@ -7922,7 +7827,7 @@
       "astrology"
     ]
   }, 
-  "orange book": {
+  "orange_book": {
     "category": "objects", 
     "char": "📙", 
     "keywords": [
@@ -7933,7 +7838,7 @@
       "study"
     ]
   }, 
-  "orthodox cross": {
+  "orthodox_cross": {
     "category": "symbols", 
     "char": "☦", 
     "keywords": [
@@ -7941,7 +7846,7 @@
       "religion"
     ]
   }, 
-  "outbox tray": {
+  "outbox_tray": {
     "category": "objects", 
     "char": "📤", 
     "keywords": [
@@ -7950,7 +7855,7 @@
     ]
   }, 
   "ox": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐂", 
     "keywords": [
       "cow", 
@@ -7969,7 +7874,7 @@
       "move"
     ]
   }, 
-  "page facing up": {
+  "page_facing_up": {
     "category": "objects", 
     "char": "📄", 
     "keywords": [
@@ -7977,11 +7882,10 @@
       "office", 
       "paper", 
       "information", 
-      "face", 
       "document"
     ]
   }, 
-  "page with curl": {
+  "page_with_curl": {
     "category": "objects", 
     "char": "📃", 
     "keywords": [
@@ -8020,8 +7924,8 @@
       "palestinian"
     ]
   }, 
-  "palm tree": {
-    "category": "animals and nature", 
+  "palm_tree": {
+    "category": "animals_and_nature", 
     "char": "🌴", 
     "keywords": [
       "plant", 
@@ -8039,8 +7943,8 @@
       "panamanian"
     ]
   }, 
-  "panda face": {
-    "category": "animals and nature", 
+  "panda_face": {
+    "category": "animals_and_nature", 
     "char": "🐼", 
     "keywords": [
       "black and white", 
@@ -8080,7 +7984,7 @@
       "car"
     ]
   }, 
-  "part alternation mark": {
+  "part_alternation_mark": {
     "category": "symbols", 
     "char": "〽️", 
     "keywords": [
@@ -8090,11 +7994,11 @@
       "business", 
       "economics", 
       "bad", 
-      "stock exchange"
+      "stock_exchange"
     ]
   }, 
-  "partly sunny": {
-    "category": "animals and nature", 
+  "partly_sunny": {
+    "category": "animals_and_nature", 
     "char": "⛅", 
     "keywords": [
       "weather", 
@@ -8104,8 +8008,8 @@
       "spring"
     ]
   }, 
-  "passenger ship": {
-    "category": "travel and places", 
+  "passenger_ship": {
+    "category": "travel_and_places", 
     "char": "🛳", 
     "keywords": [
       "yacht", 
@@ -8113,7 +8017,7 @@
       "ferry"
     ]
   }, 
-  "passport control": {
+  "passport_control": {
     "category": "symbols", 
     "char": "🛂", 
     "keywords": [
@@ -8121,7 +8025,7 @@
       "blue-square"
     ]
   }, 
-  "peace symbol": {
+  "peace_symbol": {
     "category": "symbols", 
     "char": "☮", 
     "keywords": [
@@ -8130,7 +8034,7 @@
     ]
   }, 
   "peach": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍑", 
     "keywords": [
       "fruit", 
@@ -8138,7 +8042,7 @@
     ]
   }, 
   "pear": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍐", 
     "keywords": [
       "fruit", 
@@ -8159,7 +8063,7 @@
     ]
   }, 
   "penguin": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐧", 
     "keywords": [
       "tuxedo", 
@@ -8177,15 +8081,13 @@
       "upset"
     ]
   }, 
-  "performing arts": {
+  "performing_arts": {
     "category": "activity", 
     "char": "🎭", 
     "keywords": [
       "acting", 
       "theater", 
       "drama", 
-      "perform", 
-      "art", 
       "act"
     ]
   }, 
@@ -8199,7 +8101,7 @@
       "oops"
     ]
   }, 
-  "person frowning": {
+  "person_frowning": {
     "category": "people", 
     "char": "🙍", 
     "keywords": [
@@ -8207,11 +8109,10 @@
       "depressed", 
       "discouraged", 
       "unhappy", 
-      "frown", 
       "discourage"
     ]
   }, 
-  "person with ball": {
+  "person_with_ball": {
     "category": "activity", 
     "char": "⛹", 
     "keywords": [
@@ -8220,7 +8121,7 @@
       "sport"
     ]
   }, 
-  "person with blond hair": {
+  "person_with_blond_hair": {
     "category": "people", 
     "char": "👱", 
     "keywords": [
@@ -8229,17 +8130,16 @@
       "boy", 
       "blonde", 
       "guy", 
-      "Hillary Clinton"
+      "Hillary_Clinton"
     ]
   }, 
-  "person with pouting face": {
+  "person_with_pouting_face": {
     "category": "people", 
     "char": "🙎", 
     "keywords": [
       "pout", 
       "not fair", 
-      "upset", 
-      "pout"
+      "upset"
     ]
   }, 
   "peru": {
@@ -8277,7 +8177,7 @@
     ]
   }, 
   "pig": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐷", 
     "keywords": [
       "oink", 
@@ -8285,19 +8185,19 @@
       "pink"
     ]
   }, 
-  "pig nose": {
-    "category": "animals and nature", 
+  "pig2": {
+    "category": "animals_and_nature", 
+    "char": "🐖", 
+    "keywords": [
+      "oink"
+    ]
+  }, 
+  "pig_nose": {
+    "category": "animals_and_nature", 
     "char": "🐽", 
     "keywords": [
       "oink", 
       "snort"
-    ]
-  }, 
-  "pig2": {
-    "category": "animals and nature", 
-    "char": "🐖", 
-    "keywords": [
-      "oink"
     ]
   }, 
   "pill": {
@@ -8312,7 +8212,7 @@
     ]
   }, 
   "pineapple": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍍", 
     "keywords": [
       "fruit", 
@@ -8331,13 +8231,13 @@
     ]
   }, 
   "pizza": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍕", 
     "keywords": [
       "food"
     ]
   }, 
-  "place of worship": {
+  "place_of_worship": {
     "category": "symbols", 
     "char": "🛐", 
     "keywords": [
@@ -8358,7 +8258,7 @@
       "banner"
     ]
   }, 
-  "point down": {
+  "point_down": {
     "category": "people", 
     "char": "👇", 
     "keywords": [
@@ -8368,18 +8268,17 @@
       "finger"
     ]
   }, 
-  "point left": {
+  "point_left": {
     "category": "people", 
     "char": "👈", 
     "keywords": [
       "direction", 
       "fingers", 
       "hand", 
-      "leave", 
       "finger"
     ]
   }, 
-  "point right": {
+  "point_right": {
     "category": "people", 
     "char": "👉", 
     "keywords": [
@@ -8389,7 +8288,7 @@
       "finger"
     ]
   }, 
-  "point up": {
+  "point_up": {
     "category": "people", 
     "char": "☝️", 
     "keywords": [
@@ -8399,14 +8298,14 @@
       "finger"
     ]
   }, 
-  "point up 2": {
+  "point_up_2": {
     "category": "people", 
     "char": "👆", 
     "keywords": [
       "fingers", 
       "hand", 
       "direction", 
-      "number one", 
+      "number_one", 
       "#1", 
       "finger"
     ]
@@ -8416,8 +8315,8 @@
     "char": "🇵🇱", 
     "keywords": []
   }, 
-  "police car": {
-    "category": "travel and places", 
+  "police_car": {
+    "category": "travel_and_places", 
     "char": "🚓", 
     "keywords": [
       "vehicle", 
@@ -8430,7 +8329,7 @@
     ]
   }, 
   "poodle": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐩", 
     "keywords": [
       "dog", 
@@ -8449,7 +8348,7 @@
     ]
   }, 
   "popcorn": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍿", 
     "keywords": [
       "food", 
@@ -8466,8 +8365,8 @@
       "portuguese"
     ]
   }, 
-  "post office": {
-    "category": "travel and places", 
+  "post_office": {
+    "category": "travel_and_places", 
     "char": "🏣", 
     "keywords": [
       "building", 
@@ -8475,7 +8374,7 @@
       "communication"
     ]
   }, 
-  "postal horn": {
+  "postal_horn": {
     "category": "objects", 
     "char": "📯", 
     "keywords": [
@@ -8492,7 +8391,7 @@
       "envelope"
     ]
   }, 
-  "potable water": {
+  "potable_water": {
     "category": "symbols", 
     "char": "🚰", 
     "keywords": [
@@ -8513,8 +8412,8 @@
       "accessory"
     ]
   }, 
-  "poultry leg": {
-    "category": "food and drink", 
+  "poultry_leg": {
+    "category": "food_and_drink", 
     "char": "🍗", 
     "keywords": [
       "food", 
@@ -8541,12 +8440,11 @@
       "bill"
     ]
   }, 
-  "pouting cat": {
+  "pouting_cat": {
     "category": "people", 
     "char": "😾", 
     "keywords": [
       "cats", 
-      "pout", 
       "cat"
     ]
   }, 
@@ -8561,13 +8459,12 @@
       "highfive"
     ]
   }, 
-  "prayer beads": {
+  "prayer_beads": {
     "category": "objects", 
     "char": "📿", 
     "keywords": [
       "dhikr", 
-      "religious", 
-      "bead"
+      "religious"
     ]
   }, 
   "princess": {
@@ -8599,7 +8496,7 @@
       "rico"
     ]
   }, 
-  "purple heart": {
+  "purple_heart": {
     "category": "symbols", 
     "char": "💜", 
     "keywords": [
@@ -8635,15 +8532,14 @@
       "here"
     ]
   }, 
-  "put litter in its place": {
+  "put_litter_in_its_place": {
     "category": "symbols", 
     "char": "🚮", 
     "keywords": [
       "blue-square", 
       "sign", 
       "human", 
-      "info", 
-      "it"
+      "info"
     ]
   }, 
   "qatar": {
@@ -8663,7 +8559,7 @@
     ]
   }, 
   "rabbit": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐰", 
     "keywords": [
       "bunny", 
@@ -8675,7 +8571,7 @@
     ]
   }, 
   "rabbit2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐇", 
     "keywords": [
       "hop", 
@@ -8685,15 +8581,15 @@
     ]
   }, 
   "racehorse": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐎", 
     "keywords": [
       "gamble", 
       "luck"
     ]
   }, 
-  "racing car": {
-    "category": "travel and places", 
+  "racing_car": {
+    "category": "travel_and_places", 
     "char": "🏎", 
     "keywords": [
       "sports", 
@@ -8704,14 +8600,13 @@
       "sport"
     ]
   }, 
-  "racing motorcycle": {
-    "category": "travel and places", 
+  "racing_motorcycle": {
+    "category": "travel_and_places", 
     "char": "🏍", 
     "keywords": [
       "race", 
       "sports", 
       "fast", 
-      "race", 
       "sport"
     ]
   }, 
@@ -8725,7 +8620,7 @@
       "program"
     ]
   }, 
-  "radio button": {
+  "radio_button": {
     "category": "symbols", 
     "char": "🔘", 
     "keywords": [
@@ -8735,7 +8630,7 @@
       "circle"
     ]
   }, 
-  "radioactive sign": {
+  "radioactive_sign": {
     "category": "symbols", 
     "char": "☢", 
     "keywords": [
@@ -8753,16 +8648,16 @@
       "despise"
     ]
   }, 
-  "railway car": {
-    "category": "travel and places", 
+  "railway_car": {
+    "category": "travel_and_places", 
     "char": "🚃", 
     "keywords": [
       "transportation", 
       "vehicle"
     ]
   }, 
-  "railway track": {
-    "category": "travel and places", 
+  "railway_track": {
+    "category": "travel_and_places", 
     "char": "🛤", 
     "keywords": [
       "train", 
@@ -8770,7 +8665,7 @@
     ]
   }, 
   "rainbow": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🌈", 
     "keywords": [
       "happy", 
@@ -8780,7 +8675,7 @@
       "spring"
     ]
   }, 
-  "raised hands": {
+  "raised_hands": {
     "category": "people", 
     "char": "🙌", 
     "keywords": [
@@ -8788,12 +8683,10 @@
       "hooray", 
       "yea", 
       "celebration", 
-      "hallelujah", 
-      "raise", 
-      "hand"
+      "hallelujah"
     ]
   }, 
-  "raising hand": {
+  "raising_hand": {
     "category": "people", 
     "char": "🙋", 
     "keywords": [
@@ -8801,19 +8694,18 @@
       "pick me", 
       "call on", 
       "want", 
-      "desire", 
-      "raise"
+      "desire"
     ]
   }, 
   "ram": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐏", 
     "keywords": [
       "sheep"
     ]
   }, 
   "ramen": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍜", 
     "keywords": [
       "food", 
@@ -8823,7 +8715,7 @@
     ]
   }, 
   "rat": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐀", 
     "keywords": [
       "mouse", 
@@ -8847,13 +8739,12 @@
       "trash"
     ]
   }, 
-  "red circle": {
+  "red_circle": {
     "category": "symbols", 
     "char": "🔴", 
     "keywords": [
       "shape", 
-      "error", 
-      "danger"
+      "error"
     ]
   }, 
   "registered": {
@@ -8885,7 +8776,7 @@
       "relieve"
     ]
   }, 
-  "reminder ribbon": {
+  "reminder_ribbon": {
     "category": "activity", 
     "char": "🎗", 
     "keywords": [
@@ -8904,7 +8795,7 @@
       "record"
     ]
   }, 
-  "repeat one": {
+  "repeat_one": {
     "category": "symbols", 
     "char": "🔂", 
     "keywords": [
@@ -8921,10 +8812,10 @@
       "refresh", 
       "wc", 
       "gender", 
-      "water closet"
+      "water_closet"
     ]
   }, 
-  "revolving hearts": {
+  "revolving_hearts": {
     "category": "symbols", 
     "char": "💞", 
     "keywords": [
@@ -8932,11 +8823,8 @@
       "like", 
       "affection", 
       "valentines", 
-      "family members", 
-      "revolve", 
-      "heart", 
-      "valentine", 
-      "member"
+      "family_members", 
+      "valentine"
     ]
   }, 
   "rewind": {
@@ -8958,7 +8846,7 @@
     ]
   }, 
   "rice": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍚", 
     "keywords": [
       "food", 
@@ -8966,24 +8854,24 @@
       "asian"
     ]
   }, 
-  "rice ball": {
-    "category": "food and drink", 
+  "rice_ball": {
+    "category": "food_and_drink", 
     "char": "🍙", 
     "keywords": [
       "food", 
       "japanese"
     ]
   }, 
-  "rice cracker": {
-    "category": "food and drink", 
+  "rice_cracker": {
+    "category": "food_and_drink", 
     "char": "🍘", 
     "keywords": [
       "food", 
       "japanese"
     ]
   }, 
-  "rice scene": {
-    "category": "travel and places", 
+  "rice_scene": {
+    "category": "travel_and_places", 
     "char": "🎑", 
     "keywords": [
       "photo", 
@@ -8992,7 +8880,7 @@
       "tsukimi"
     ]
   }, 
-  "right anger bubble": {
+  "right_anger_bubble": {
     "category": "symbols", 
     "char": "🗯", 
     "keywords": [
@@ -9027,7 +8915,7 @@
     ]
   }, 
   "rocket": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚀", 
     "keywords": [
       "launch", 
@@ -9035,21 +8923,20 @@
       "staffmode", 
       "NASA", 
       "outer space", 
-      "outer space", 
+      "outer_space", 
       "fly"
     ]
   }, 
-  "rolled up newspaper": {
+  "rolled_up_newspaper": {
     "category": "objects", 
     "char": "🗞", 
     "keywords": [
       "press", 
-      "headline", 
-      "roll"
+      "headline"
     ]
   }, 
-  "roller coaster": {
-    "category": "travel and places", 
+  "roller_coaster": {
+    "category": "travel_and_places", 
     "char": "🎢", 
     "keywords": [
       "carnival", 
@@ -9058,7 +8945,7 @@
       "fun"
     ]
   }, 
-  "rolling eyes": {
+  "rolling_eyes": {
     "category": "people", 
     "char": "🙄", 
     "keywords": [
@@ -9066,8 +8953,6 @@
       "frustrated", 
       "annoyed", 
       "annoys", 
-      "roll", 
-      "eye", 
       "frustrate"
     ]
   }, 
@@ -9077,14 +8962,14 @@
     "keywords": []
   }, 
   "rooster": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐓", 
     "keywords": [
       "chicken"
     ]
   }, 
   "rose": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌹", 
     "keywords": [
       "flowers", 
@@ -9108,8 +8993,8 @@
       "military"
     ]
   }, 
-  "rotating light": {
-    "category": "travel and places", 
+  "rotating_light": {
+    "category": "travel_and_places", 
     "char": "🚨", 
     "keywords": [
       "police", 
@@ -9121,11 +9006,10 @@
       "pinged", 
       "law", 
       "legal", 
-      "rotate", 
       "ping"
     ]
   }, 
-  "round pushpin": {
+  "round_pushpin": {
     "category": "objects", 
     "char": "📍", 
     "keywords": [
@@ -9146,7 +9030,7 @@
       "sport"
     ]
   }, 
-  "rugby football": {
+  "rugby_football": {
     "category": "activity", 
     "char": "🏉", 
     "keywords": [
@@ -9168,13 +9052,12 @@
       "run"
     ]
   }, 
-  "running shirt with sash": {
+  "running_shirt_with_sash": {
     "category": "activity", 
     "char": "🎽", 
     "keywords": [
       "play", 
-      "pageant", 
-      "run"
+      "pageant"
     ]
   }, 
   "russia": {
@@ -9257,7 +9140,7 @@
     ]
   }, 
   "sake": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍶", 
     "keywords": [
       "wine", 
@@ -9339,7 +9222,7 @@
       "instrument", 
       "jazz", 
       "blues", 
-      "music band", 
+      "music_band", 
       "band", 
       "blue"
     ]
@@ -9355,7 +9238,7 @@
     ]
   }, 
   "school": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏫", 
     "keywords": [
       "building", 
@@ -9365,7 +9248,7 @@
       "teach"
     ]
   }, 
-  "school satchel": {
+  "school_satchel": {
     "category": "people", 
     "char": "🎒", 
     "keywords": [
@@ -9385,7 +9268,7 @@
     ]
   }, 
   "scorpion": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🦂", 
     "keywords": [
       "arachnid"
@@ -9415,7 +9298,7 @@
       "terrify"
     ]
   }, 
-  "scream cat": {
+  "scream_cat": {
     "category": "people", 
     "char": "🙀", 
     "keywords": [
@@ -9439,7 +9322,7 @@
     ]
   }, 
   "seat": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "💺", 
     "keywords": [
       "sit", 
@@ -9461,8 +9344,8 @@
       "red-circle"
     ]
   }, 
-  "see no evil": {
-    "category": "animals and nature", 
+  "see_no_evil": {
+    "category": "animals_and_nature", 
     "char": "🙈", 
     "keywords": [
       "monkey", 
@@ -9473,7 +9356,7 @@
     ]
   }, 
   "seedling": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌱", 
     "keywords": [
       "plant", 
@@ -9510,7 +9393,7 @@
     "keywords": []
   }, 
   "shamrock": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "☘", 
     "keywords": [
       "vegetable", 
@@ -9518,18 +9401,17 @@
       "irish"
     ]
   }, 
-  "shaved ice": {
-    "category": "food and drink", 
+  "shaved_ice": {
+    "category": "food_and_drink", 
     "char": "🍧", 
     "keywords": [
       "hot", 
       "dessert", 
-      "summer", 
-      "shave"
+      "summer"
     ]
   }, 
   "sheep": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐑", 
     "keywords": [
       "wool", 
@@ -9537,12 +9419,12 @@
     ]
   }, 
   "shell": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐚", 
     "keywords": [
       "sea", 
       "beach", 
-      "sea shell"
+      "sea_shell"
     ]
   }, 
   "shield": {
@@ -9553,8 +9435,8 @@
       "security"
     ]
   }, 
-  "shinto shrine": {
-    "category": "travel and places", 
+  "shinto_shrine": {
+    "category": "travel_and_places", 
     "char": "⛩", 
     "keywords": [
       "temple", 
@@ -9563,7 +9445,7 @@
     ]
   }, 
   "ship": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚢", 
     "keywords": [
       "transportation", 
@@ -9582,14 +9464,14 @@
       "tee"
     ]
   }, 
-  "shopping bags": {
+  "shopping_bags": {
     "category": "objects", 
     "char": "🛍", 
     "keywords": [
       "mall", 
       "buy", 
       "purchase", 
-      "bag"
+      "shopping_bag"
     ]
   }, 
   "shower": {
@@ -9608,17 +9490,16 @@
       "leone"
     ]
   }, 
-  "sign of horns": {
+  "sign_of_horns": {
     "category": "people", 
     "char": "🤘", 
     "keywords": [
-      "evil eye", 
-      "heavy metal", 
-      "rock on", 
-      "horn"
+      "evil_eye", 
+      "heavy_metal", 
+      "rock_on"
     ]
   }, 
-  "signal strength": {
+  "signal_strength": {
     "category": "symbols", 
     "char": "📶", 
     "keywords": [
@@ -9657,7 +9538,7 @@
       "number"
     ]
   }, 
-  "six pointed star": {
+  "six_pointed_star": {
     "category": "symbols", 
     "char": "🔯", 
     "keywords": [
@@ -9665,9 +9546,8 @@
       "religion", 
       "jewish", 
       "hexagram", 
-      "star of david", 
-      "sheriff", 
-      "point"
+      "star_of_david", 
+      "sheriff"
     ]
   }, 
   "ski": {
@@ -9703,7 +9583,7 @@
       "bone"
     ]
   }, 
-  "skull and crossbones": {
+  "skull_and_crossbones": {
     "category": "objects", 
     "char": "☠", 
     "keywords": [
@@ -9727,13 +9607,12 @@
       "tire"
     ]
   }, 
-  "sleeping accommodation": {
+  "sleeping_accommodation": {
     "category": "objects", 
     "char": "🛌", 
     "keywords": [
       "bed", 
-      "rest", 
-      "sleep"
+      "rest"
     ]
   }, 
   "sleepy": {
@@ -9756,7 +9635,7 @@
       "investigator"
     ]
   }, 
-  "slightly sad": {
+  "slightly_sad": {
     "category": "people", 
     "char": "🙁", 
     "keywords": [
@@ -9767,15 +9646,14 @@
       "frown"
     ]
   }, 
-  "slightly smiling": {
+  "slightly_smiling": {
     "category": "people", 
     "char": "🙂", 
     "keywords": [
-      "smile", 
       "smile"
     ]
   }, 
-  "slot machine": {
+  "slot_machine": {
     "category": "activity", 
     "char": "🎰", 
     "keywords": [
@@ -9798,8 +9676,8 @@
     "char": "🇸🇮", 
     "keywords": []
   }, 
-  "small airplane": {
-    "category": "travel and places", 
+  "small_airplane": {
+    "category": "travel_and_places", 
     "char": "🛩", 
     "keywords": [
       "plane", 
@@ -9809,7 +9687,7 @@
       "vehicle"
     ]
   }, 
-  "small blue diamond": {
+  "small_blue_diamond": {
     "category": "symbols", 
     "char": "🔹", 
     "keywords": [
@@ -9819,7 +9697,7 @@
       "blue"
     ]
   }, 
-  "small orange diamond": {
+  "small_orange_diamond": {
     "category": "symbols", 
     "char": "🔸", 
     "keywords": [
@@ -9829,7 +9707,7 @@
       "orange"
     ]
   }, 
-  "small red triangle": {
+  "small_red_triangle": {
     "category": "symbols", 
     "char": "🔺", 
     "keywords": [
@@ -9839,7 +9717,7 @@
       "top"
     ]
   }, 
-  "small red triangle down": {
+  "small_red_triangle_down": {
     "category": "symbols", 
     "char": "🔻", 
     "keywords": [
@@ -9861,7 +9739,7 @@
       ":D"
     ]
   }, 
-  "smile cat": {
+  "smile_cat": {
     "category": "people", 
     "char": "😸", 
     "keywords": [
@@ -9880,7 +9758,7 @@
       "yay"
     ]
   }, 
-  "smiley cat": {
+  "smiley_cat": {
     "category": "people", 
     "char": "😺", 
     "keywords": [
@@ -9889,13 +9767,12 @@
       "cat"
     ]
   }, 
-  "smiling imp": {
+  "smiling_imp": {
     "category": "people", 
     "char": "😈", 
     "keywords": [
       "devil", 
       "horns", 
-      "smile", 
       "horn"
     ]
   }, 
@@ -9911,7 +9788,7 @@
       "sarcasm"
     ]
   }, 
-  "smirk cat": {
+  "smirk_cat": {
     "category": "people", 
     "char": "😼", 
     "keywords": [
@@ -9931,7 +9808,7 @@
     ]
   }, 
   "snail": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐌", 
     "keywords": [
       "slow", 
@@ -9939,23 +9816,22 @@
     ]
   }, 
   "snake": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐍", 
     "keywords": [
       "hiss", 
       "python"
     ]
   }, 
-  "snow capped mountain": {
-    "category": "travel and places", 
+  "snow_capped_mountain": {
+    "category": "travel_and_places", 
     "char": "🏔", 
     "keywords": [
       "photo", 
       "nature", 
       "environment", 
       "winter", 
-      "cold", 
-      "cap"
+      "cold"
     ]
   }, 
   "snowboarder": {
@@ -9968,7 +9844,7 @@
     ]
   }, 
   "snowflake": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "❄️", 
     "keywords": [
       "winter", 
@@ -9981,7 +9857,7 @@
     ]
   }, 
   "snowman": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "⛄", 
     "keywords": [
       "winter", 
@@ -9991,11 +9867,11 @@
       "christmas", 
       "xmas", 
       "frozen", 
-      "without snow"
+      "without_snow"
     ]
   }, 
-  "snowman with snow": {
-    "category": "animals and nature", 
+  "snowman_with_snow": {
+    "category": "animals_and_nature", 
     "char": "☃", 
     "keywords": [
       "winter", 
@@ -10099,7 +9975,7 @@
       "sudan"
     ]
   }, 
-  "space invader": {
+  "space_invader": {
     "category": "activity", 
     "char": "👾", 
     "keywords": [
@@ -10122,7 +9998,7 @@
     ]
   }, 
   "spaghetti": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍝", 
     "keywords": [
       "food", 
@@ -10152,7 +10028,7 @@
     ]
   }, 
   "sparkler": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🎇", 
     "keywords": [
       "stars", 
@@ -10162,7 +10038,7 @@
     ]
   }, 
   "sparkles": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "✨", 
     "keywords": [
       "stars", 
@@ -10176,7 +10052,7 @@
       "star"
     ]
   }, 
-  "sparkling heart": {
+  "sparkling_heart": {
     "category": "symbols", 
     "char": "💖", 
     "keywords": [
@@ -10185,12 +10061,11 @@
       "affection", 
       "valentines", 
       "tacky", 
-      "sparkle", 
       "valentine"
     ]
   }, 
-  "speak no evil": {
-    "category": "animals and nature", 
+  "speak_no_evil": {
+    "category": "animals_and_nature", 
     "char": "🙊", 
     "keywords": [
       "monkey", 
@@ -10210,16 +10085,15 @@
       "broadcast"
     ]
   }, 
-  "speaking head": {
+  "speaking_head": {
     "category": "people", 
     "char": "🗣", 
     "keywords": [
       "talk", 
-      "speak", 
       "speak"
     ]
   }, 
-  "speech balloon": {
+  "speech_balloon": {
     "category": "symbols", 
     "char": "💬", 
     "keywords": [
@@ -10233,7 +10107,7 @@
     ]
   }, 
   "speedboat": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚤", 
     "keywords": [
       "ship", 
@@ -10243,14 +10117,14 @@
     ]
   }, 
   "spider": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🕷", 
     "keywords": [
       "arachnid"
     ]
   }, 
-  "spider web": {
-    "category": "animals and nature", 
+  "spider_web": {
+    "category": "animals_and_nature", 
     "char": "🕸", 
     "keywords": [
       "insect", 
@@ -10259,7 +10133,7 @@
       "spider"
     ]
   }, 
-  "spiral calendar pad": {
+  "spiral_calendar_pad": {
     "category": "objects", 
     "char": "🗓", 
     "keywords": [
@@ -10268,7 +10142,7 @@
       "planning"
     ]
   }, 
-  "spiral note pad": {
+  "spiral_note_pad": {
     "category": "objects", 
     "char": "🗒", 
     "keywords": [
@@ -10276,24 +10150,21 @@
       "stationery"
     ]
   }, 
-  "splayed fingers": {
+  "splayed_fingers": {
     "category": "people", 
     "char": "🖐", 
     "keywords": [
-      "raised hand", 
+      "raised_hand", 
       "five", 
-      "high-five", 
-      "finger", 
-      "raise"
+      "high-five"
     ]
   }, 
-  "sports medal": {
+  "sports_medal": {
     "category": "activity", 
     "char": "🏅", 
     "keywords": [
       "award", 
       "winning", 
-      "sport", 
       "win"
     ]
   }, 
@@ -10306,7 +10177,7 @@
     ]
   }, 
   "stadium": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🏟", 
     "keywords": [
       "photo", 
@@ -10318,30 +10189,15 @@
     ]
   }, 
   "star": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "⭐", 
     "keywords": [
       "night", 
       "yellow"
     ]
   }, 
-  "star and crescent": {
-    "category": "symbols", 
-    "char": "☪", 
-    "keywords": [
-      "islam", 
-      "muslim"
-    ]
-  }, 
-  "star of david": {
-    "category": "symbols", 
-    "char": "✡", 
-    "keywords": [
-      "judaism"
-    ]
-  }, 
   "star2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌟", 
     "keywords": [
       "night", 
@@ -10353,8 +10209,23 @@
       "bling"
     ]
   }, 
+  "star_and_crescent": {
+    "category": "symbols", 
+    "char": "☪", 
+    "keywords": [
+      "islam", 
+      "muslim"
+    ]
+  }, 
+  "star_of_david": {
+    "category": "symbols", 
+    "char": "✡", 
+    "keywords": [
+      "judaism"
+    ]
+  }, 
   "stars": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🌠", 
     "keywords": [
       "night", 
@@ -10363,7 +10234,7 @@
     ]
   }, 
   "station": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚉", 
     "keywords": [
       "transportation", 
@@ -10371,16 +10242,16 @@
       "public"
     ]
   }, 
-  "statue of liberty": {
-    "category": "travel and places", 
+  "statue_of_liberty": {
+    "category": "travel_and_places", 
     "char": "🗽", 
     "keywords": [
       "american", 
       "newyork"
     ]
   }, 
-  "steam locomotive": {
-    "category": "travel and places", 
+  "steam_locomotive": {
+    "category": "travel_and_places", 
     "char": "🚂", 
     "keywords": [
       "transportation", 
@@ -10389,7 +10260,7 @@
     ]
   }, 
   "stew": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍲", 
     "keywords": [
       "food", 
@@ -10405,7 +10276,7 @@
       "deadline"
     ]
   }, 
-  "straight ruler": {
+  "straight_ruler": {
     "category": "objects", 
     "char": "📏", 
     "keywords": [
@@ -10421,14 +10292,14 @@
     ]
   }, 
   "strawberry": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍓", 
     "keywords": [
       "fruit", 
       "food"
     ]
   }, 
-  "stuck out tongue": {
+  "stuck_out_tongue": {
     "category": "people", 
     "char": "😛", 
     "keywords": [
@@ -10436,24 +10307,20 @@
       "childish", 
       "playful", 
       "mischievous", 
-      "smile", 
-      "stick"
+      "smile"
     ]
   }, 
-  "stuck out tongue closed eyes": {
+  "stuck_out_tongue_closed_eyes": {
     "category": "people", 
     "char": "😝", 
     "keywords": [
       "prank", 
       "playful", 
       "mischievous", 
-      "smile", 
-      "stick", 
-      "close", 
-      "eye"
+      "smile"
     ]
   }, 
-  "stuck out tongue winking eye": {
+  "stuck_out_tongue_winking_eye": {
     "category": "people", 
     "char": "😜", 
     "keywords": [
@@ -10463,12 +10330,10 @@
       "mischievous", 
       "haha", 
       "joke", 
-      "fake", 
-      "stick", 
-      "wink"
+      "fake"
     ]
   }, 
-  "studio microphone": {
+  "studio_microphone": {
     "category": "objects", 
     "char": "🎙", 
     "keywords": [
@@ -10483,8 +10348,8 @@
     "char": "🇸🇩", 
     "keywords": []
   }, 
-  "sun with face": {
-    "category": "animals and nature", 
+  "sun_with_face": {
+    "category": "animals_and_nature", 
     "char": "🌞", 
     "keywords": [
       "morning", 
@@ -10494,7 +10359,7 @@
     ]
   }, 
   "sunflower": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌻", 
     "keywords": [
       "plant", 
@@ -10515,7 +10380,7 @@
     ]
   }, 
   "sunny": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "☀️", 
     "keywords": [
       "weather", 
@@ -10526,7 +10391,7 @@
     ]
   }, 
   "sunrise": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🌅", 
     "keywords": [
       "morning", 
@@ -10535,14 +10400,13 @@
       "photo"
     ]
   }, 
-  "sunrise over mountains": {
-    "category": "travel and places", 
+  "sunrise_over_mountains": {
+    "category": "travel_and_places", 
     "char": "🌄", 
     "keywords": [
       "view", 
       "vacation", 
-      "photo", 
-      "mountain"
+      "photo"
     ]
   }, 
   "surfer": {
@@ -10563,7 +10427,7 @@
     "keywords": []
   }, 
   "sushi": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍣", 
     "keywords": [
       "food", 
@@ -10572,8 +10436,8 @@
       "rice"
     ]
   }, 
-  "suspension railway": {
-    "category": "travel and places", 
+  "suspension_railway": {
+    "category": "travel_and_places", 
     "char": "🚟", 
     "keywords": [
       "vehicle", 
@@ -10596,17 +10460,16 @@
       "tire"
     ]
   }, 
-  "sweat drops": {
-    "category": "animals and nature", 
+  "sweat_drops": {
+    "category": "animals_and_nature", 
     "char": "💦", 
     "keywords": [
       "water", 
       "drip", 
-      "oops", 
-      "drop"
+      "oops"
     ]
   }, 
-  "sweat smile": {
+  "sweat_smile": {
     "category": "people", 
     "char": "😅", 
     "keywords": [
@@ -10620,8 +10483,8 @@
     "char": "🇸🇪", 
     "keywords": []
   }, 
-  "sweet potato": {
-    "category": "food and drink", 
+  "sweet_potato": {
+    "category": "food_and_drink", 
     "char": "🍠", 
     "keywords": [
       "food", 
@@ -10667,7 +10530,7 @@
     ]
   }, 
   "synagogue": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🕍", 
     "keywords": [
       "judaism", 
@@ -10698,7 +10561,7 @@
       "drug"
     ]
   }, 
-  "table tennis": {
+  "table_tennis": {
     "category": "activity", 
     "char": "🏓", 
     "keywords": [
@@ -10708,7 +10571,7 @@
     ]
   }, 
   "taco": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🌮", 
     "keywords": [
       "food", 
@@ -10738,8 +10601,8 @@
     "char": "🇹🇯", 
     "keywords": []
   }, 
-  "tanabata tree": {
-    "category": "animals and nature", 
+  "tanabata_tree": {
+    "category": "animals_and_nature", 
     "char": "🎋", 
     "keywords": [
       "plant", 
@@ -10749,7 +10612,7 @@
     ]
   }, 
   "tangerine": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍊", 
     "keywords": [
       "food", 
@@ -10773,7 +10636,7 @@
     ]
   }, 
   "taxi": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚕", 
     "keywords": [
       "uber", 
@@ -10784,7 +10647,7 @@
     ]
   }, 
   "tea": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍵", 
     "keywords": [
       "drink", 
@@ -10794,7 +10657,7 @@
       "british"
     ]
   }, 
-  "telephone receiver": {
+  "telephone_receiver": {
     "category": "objects", 
     "char": "📞", 
     "keywords": [
@@ -10825,7 +10688,7 @@
     ]
   }, 
   "tent": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "⛺", 
     "keywords": [
       "photo", 
@@ -10851,7 +10714,7 @@
       "cold"
     ]
   }, 
-  "thermometer face": {
+  "thermometer_face": {
     "category": "people", 
     "char": "🤒", 
     "keywords": [
@@ -10873,7 +10736,7 @@
       "thought"
     ]
   }, 
-  "thought balloon": {
+  "thought_balloon": {
     "category": "symbols", 
     "char": "💭", 
     "keywords": [
@@ -10881,7 +10744,6 @@
       "cloud", 
       "speech", 
       "thinking", 
-      "think", 
       "think"
     ]
   }, 
@@ -10896,15 +10758,15 @@
       "number"
     ]
   }, 
-  "three button mouse": {
+  "three_button_mouse": {
     "category": "objects", 
     "char": "🖱", 
     "keywords": [
       "click"
     ]
   }, 
-  "thunder cloud and rain": {
-    "category": "animals and nature", 
+  "thunder_cloud_and_rain": {
+    "category": "animals_and_nature", 
     "char": "⛈", 
     "keywords": [
       "weather", 
@@ -10923,7 +10785,7 @@
     ]
   }, 
   "tiger": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐯", 
     "keywords": [
       "stripes", 
@@ -10934,7 +10796,7 @@
     ]
   }, 
   "tiger2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐅", 
     "keywords": [
       "stripes", 
@@ -10943,7 +10805,7 @@
       "stripe"
     ]
   }, 
-  "timer clock": {
+  "timer_clock": {
     "category": "objects", 
     "char": "⏲", 
     "keywords": [
@@ -10955,7 +10817,7 @@
     "char": "🇹🇱", 
     "keywords": []
   }, 
-  "tired face": {
+  "tired_face": {
     "category": "people", 
     "char": "😫", 
     "keywords": [
@@ -10997,8 +10859,8 @@
     "char": "🇹🇰", 
     "keywords": []
   }, 
-  "tokyo tower": {
-    "category": "travel and places", 
+  "tokyo_tower": {
+    "category": "travel_and_places", 
     "char": "🗼", 
     "keywords": [
       "photo", 
@@ -11006,7 +10868,7 @@
     ]
   }, 
   "tomato": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍅", 
     "keywords": [
       "fruit", 
@@ -11057,7 +10919,7 @@
     ]
   }, 
   "tractor": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚜", 
     "keywords": [
       "vehicle", 
@@ -11067,8 +10929,8 @@
       "farm"
     ]
   }, 
-  "traffic light": {
-    "category": "travel and places", 
+  "traffic_light": {
+    "category": "travel_and_places", 
     "char": "🚥", 
     "keywords": [
       "transportation", 
@@ -11076,7 +10938,7 @@
     ]
   }, 
   "train": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚋", 
     "keywords": [
       "transportation", 
@@ -11087,7 +10949,7 @@
     ]
   }, 
   "train2": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚆", 
     "keywords": [
       "transportation", 
@@ -11095,14 +10957,14 @@
     ]
   }, 
   "tram": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚊", 
     "keywords": [
       "transportation", 
       "vehicle"
     ]
   }, 
-  "triangular flag on post": {
+  "triangular_flag_on_post": {
     "category": "objects", 
     "char": "🚩", 
     "keywords": [
@@ -11111,7 +10973,7 @@
       "place"
     ]
   }, 
-  "triangular ruler": {
+  "triangular_ruler": {
     "category": "objects", 
     "char": "📐", 
     "keywords": [
@@ -11149,7 +11011,7 @@
     ]
   }, 
   "trolleybus": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚎", 
     "keywords": [
       "bart", 
@@ -11169,8 +11031,8 @@
       "ceremony"
     ]
   }, 
-  "tropical drink": {
-    "category": "food and drink", 
+  "tropical_drink": {
+    "category": "food_and_drink", 
     "char": "🍹", 
     "keywords": [
       "beverage", 
@@ -11182,8 +11044,8 @@
       "mojito"
     ]
   }, 
-  "tropical fish": {
-    "category": "animals and nature", 
+  "tropical_fish": {
+    "category": "animals_and_nature", 
     "char": "🐠", 
     "keywords": [
       "swim", 
@@ -11193,7 +11055,7 @@
     ]
   }, 
   "truck": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🚚", 
     "keywords": [
       "cars", 
@@ -11210,7 +11072,7 @@
     ]
   }, 
   "tulip": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🌷", 
     "keywords": [
       "flowers", 
@@ -11246,7 +11108,7 @@
     ]
   }, 
   "turtle": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐢", 
     "keywords": [
       "slow", 
@@ -11269,15 +11131,14 @@
       "television"
     ]
   }, 
-  "twisted rightwards arrows": {
+  "twisted_rightwards_arrows": {
     "category": "symbols", 
     "char": "🔀", 
     "keywords": [
       "blue-square", 
       "shuffle", 
       "music", 
-      "random", 
-      "arrow"
+      "random"
     ]
   }, 
   "two": {
@@ -11291,7 +11152,7 @@
       "number"
     ]
   }, 
-  "two hearts": {
+  "two_hearts": {
     "category": "symbols", 
     "char": "💕", 
     "keywords": [
@@ -11300,11 +11161,10 @@
       "affection", 
       "valentines", 
       "soulmate", 
-      "heart", 
       "valentine"
     ]
   }, 
-  "two men holding hands": {
+  "two_men_holding_hands": {
     "category": "people", 
     "char": "👬", 
     "keywords": [
@@ -11317,12 +11177,10 @@
       "friendship", 
       "people", 
       "human", 
-      "homosexual", 
-      "hold", 
-      "hand"
+      "homosexual"
     ]
   }, 
-  "two women holding hands": {
+  "two_women_holding_hands": {
     "category": "people", 
     "char": "👭", 
     "keywords": [
@@ -11336,9 +11194,6 @@
       "human", 
       "homosexual", 
       "lesbian", 
-      "woman", 
-      "hold", 
-      "hand", 
       "female"
     ]
   }, 
@@ -11489,7 +11344,7 @@
     ]
   }, 
   "umbrella": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "☔", 
     "keywords": [
       "rainy", 
@@ -11497,7 +11352,7 @@
       "spring"
     ]
   }, 
-  "umbrella on ground": {
+  "umbrella_on_ground": {
     "category": "objects", 
     "char": "⛱", 
     "keywords": [
@@ -11505,8 +11360,8 @@
       "summer"
     ]
   }, 
-  "umbrella without rain": {
-    "category": "animals and nature", 
+  "umbrella_without_rain": {
+    "category": "animals_and_nature", 
     "char": "☂", 
     "keywords": [
       "weather", 
@@ -11522,9 +11377,8 @@
       "bored", 
       "straight face", 
       "serious", 
-      "not amused", 
-      "bore", 
-      "amuse"
+      "not_amused", 
+      "bore"
     ]
   }, 
   "underage": {
@@ -11540,8 +11394,8 @@
       "underage"
     ]
   }, 
-  "unicorn face": {
-    "category": "animals and nature", 
+  "unicorn_face": {
+    "category": "animals_and_nature", 
     "char": "🦄", 
     "keywords": [
       "mystical", 
@@ -11565,7 +11419,7 @@
       "high"
     ]
   }, 
-  "upside down": {
+  "upside_down": {
     "category": "people", 
     "char": "🙃", 
     "keywords": [
@@ -11627,8 +11481,8 @@
     "char": "🇻🇪", 
     "keywords": []
   }, 
-  "vertical traffic light": {
-    "category": "travel and places", 
+  "vertical_traffic_light": {
+    "category": "travel_and_places", 
     "char": "🚦", 
     "keywords": [
       "transportation", 
@@ -11649,7 +11503,7 @@
       "80"
     ]
   }, 
-  "vibration mode": {
+  "vibration_mode": {
     "category": "symbols", 
     "char": "📳", 
     "keywords": [
@@ -11657,7 +11511,7 @@
       "phone"
     ]
   }, 
-  "video camera": {
+  "video_camera": {
     "category": "objects", 
     "char": "📹", 
     "keywords": [
@@ -11665,7 +11519,7 @@
       "record"
     ]
   }, 
-  "video game": {
+  "video_game": {
     "category": "activity", 
     "char": "🎮", 
     "keywords": [
@@ -11712,7 +11566,7 @@
     ]
   }, 
   "volcano": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "🌋", 
     "keywords": [
       "photo", 
@@ -11740,7 +11594,7 @@
       "word"
     ]
   }, 
-  "vulcan salute": {
+  "vulcan_salute": {
     "category": "people", 
     "char": "🖖", 
     "keywords": [
@@ -11766,8 +11620,8 @@
       "futuna"
     ]
   }, 
-  "waning crescent moon": {
-    "category": "animals and nature", 
+  "waning_crescent_moon": {
+    "category": "animals_and_nature", 
     "char": "🌘", 
     "keywords": [
       "twilight", 
@@ -11776,12 +11630,11 @@
       "night", 
       "evening", 
       "sleep", 
-      "wan", 
       "even"
     ]
   }, 
-  "waning gibbous moon": {
-    "category": "animals and nature", 
+  "waning_gibbous_moon": {
+    "category": "animals_and_nature", 
     "char": "🌖", 
     "keywords": [
       "twilight", 
@@ -11790,10 +11643,8 @@
       "night", 
       "evening", 
       "sleep", 
-      "waxing gibbous moon", 
-      "wan", 
-      "even", 
-      "wax"
+      "waxing_gibbous_moon", 
+      "even"
     ]
   }, 
   "warning": {
@@ -11829,8 +11680,8 @@
       "accessory"
     ]
   }, 
-  "water buffalo": {
-    "category": "animals and nature", 
+  "water_buffalo": {
+    "category": "animals_and_nature", 
     "char": "🐃", 
     "keywords": [
       "ox", 
@@ -11838,7 +11689,7 @@
     ]
   }, 
   "watermelon": {
-    "category": "food and drink", 
+    "category": "food_and_drink", 
     "char": "🍉", 
     "keywords": [
       "fruit", 
@@ -11862,15 +11713,14 @@
       "hand"
     ]
   }, 
-  "waving black flag": {
+  "waving_black_flag": {
     "category": "objects", 
     "char": "🏴", 
     "keywords": [
-      "pirate", 
-      "wave"
+      "pirate"
     ]
   }, 
-  "waving white flag": {
+  "waving_white_flag": {
     "category": "objects", 
     "char": "🏳", 
     "keywords": [
@@ -11880,12 +11730,11 @@
       "surrender", 
       "give up", 
       "fail", 
-      "wave", 
       "lose", 
       "lose"
     ]
   }, 
-  "wavy dash": {
+  "wavy_dash": {
     "category": "symbols", 
     "char": "〰️", 
     "keywords": [
@@ -11897,8 +11746,8 @@
       "scribble"
     ]
   }, 
-  "waxing crescent moon": {
-    "category": "animals and nature", 
+  "waxing_crescent_moon": {
+    "category": "animals_and_nature", 
     "char": "🌒", 
     "keywords": [
       "twilight", 
@@ -11907,7 +11756,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "wax", 
       "even"
     ]
   }, 
@@ -11934,7 +11782,7 @@
     ]
   }, 
   "wedding": {
-    "category": "travel and places", 
+    "category": "travel_and_places", 
     "char": "💒", 
     "keywords": [
       "love", 
@@ -11946,7 +11794,7 @@
       "groom"
     ]
   }, 
-  "weight lifter": {
+  "weight_lifter": {
     "category": "activity", 
     "char": "🏋", 
     "keywords": [
@@ -11962,7 +11810,7 @@
     "keywords": []
   }, 
   "whale": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐳", 
     "keywords": [
       "sea", 
@@ -11970,7 +11818,7 @@
     ]
   }, 
   "whale2": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐋", 
     "keywords": [
       "sea", 
@@ -11978,7 +11826,7 @@
       "whale"
     ]
   }, 
-  "wheel of dharma": {
+  "wheel_of_dharma": {
     "category": "symbols", 
     "char": "☸", 
     "keywords": [
@@ -11998,7 +11846,7 @@
       "accessibility"
     ]
   }, 
-  "white check mark": {
+  "white_check_mark": {
     "category": "symbols", 
     "char": "✅", 
     "keywords": [
@@ -12011,7 +11859,7 @@
       ""
     ]
   }, 
-  "white circle": {
+  "white_circle": {
     "category": "symbols", 
     "char": "⚪", 
     "keywords": [
@@ -12019,23 +11867,23 @@
       "round"
     ]
   }, 
-  "white flower": {
+  "white_flower": {
     "category": "symbols", 
     "char": "💮", 
     "keywords": [
       "japanese", 
       "spring", 
-      "cherry blossom"
+      "cherry_blossom"
     ]
   }, 
-  "white frowning": {
+  "white_frowning": {
     "category": "people", 
     "char": "☹", 
     "keywords": [
       "sad"
     ]
   }, 
-  "white large square": {
+  "white_large_square": {
     "category": "symbols", 
     "char": "⬜", 
     "keywords": [
@@ -12045,7 +11893,7 @@
       "button"
     ]
   }, 
-  "white medium small square": {
+  "white_medium_small_square": {
     "category": "symbols", 
     "char": "◽", 
     "keywords": [
@@ -12055,7 +11903,7 @@
       "button"
     ]
   }, 
-  "white medium square": {
+  "white_medium_square": {
     "category": "symbols", 
     "char": "◻️", 
     "keywords": [
@@ -12064,7 +11912,7 @@
       "icon"
     ]
   }, 
-  "white small square": {
+  "white_small_square": {
     "category": "symbols", 
     "char": "▫️", 
     "keywords": [
@@ -12072,7 +11920,7 @@
       "icon"
     ]
   }, 
-  "white square button": {
+  "white_square_button": {
     "category": "symbols", 
     "char": "🔳", 
     "keywords": [
@@ -12080,38 +11928,37 @@
       "input"
     ]
   }, 
-  "white sun behind cloud": {
-    "category": "animals and nature", 
+  "white_sun_behind_cloud": {
+    "category": "animals_and_nature", 
     "char": "🌥", 
     "keywords": [
       "weather"
     ]
   }, 
-  "white sun behind cloud with rain": {
-    "category": "animals and nature", 
+  "white_sun_behind_cloud_with_rain": {
+    "category": "animals_and_nature", 
     "char": "🌦", 
     "keywords": [
       "weather"
     ]
   }, 
-  "white sun with small cloud": {
-    "category": "animals and nature", 
+  "white_sun_with_small_cloud": {
+    "category": "animals_and_nature", 
     "char": "🌤", 
     "keywords": [
       "weather", 
       "cloud"
     ]
   }, 
-  "wind blowing face": {
-    "category": "animals and nature", 
+  "wind_blowing_face": {
+    "category": "animals_and_nature", 
     "char": "🌬", 
     "keywords": [
       "gust", 
-      "air", 
-      "blow"
+      "air"
     ]
   }, 
-  "wind chime": {
+  "wind_chime": {
     "category": "objects", 
     "char": "🎐", 
     "keywords": [
@@ -12120,8 +11967,8 @@
       "bell"
     ]
   }, 
-  "wine glass": {
-    "category": "food and drink", 
+  "wine_glass": {
+    "category": "food_and_drink", 
     "char": "🍷", 
     "keywords": [
       "drink", 
@@ -12141,7 +11988,7 @@
     ]
   }, 
   "wolf": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "🐺", 
     "keywords": [
       "wild", 
@@ -12161,18 +12008,17 @@
       "girl"
     ]
   }, 
-  "womans clothes": {
+  "womans_clothes": {
     "category": "people", 
     "char": "👚", 
     "keywords": [
       "fashion", 
       "shopping", 
       "blouse", 
-      "shirt", 
-      "woman"
+      "shirt"
     ]
   }, 
-  "womans hat": {
+  "womans_hat": {
     "category": "people", 
     "char": "👒", 
     "keywords": [
@@ -12181,7 +12027,6 @@
       "female", 
       "lady", 
       "spring", 
-      "woman", 
       "accessory"
     ]
   }, 
@@ -12199,7 +12044,7 @@
       "woman"
     ]
   }, 
-  "world map": {
+  "world_map": {
     "category": "objects", 
     "char": "🗺", 
     "keywords": [
@@ -12215,7 +12060,7 @@
       "nervous", 
       ":(", 
       "concerned", 
-      "oh no", 
+      "oh_no", 
       "anxious"
     ]
   }, 
@@ -12231,13 +12076,12 @@
       "tool"
     ]
   }, 
-  "writing hand": {
+  "writing_hand": {
     "category": "people", 
     "char": "✍", 
     "keywords": [
       "pen", 
       "stationery", 
-      "write", 
       "write"
     ]
   }, 
@@ -12251,7 +12095,7 @@
       "cancel"
     ]
   }, 
-  "yellow heart": {
+  "yellow_heart": {
     "category": "symbols", 
     "char": "💛", 
     "keywords": [
@@ -12280,12 +12124,12 @@
       "sale"
     ]
   }, 
-  "yin yang": {
+  "yin_yang": {
     "category": "symbols", 
     "char": "☯", 
     "keywords": [
       "balance", 
-      "yin yang", 
+      "yin_yang", 
       "Taoism", 
       "mystique"
     ]
@@ -12306,7 +12150,7 @@
     "keywords": []
   }, 
   "zap": {
-    "category": "animals and nature", 
+    "category": "animals_and_nature", 
     "char": "⚡", 
     "keywords": [
       "thunder", 
@@ -12331,7 +12175,7 @@
     "char": "🇿🇼", 
     "keywords": []
   }, 
-  "zipper mouth": {
+  "zipper_mouth": {
     "category": "people", 
     "char": "🤐", 
     "keywords": [
