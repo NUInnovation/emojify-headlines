@@ -212,7 +212,7 @@
       "hospital"
     ]
   }, 
-  "american samoa": {
+  "american_samoa": {
     "category": "flags", 
     "char": "🇦🇸", 
     "keywords": []
@@ -474,7 +474,9 @@
       "blue-square", 
       "return", 
       "rotade", 
-      "direction"
+      "direction", 
+      "turning", 
+      "turn"
     ]
   }, 
   "arrow_up": {
@@ -677,7 +679,8 @@
       "child", 
       "boy", 
       "girl", 
-      "toddler"
+      "toddler", 
+      "infant"
     ]
   }, 
   "baby_bottle": {
@@ -920,8 +923,8 @@
       "grr", 
       "yogi", 
       "wild", 
-      "brown bear", 
-      "black bear", 
+      "brown_bear", 
+      "black_bear", 
       "grizzly"
     ]
   }, 
@@ -1319,6 +1322,7 @@
       "water", 
       "sailing", 
       "sailboat", 
+      "sail", 
       "sail"
     ]
   }, 
@@ -1482,7 +1486,10 @@
       "male", 
       "guy", 
       "teenager", 
-      "friend"
+      "friend", 
+      "he", 
+      "his", 
+      "him"
     ]
   }, 
   "brazil": {
@@ -1528,6 +1535,7 @@
       "work", 
       "law", 
       "legal", 
+      "career", 
       "document"
     ]
   }, 
@@ -1546,20 +1554,18 @@
       "UK", 
       "english", 
       "england", 
-      "union jack"
+      "union_jack"
     ]
   }, 
-  "british indian ocean territory": {
+  "british_indian_ocean_territory": {
     "category": "flags", 
     "char": "🇮🇴", 
     "keywords": []
   }, 
-  "british virgin islands": {
+  "british_virgin_islands": {
     "category": "flags", 
     "char": "🇻🇬", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "broken_heart": {
     "category": "symbols", 
@@ -1647,7 +1653,7 @@
       "vehicle"
     ]
   }, 
-  "burkina faso": {
+  "burkina_faso": {
     "category": "flags", 
     "char": "🇧🇫", 
     "keywords": []
@@ -1704,7 +1710,7 @@
       "human"
     ]
   }, 
-  "cabo verde": {
+  "cabo_verde": {
     "category": "flags", 
     "char": "🇨🇻", 
     "keywords": []
@@ -1800,12 +1806,10 @@
       "canadian"
     ]
   }, 
-  "canary islands": {
+  "canary_islands": {
     "category": "flags", 
     "char": "🇮🇨", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "cancer": {
     "category": "symbols", 
@@ -1917,12 +1921,11 @@
       "cat"
     ]
   }, 
-  "cayman islands": {
+  "cayman_islands": {
     "category": "flags", 
     "char": "🇰🇾", 
     "keywords": [
-      "cayman", 
-      "island"
+      "cayman"
     ]
   }, 
   "cd": {
@@ -1938,7 +1941,7 @@
       "90"
     ]
   }, 
-  "central african republic": {
+  "central_african_republic": {
     "category": "flags", 
     "char": "🇨🇫", 
     "keywords": []
@@ -2054,8 +2057,7 @@
     "char": "🐔", 
     "keywords": [
       "cluck", 
-      "lay eggs", 
-      "egg"
+      "lay_eggs"
     ]
   }, 
   "children_crossing": {
@@ -2103,7 +2105,7 @@
       "sweet"
     ]
   }, 
-  "christmas island": {
+  "christmas_island": {
     "category": "flags", 
     "char": "🇨🇽", 
     "keywords": []
@@ -2528,7 +2530,7 @@
     "char": "🌨", 
     "keywords": [
       "weather", 
-      "rain and snow"
+      "rain_and_snow"
     ]
   }, 
   "cloud_with_tornado": {
@@ -2567,14 +2569,11 @@
       "mojito"
     ]
   }, 
-  "cocos keeling islands": {
+  "cocos_keeling_islands": {
     "category": "flags", 
     "char": "🇨🇨", 
     "keywords": [
       "keeling", 
-      "coco", 
-      "keel", 
-      "island", 
       "keel"
     ]
   }, 
@@ -2600,7 +2599,8 @@
       "death", 
       "rip", 
       "graveyard", 
-      "cemetery"
+      "cemetery", 
+      "grave"
     ]
   }, 
   "cold_sweat": {
@@ -2645,7 +2645,8 @@
       "laptop", 
       "screen", 
       "display", 
-      "monitor"
+      "monitor", 
+      "online"
     ]
   }, 
   "confetti_ball": {
@@ -2730,12 +2731,10 @@
       "grocery"
     ]
   }, 
-  "cook islands": {
+  "cook_islands": {
     "category": "flags", 
     "char": "🇨🇰", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "cookie": {
     "category": "food_and_drink", 
@@ -2791,7 +2790,7 @@
       "plant"
     ]
   }, 
-  "costa rica": {
+  "costa_rica": {
     "category": "flags", 
     "char": "🇨🇷", 
     "keywords": [
@@ -3097,7 +3096,7 @@
     "char": "🇨🇾", 
     "keywords": []
   }, 
-  "czech republic": {
+  "czech_republic": {
     "category": "flags", 
     "char": "🇨🇿", 
     "keywords": [
@@ -3356,7 +3355,7 @@
       "bark", 
       "faithful", 
       "pup", 
-      "man's best friend"
+      "man's_best_friend"
     ]
   }, 
   "dog2": {
@@ -3379,6 +3378,7 @@
       "sold", 
       "sell", 
       "budget", 
+      "investment", 
       "sale", 
       "sell"
     ]
@@ -3412,7 +3412,7 @@
     "char": "🇩🇲", 
     "keywords": []
   }, 
-  "dominican republic": {
+  "dominican_republic": {
     "category": "flags", 
     "char": "🇩🇴", 
     "keywords": [
@@ -3636,7 +3636,7 @@
       "green-square"
     ]
   }, 
-  "el salvador": {
+  "el_salvador": {
     "category": "flags", 
     "char": "🇸🇻", 
     "keywords": [
@@ -3697,7 +3697,7 @@
       "communication"
     ]
   }, 
-  "equatorial guinea": {
+  "equatorial_guinea": {
     "category": "flags", 
     "char": "🇬🇶", 
     "keywords": [
@@ -3858,13 +3858,12 @@
       "smoke"
     ]
   }, 
-  "falkland islands": {
+  "falkland_islands": {
     "category": "flags", 
     "char": "🇫🇰", 
     "keywords": [
       "falkland", 
-      "malvinas", 
-      "island"
+      "malvinas"
     ]
   }, 
   "fallen_leaf": {
@@ -4049,12 +4048,11 @@
       "child"
     ]
   }, 
-  "faroe islands": {
+  "faroe_islands": {
     "category": "flags", 
     "char": "🇫🇴", 
     "keywords": [
-      "faroe", 
-      "island"
+      "faroe"
     ]
   }, 
   "fast_forward": {
@@ -4509,26 +4507,24 @@
       "word"
     ]
   }, 
-  "french guiana": {
+  "french_guiana": {
     "category": "flags", 
     "char": "🇬🇫", 
     "keywords": [
       "guiana"
     ]
   }, 
-  "french polynesia": {
+  "french_polynesia": {
     "category": "flags", 
     "char": "🇵🇫", 
     "keywords": [
       "polynesia"
     ]
   }, 
-  "french sourthern territories": {
+  "french_sourthern_territories": {
     "category": "flags", 
     "char": "🇹🇫", 
-    "keywords": [
-      "territory"
-    ]
+    "keywords": []
   }, 
   "fried_shrimp": {
     "category": "food_and_drink", 
@@ -4636,7 +4632,7 @@
     "keywords": [
       "dice", 
       "random", 
-      "tabbletop", 
+      "tabletop", 
       "play", 
       "luck"
     ]
@@ -4730,7 +4726,9 @@
       "woman", 
       "gal", 
       "teenager", 
-      "friend"
+      "friend", 
+      "she", 
+      "her"
     ]
   }, 
   "globe_with_meridians": {
@@ -4928,7 +4926,7 @@
     "char": "🇬🇳", 
     "keywords": []
   }, 
-  "guinea bissau": {
+  "guinea_bissau": {
     "category": "flags", 
     "char": "🇬🇼", 
     "keywords": []
@@ -4987,11 +4985,11 @@
     "char": "🍔", 
     "keywords": [
       "meat", 
-      "fast food", 
+      "fast_food", 
       "beef", 
       "cheeseburger", 
       "mcdonalds", 
-      "burger king"
+      "burger_king"
     ]
   }, 
   "hammer": {
@@ -5030,7 +5028,7 @@
     "keywords": [
       "nibble", 
       "gnaw", 
-      "hamster wheel"
+      "hamster_wheel"
     ]
   }, 
   "hand": {
@@ -5102,10 +5100,9 @@
     "char": "🙉", 
     "keywords": [
       "monkey", 
-      "can't hear", 
-      "doesn't hear", 
-      "don't listen", 
-      "do"
+      "can't_hear", 
+      "doesn't_hear", 
+      "don't_listen"
     ]
   }, 
   "heart": {
@@ -5368,7 +5365,7 @@
       "bee"
     ]
   }, 
-  "hong kong": {
+  "hong_kong": {
     "category": "flags", 
     "char": "🇭🇰", 
     "keywords": [
@@ -5552,7 +5549,7 @@
       "purple-square", 
       "words", 
       "ID", 
-      "identification card", 
+      "identification_card", 
       "word"
     ]
   }, 
@@ -5676,7 +5673,7 @@
       "irish"
     ]
   }, 
-  "isle of man": {
+  "isle_of_man": {
     "category": "flags", 
     "char": "🇮🇲", 
     "keywords": []
@@ -5695,7 +5692,7 @@
       "italian"
     ]
   }, 
-  "ivory coast": {
+  "ivory_coast": {
     "category": "flags", 
     "char": "🇨🇮", 
     "keywords": []
@@ -6644,12 +6641,10 @@
       "red_leaf"
     ]
   }, 
-  "marshall islands": {
+  "marshall_islands": {
     "category": "flags", 
     "char": "🇲🇭", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "martinique": {
     "category": "flags", 
@@ -7297,18 +7292,11 @@
       "word"
     ]
   }, 
-  "new caledonia": {
+  "new_caledonia": {
     "category": "flags", 
     "char": "🇳🇨", 
     "keywords": [
       "caledonia"
-    ]
-  }, 
-  "new zealand": {
-    "category": "flags", 
-    "char": "🇳🇿", 
-    "keywords": [
-      "zealand"
     ]
   }, 
   "new_moon": {
@@ -7335,6 +7323,13 @@
       "evening", 
       "sleep", 
       "even"
+    ]
+  }, 
+  "new_zealand": {
+    "category": "flags", 
+    "char": "🇳🇿", 
+    "keywords": [
+      "zealand"
     ]
   }, 
   "newspaper": {
@@ -7510,26 +7505,25 @@
       "circle"
     ]
   }, 
-  "norfolk island": {
+  "norfolk_island": {
     "category": "flags", 
     "char": "🇳🇫", 
     "keywords": [
       "norfolk"
     ]
   }, 
-  "north korea": {
+  "north_korea": {
     "category": "flags", 
     "char": "🇰🇵", 
     "keywords": [
       "dprk"
     ]
   }, 
-  "northern mariana islands": {
+  "northern_mariana_islands": {
     "category": "flags", 
     "char": "🇲🇵", 
     "keywords": [
-      "mariana", 
-      "island"
+      "mariana"
     ]
   }, 
   "norway": {
@@ -7700,7 +7694,9 @@
       "male", 
       "men", 
       "old", 
-      "bernie"
+      "bernie", 
+      "sanders", 
+      "sander"
     ]
   }, 
   "older_woman": {
@@ -7947,7 +7943,7 @@
     "category": "animals_and_nature", 
     "char": "🐼", 
     "keywords": [
-      "black and white", 
+      "black_and_white", 
       "bamboo"
     ]
   }, 
@@ -7960,7 +7956,7 @@
       "document"
     ]
   }, 
-  "papua new guinea": {
+  "papua_new_guinea": {
     "category": "flags", 
     "char": "🇵🇬", 
     "keywords": [
@@ -8173,6 +8169,7 @@
     "keywords": [
       "tools", 
       "dig", 
+      "unearth", 
       "tool"
     ]
   }, 
@@ -8488,7 +8485,7 @@
       "ink"
     ]
   }, 
-  "puerto rico": {
+  "puerto_rico": {
     "category": "flags", 
     "char": "🇵🇷", 
     "keywords": [
@@ -9097,19 +9094,19 @@
       "sagittarius"
     ]
   }, 
-  "saint barthélemy": {
+  "saint_barthélemy": {
     "category": "flags", 
     "char": "🇧🇱", 
     "keywords": [
       "barthélemy"
     ]
   }, 
-  "saint helena": {
+  "saint_helena": {
     "category": "flags", 
     "char": "🇸🇭", 
     "keywords": []
   }, 
-  "saint kitts": {
+  "saint_kitts": {
     "category": "flags", 
     "char": "🇰🇳", 
     "keywords": [
@@ -9117,21 +9114,21 @@
       "nevis"
     ]
   }, 
-  "saint lucia": {
+  "saint_lucia": {
     "category": "flags", 
     "char": "🇱🇨", 
     "keywords": [
       "lucia"
     ]
   }, 
-  "saint pierre": {
+  "saint_pierre": {
     "category": "flags", 
     "char": "🇵🇲", 
     "keywords": [
       "miquelon"
     ]
   }, 
-  "saint vincent": {
+  "saint_vincent": {
     "category": "flags", 
     "char": "🇻🇨", 
     "keywords": [
@@ -9157,7 +9154,7 @@
     "char": "🇼🇸", 
     "keywords": []
   }, 
-  "san marino": {
+  "san_marino": {
     "category": "flags", 
     "char": "🇸🇲", 
     "keywords": [
@@ -9187,7 +9184,7 @@
       "christmas"
     ]
   }, 
-  "sao tome": {
+  "sao_tome": {
     "category": "flags", 
     "char": "🇸🇹", 
     "keywords": [
@@ -9206,7 +9203,7 @@
       "space"
     ]
   }, 
-  "saudi arabia": {
+  "saudi_arabia": {
     "category": "flags", 
     "char": "🇸🇦", 
     "keywords": [
@@ -9256,7 +9253,7 @@
       "education", 
       "bag", 
       "backpack", 
-      "book bag"
+      "book_bag"
     ]
   }, 
   "scissors": {
@@ -9349,10 +9346,9 @@
     "char": "🙈", 
     "keywords": [
       "monkey", 
-      "can't see", 
-      "doesn't see", 
-      "won't see", 
-      "do"
+      "can't_see", 
+      "doesn't_see", 
+      "won't_see"
     ]
   }, 
   "seedling": {
@@ -9483,7 +9479,7 @@
       "bathroom"
     ]
   }, 
-  "sierra leone": {
+  "sierra_leone": {
     "category": "flags", 
     "char": "🇸🇱", 
     "keywords": [
@@ -9520,7 +9516,7 @@
     "char": "🇸🇬", 
     "keywords": []
   }, 
-  "sint maarten": {
+  "sint_maarten": {
     "category": "flags", 
     "char": "🇸🇽", 
     "keywords": [
@@ -9904,12 +9900,10 @@
       "sport"
     ]
   }, 
-  "solomon islands": {
+  "solomon_islands": {
     "category": "flags", 
     "char": "🇸🇧", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "somalia": {
     "category": "flags", 
@@ -9947,19 +9941,19 @@
       "broadcast"
     ]
   }, 
-  "south africa": {
+  "south_africa": {
     "category": "flags", 
     "char": "🇿🇦", 
     "keywords": [
       "za"
     ]
   }, 
-  "south georgia": {
+  "south_georgia": {
     "category": "flags", 
     "char": "🇬🇸", 
     "keywords": []
   }, 
-  "south korea": {
+  "south_korea": {
     "category": "flags", 
     "char": "🇰🇷", 
     "keywords": [
@@ -9967,7 +9961,7 @@
       "korean"
     ]
   }, 
-  "south sudan": {
+  "south_sudan": {
     "category": "flags", 
     "char": "🇸🇸", 
     "keywords": [
@@ -10069,10 +10063,11 @@
     "char": "🙊", 
     "keywords": [
       "monkey", 
-      "can't speak", 
-      "won't speak", 
-      "don't speak", 
-      "omg"
+      "can't_speak", 
+      "won't_speak", 
+      "don't_speak", 
+      "omg", 
+      "secret"
     ]
   }, 
   "speaker": {
@@ -10168,7 +10163,7 @@
       "win"
     ]
   }, 
-  "sri lanka": {
+  "sri_lanka": {
     "category": "flags", 
     "char": "🇱🇰", 
     "keywords": [
@@ -10247,7 +10242,7 @@
     "char": "🗽", 
     "keywords": [
       "american", 
-      "newyork"
+      "new_york"
     ]
   }, 
   "steam_locomotive": {
@@ -11097,13 +11092,12 @@
     "char": "🇹🇲", 
     "keywords": []
   }, 
-  "turks and caicos": {
+  "turks_and_caicos": {
     "category": "flags", 
     "char": "🇹🇨", 
     "keywords": [
       "turks", 
       "caicos", 
-      "turk", 
       "turk"
     ]
   }, 
@@ -11547,12 +11541,10 @@
       "symphony"
     ]
   }, 
-  "virgin islands": {
+  "virgin_islands": {
     "category": "flags", 
     "char": "🇻🇮", 
-    "keywords": [
-      "island"
-    ]
+    "keywords": []
   }, 
   "virgo": {
     "category": "symbols", 
@@ -11804,7 +11796,7 @@
       "sport"
     ]
   }, 
-  "western sahara": {
+  "western_sahara": {
     "category": "flags", 
     "char": "🇪🇭", 
     "keywords": []
@@ -12155,7 +12147,7 @@
     "keywords": [
       "thunder", 
       "weather", 
-      "lightning bolt", 
+      "lightning_bolt", 
       "fast"
     ]
   }, 

@@ -72,7 +72,7 @@ def translate():
     return render_template('index.html')
 
 def load_dictionary():
-  with open('emojis.json') as f:
+  with open('emojis_lemmatized.json') as f:
     dictionary = json.load(f)
   return dictionary
 
@@ -161,7 +161,7 @@ def dictionary_lookup(dictionary, word):
     result = ""
 
   if print_statements:
-    print "Dictionary lookup:", result, "\n"
+    print "Dictionary lookup:", word, result, "\n"
 
   return result
 
