@@ -49,6 +49,12 @@ To deactivate your virtual environment:
 deactivate
 ```
 
+####3. Lemmatize the emoji JSON file:
+This will create a lemmatized version of the `emoji.json` file called `emojis_lemmatized.json`. This lemmatized file is what the application uses.
+```
+python lemmatize_json.py
+```
+
 ##To Dos
 - change color of input text if word recognized
 - synonym lookup/term expansion

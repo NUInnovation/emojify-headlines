@@ -6,7 +6,6 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
 
-
 app = Flask(__name__)
 @app.route('/')
 def hello_world():
@@ -31,39 +30,36 @@ def translate():
     if print_statements:
       print "Tagged input:", tags, "\n"
 
-    # translate each word individually
-    antonym = False
     translation = ""
-    for tag in tags:
+
+    num = len(tags)
+    i = 1
+
+    while i < num:
       trans = ""
+      add = 1
 
-      word = tag[0]
-      pos_tag = tag[1]
+      prev = tags[i-1][0]
+      prev_pos = tags[i-1][1]
+      curr = tags[i][0]
+      curr_pos = tags[i][1]
 
-      if print_statements:
-        print "Original word:", word
+      # bigram lookup
+      trans, skipTwo = bigram_lookup(dictionary, prev, curr, curr_pos)
+
+      # if no bigram, translate prev
+      if trans == "" and not skipTwo:
+        trans = unigram_lookup(dictionary, prev, prev_pos)
+
+      # if found bigram or "not not"
+      elif trans != "" or skipTwo:
+        add = add + 1
       
-      if word == "not":
-        if antonym == True:
-          antonym = False
-        else:
-          antonym = True
-        continue
-      
-      if antonym == True:
-        word = find_antonym(word, pos_tag)
-        antonym == False
-      
-      word = lemmatize(word, pos_tag)
-      trans = dictionary_lookup(dictionary, word)
-
-      if trans == "":
-        syns = find_synonyms(word, pos_tag)
-        for syn in syns:
-          trans = dictionary_lookup(dictionary, syn)
-          if trans != "":
-            break
-
+      # if last word and no bigram found
+      if (i == num - 1) and trans == "":
+        trans = trans + unigram_lookup(dictionary, curr, curr_pos)
+    
+      i = i + add
       translation += trans
 
     # render translation result
@@ -75,6 +71,30 @@ def load_dictionary():
   with open('emojis_lemmatized.json') as f:
     dictionary = json.load(f)
   return dictionary
+
+def unigram_lookup(dictionary, word, pos):
+  word = lemmatize(word, pos)
+  trans = dictionary_lookup(dictionary, word)
+  if trans == "":
+    syns = find_synonyms(word, pos)
+    for syn in syns:
+      trans = dictionary_lookup(dictionary, syn)
+      if trans != "":
+        break
+  return trans
+
+def bigram_lookup(dictionary, prev, curr, curr_pos):
+  skipTwo = False
+  if prev == "not" and curr != "not":
+    word = find_antonym(curr, curr_pos)
+    word = lemmatize(word, curr_pos)
+  elif prev == "not" and curr == "not":
+    skipTwo = True
+  else:
+    word = prev + "_" + curr
+
+  trans = dictionary_lookup(dictionary, word)
+  return trans, skipTwo
 
 def find_antonym(word, pos_tag):
   global print_statements

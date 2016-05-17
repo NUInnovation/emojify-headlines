@@ -6847,9 +6847,8 @@
       "classy", 
       "sir", 
       "moustache", 
-      "Donald_Trump", 
-      "Bernie_Sanders", 
-      "Ted_Cruz"
+      "donald_trump", 
+      "ted_cruz"
     ]
   }, 
   "man_levitating": {
@@ -8002,6 +8001,7 @@
       "male", 
       "men", 
       "old", 
+      "bernie_sanders",
       "bernie", 
       "sanders", 
       "sander", 
@@ -8017,8 +8017,9 @@
       "girl", 
       "lady", 
       "old", 
-      "Hillary_Clinton", 
-      "woman", 
+      "hillary_clinton", 
+      "clinton",
+      "hillary",
       "woman"
     ]
   }, 

@@ -615,7 +615,7 @@
     "category": "people"
   },
   "man": {
-    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache", "Donald_Trump", "Bernie_Sanders", "Ted_Cruz"],
+    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache", "donald_trump", "ted_cruz"],
     "char": "👨",
     "category": "people"
   },
@@ -625,17 +625,17 @@
     "category": "people"
   },
   "person_with_blond_hair": {
-    "keywords": ["man", "male", "boy", "blonde", "guy", "Hillary_Clinton"],
+    "keywords": ["man", "male", "boy", "blonde", "guy", "hillary_clinton"],
     "char": "👱",
     "category": "people"
   },
   "older_man": {
-    "keywords": ["human", "male", "men", "old", "bernie", "sanders"],
+    "keywords": ["human", "male", "men", "old", "bernie", "sanders", "bernie_sanders"],
     "char": "👴",
     "category": "people"
   },
   "older_woman": {
-    "keywords": ["female", "women", "girl", "lady", "old", "Hillary_Clinton"],
+    "keywords": ["female", "women", "girl", "lady", "old", "hillary_clinton"],
     "char": "👵",
     "category": "people"
   },
