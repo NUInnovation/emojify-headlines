@@ -970,7 +970,7 @@
     "category": "people"
   },
   "crown": {
-    "keywords": ["king", "queen", "leader", "royalty", "lord", "prince", "princess"],
+    "keywords": ["king", "queen", "leader", "royalty", "lord", "prince", "princess", "president"],
     "char": "👑",
     "category": "people"
   },
