@@ -60,6 +60,7 @@ python lemmatize_json.py
 - synonym lookup/term expansion
 - word frequency
 - keyword in search bar for fb and google + link
+- possessives ('s)
 
 ####Finished To-Dos
 - roots of words [DONE 05/01]
