@@ -450,12 +450,12 @@
     "category": "people"
   },
   "+1": {
-    "keywords": ["thumbsup", "yes", "awesome", "good", "agree", "accept", "cool", "hand", "like"],
+    "keywords": ["thumbs_up", "yes", "awesome", "good", "agree", "accept", "cool", "hand", "like"],
     "char": "👍",
     "category": "people"
   },
   "-1": {
-    "keywords": ["thumbsdown", "no", "dislike", "hand"],
+    "keywords": ["thumbs_down", "no", "dislike", "hand"],
     "char": "👎",
     "category": "people"
   },
@@ -615,7 +615,7 @@
     "category": "people"
   },
   "man": {
-    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache", "Donald_Trump", "Bernie_Sanders", "Ted_Cruz"],
+    "keywords": ["mustache", "father", "dad", "guy", "classy", "sir", "moustache", "donald_trump", "bernie_sanders", "Ted_Cruz"],
     "char": "👨",
     "category": "people"
   },
@@ -625,7 +625,7 @@
     "category": "people"
   },
   "person_with_blond_hair": {
-    "keywords": ["man", "male", "boy", "blonde", "guy", "Hillary_Clinton"],
+    "keywords": ["man", "male", "boy", "blonde", "guy", "hillary_clinton"],
     "char": "👱",
     "category": "people"
   },
@@ -635,7 +635,7 @@
     "category": "people"
   },
   "older_woman": {
-    "keywords": ["female", "women", "girl", "lady", "old", "Hillary_Clinton"],
+    "keywords": ["female", "women", "girl", "lady", "old", "hillary_clinton"],
     "char": "👵",
     "category": "people"
   },
@@ -670,7 +670,7 @@
     "category": "people"
   },
   "santa": {
-    "keywords": ["festival", "man", "male", "xmas", "father christmas", "christmas"],
+    "keywords": ["festival", "man", "male", "xmas", "father_christmas", "christmas"],
     "char": "🎅",
     "category": "people"
   },
@@ -1150,7 +1150,7 @@
     "category": "animals_and_nature"
   },
   "wolf": {
-    "keywords": [  "wild", "wild dog", "coyote"],
+    "keywords": [  "wild", "wild_dog", "coyote"],
     "char": "🐺",
     "category": "animals_and_nature"
   },
