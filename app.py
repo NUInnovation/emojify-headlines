@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from flask import Flask, request, render_template
 import optparse
 import os
@@ -18,6 +20,8 @@ def translate():
 
     # get input text from form
     inputtext = request.form['inputtext']
+    # inputtext = inputtext.encode('utf-8')
+    # inputtext = inputtext.replace("’", "'")
 
     # load dictionary JSON object
     dictionary = load_dictionary()
@@ -45,18 +49,18 @@ def translate():
       curr_pos = tags[i][1]
 
       # bigram lookup
-      trans, skipTwo = bigram_lookup(dictionary, prev, curr, curr_pos)
+      trans, foundBigram, skipTwo = bigram_lookup(dictionary, prev, curr, curr_pos)
 
       # if no bigram, translate prev
       if trans == "" and not skipTwo:
         trans = unigram_lookup(dictionary, prev, prev_pos)
 
       # if found bigram or "not not"
-      elif trans != "" or skipTwo:
+      elif foundBigram or skipTwo:
         add = add + 1
       
       # if last word and no bigram found
-      if (i == num - 1) and trans == "":
+      if (i == num - 1) and not foundBigram:
         trans = trans + unigram_lookup(dictionary, curr, curr_pos)
     
       i = i + add
@@ -85,6 +89,7 @@ def unigram_lookup(dictionary, word, pos):
 
 def bigram_lookup(dictionary, prev, curr, curr_pos):
   skipTwo = False
+  foundBigram = False
   if prev == "not" and curr != "not":
     word = find_antonym(curr, curr_pos)
     word = lemmatize(word, curr_pos)
@@ -94,7 +99,9 @@ def bigram_lookup(dictionary, prev, curr, curr_pos):
     word = prev + "_" + curr
 
   trans = dictionary_lookup(dictionary, word)
-  return trans, skipTwo
+  if trans != "":
+    foundBigram = True
+  return trans, foundBigram, skipTwo
 
 def find_antonym(word, pos_tag):
   global print_statements
