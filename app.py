@@ -85,6 +85,8 @@ def load_dictionary():
   return dictionary
 
 def unigram_lookup(dictionary, word, pos):
+  if word.startswith("'") or word.startswith('"'):
+    word = word[1:]
   word = lemmatize(word, pos)
   trans = dictionary_lookup(dictionary, word)
   if trans == "":
