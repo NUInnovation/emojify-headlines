@@ -1520,7 +1520,7 @@
     "category": "animals_and_nature"
   },
   "earth_americas": {
-    "keywords": ["globe", "world", "international", "Americas", "USA"],
+    "keywords": ["globe", "world", "international"],
     "char": "🌎",
     "category": "animals_and_nature"
   },
@@ -6349,8 +6349,8 @@
     "char": "🇦🇪",
     "category": "flags"
   },
-  "britain": {
-    "keywords": ["united", "kingdom", "great", "britain", "northern", "ireland", "flag", "british", "UK", "english", "england", "union_jack"],
+  "great_britain": {
+    "keywords": ["united", "kingdom", "britain", "northern", "ireland", "flag", "british", "UK", "english", "england", "union_jack"],
     "char": "🇬🇧",
     "category": "flags"
   },
