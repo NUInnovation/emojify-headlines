@@ -39,6 +39,11 @@ def translate():
     num = len(tags)
     i = 1
 
+    if num == 1:
+      curr = tags[0][0]
+      curr_pos = tags[0][1]
+      translation += unigram_lookup(dictionary, curr, curr_pos)
+
     while i < num:
       trans = ""
       add = 1
