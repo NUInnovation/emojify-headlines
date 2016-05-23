@@ -22,6 +22,9 @@ def translate():
     inputtext = request.form['inputtext']
     inputtext = inputtext.encode('utf-8')
     inputtext = inputtext.replace("’s", "")
+    inputtext = inputtext.replace("‘", "'")
+    inputtext = inputtext.replace("’", "'")
+
 
     # load dictionary JSON object
     dictionary = load_dictionary()
