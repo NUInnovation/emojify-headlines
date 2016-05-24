@@ -32,7 +32,7 @@ def get_pos(word):
   return nltk.pos_tag(word)
 
 def load_dictionary():
-  with open('emojis_lemmatized.json') as f:
+  with open('emojis.json') as f:
     dictionary = json.load(f)
   return dictionary
 

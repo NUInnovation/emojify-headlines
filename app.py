@@ -184,6 +184,8 @@ def dictionary_lookup(dictionary, word):
   result = ""
   result = unicode(result, 'utf-8')
 
+  word = word.lower()
+
   for key, value in dictionary.iteritems():
     if word == key:
       result = value["char"]

@@ -3,7 +3,7 @@
     "category": "people", 
     "char": "👍", 
     "keywords": [
-      "thumbsup", 
+      "thumbs_up", 
       "yes", 
       "awesome", 
       "good", 
@@ -18,7 +18,7 @@
     "category": "people", 
     "char": "👎", 
     "keywords": [
-      "thumbsdown", 
+      "thumbs_down", 
       "no", 
       "dislike", 
       "hand"
@@ -38,14 +38,7 @@
       "pass", 
       "hundred", 
       "number", 
-      "pas", 
-      "number", 
-      "pas", 
-      "pa", 
-      "number", 
-      "pas", 
-      "pa", 
-      "pa"
+      "pas"
     ]
   }, 
   "1234": {
@@ -54,8 +47,6 @@
     "keywords": [
       "numbers", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -124,8 +115,6 @@
       "sports", 
       "concert", 
       "entrance", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -173,8 +162,6 @@
       "airport", 
       "flight", 
       "landing", 
-      "land", 
-      "land", 
       "land"
     ]
   }, 
@@ -198,8 +185,6 @@
       "distilling", 
       "science", 
       "experiment", 
-      "distil", 
-      "distil", 
       "distil"
     ]
   }, 
@@ -262,8 +247,6 @@
       "heaven", 
       "wings", 
       "halo", 
-      "wing", 
-      "wing", 
       "wing"
     ]
   }, 
@@ -288,8 +271,6 @@
       "annoyed", 
       "frustrated", 
       "upset", 
-      "frustrate", 
-      "frustrate", 
       "frustrate"
     ]
   }, 
@@ -304,10 +285,6 @@
     "keywords": [
       "stunned", 
       "nervous", 
-      "anguish", 
-      "stun", 
-      "anguish", 
-      "stun", 
       "anguish", 
       "stun"
     ]
@@ -499,8 +476,6 @@
       "rotade", 
       "direction", 
       "turning", 
-      "turn", 
-      "turn", 
       "turn"
     ]
   }, 
@@ -585,8 +560,6 @@
       "paint", 
       "draw", 
       "colors", 
-      "color", 
-      "color", 
       "color"
     ]
   }, 
@@ -598,8 +571,6 @@
       "cars", 
       "transportation", 
       "express", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -628,10 +599,6 @@
       "surprised", 
       "poisoned", 
       "astonish", 
-      "poison", 
-      "astonish", 
-      "poison", 
-      "astonish", 
       "poison"
     ]
   }, 
@@ -643,14 +610,6 @@
       "sports", 
       "sneakers", 
       "tennis shoes", 
-      "shoe", 
-      "sport", 
-      "sneaker", 
-      "shoe", 
-      "shoe", 
-      "sport", 
-      "sneaker", 
-      "shoe", 
       "shoe", 
       "sport", 
       "sneaker", 
@@ -667,8 +626,6 @@
       "blue-square", 
       "payment", 
       "bank", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -681,8 +638,6 @@
       "atom_symbol", 
       "atoms", 
       "atom", 
-      "atom", 
-      "atom", 
       "atom"
     ]
   }, 
@@ -693,8 +648,6 @@
       "australian", 
       "aussie", 
       "aus", 
-      "au", 
-      "au", 
       "au"
     ]
   }, 
@@ -764,8 +717,6 @@
       "arrow", 
       "words", 
       "return", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -774,8 +725,6 @@
     "char": "🏸", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -881,8 +830,6 @@
       "cash", 
       "business", 
       "enterprise", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -916,10 +863,6 @@
       "sports", 
       "balls", 
       "sport", 
-      "ball", 
-      "sport", 
-      "ball", 
-      "sport", 
       "ball"
     ]
   }, 
@@ -930,10 +873,6 @@
       "sports", 
       "balls", 
       "NBA", 
-      "sport", 
-      "ball", 
-      "sport", 
-      "ball", 
       "sport", 
       "ball"
     ]
@@ -1037,8 +976,6 @@
       "summer", 
       "alcohol", 
       "booze", 
-      "beer", 
-      "beer", 
       "beer"
     ]
   }, 
@@ -1125,8 +1062,6 @@
       "sports", 
       "bike", 
       "exercise", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -1138,8 +1073,6 @@
       "bicycle", 
       "exercise", 
       "hipster", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -1155,10 +1088,6 @@
       "beach", 
       "summer", 
       "bathing suit", 
-      "swim", 
-      "bath", 
-      "swim", 
-      "bath", 
       "swim", 
       "bath"
     ]
@@ -1187,8 +1116,6 @@
       "woodpecker", 
       "peacock", 
       "dove", 
-      "cardinal", 
-      "cardinal", 
       "cardinal"
     ]
   }, 
@@ -1225,8 +1152,6 @@
       "game", 
       "play", 
       "magic", 
-      "card", 
-      "card", 
       "card"
     ]
   }, 
@@ -1271,8 +1196,6 @@
       "pen", 
       "stationery", 
       "writing", 
-      "write", 
-      "write", 
       "write", 
       "write"
     ]
@@ -1326,8 +1249,6 @@
       "nature", 
       "flowers", 
       "yellow", 
-      "flower", 
-      "flower", 
       "flower"
     ]
   }, 
@@ -1368,8 +1289,6 @@
       "chill", 
       "affection", 
       "valentines", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -1384,10 +1303,6 @@
       "embarrassed", 
       "shy", 
       "joy", 
-      "flush", 
-      "embarrass", 
-      "flush", 
-      "embarrass", 
       "flush", 
       "embarrass"
     ]
@@ -1407,8 +1322,6 @@
       "water", 
       "sailing", 
       "sailboat", 
-      "sail", 
-      "sail", 
       "sail", 
       "sail"
     ]
@@ -1477,8 +1390,6 @@
       "literature", 
       "library", 
       "study", 
-      "book", 
-      "book", 
       "book"
     ]
   }, 
@@ -1501,8 +1412,6 @@
       "fashion", 
       "cowboy", 
       "cowgirl", 
-      "shoe", 
-      "shoe", 
       "shoe"
     ]
   }, 
@@ -1538,8 +1447,6 @@
       "romance", 
       "romantic", 
       "gift", 
-      "flower", 
-      "flower", 
       "flower"
     ]
   }, 
@@ -1558,8 +1465,6 @@
     "char": "🏹", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -1570,8 +1475,6 @@
       "sports", 
       "fun", 
       "play", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -1633,27 +1536,7 @@
       "law", 
       "legal", 
       "career", 
-      "document", 
-      "document", 
       "document"
-    ]
-  }, 
-  "britain": {
-    "category": "flags", 
-    "char": "🇬🇧", 
-    "keywords": [
-      "united", 
-      "kingdom", 
-      "great", 
-      "britain", 
-      "northern", 
-      "ireland", 
-      "flag", 
-      "british", 
-      "UK", 
-      "english", 
-      "england", 
-      "union_jack"
     ]
   }, 
   "british_indian_ocean_territory": {
@@ -1700,8 +1583,6 @@
       "wip", 
       "working", 
       "progress", 
-      "work", 
-      "work", 
       "work"
     ]
   }, 
@@ -1711,10 +1592,6 @@
     "keywords": [
       "houses", 
       "photo", 
-      "building", 
-      "house", 
-      "building", 
-      "house", 
       "building", 
       "house"
     ]
@@ -1812,10 +1689,6 @@
       "group", 
       "team", 
       "user", 
-      "human", 
-      "user", 
-      "human", 
-      "user", 
       "human"
     ]
   }, 
@@ -1830,8 +1703,6 @@
     "keywords": [
       "plant", 
       "cacti", 
-      "cactus", 
-      "cactus", 
       "cactus"
     ]
   }, 
@@ -1858,8 +1729,6 @@
     "keywords": [
       "iphone", 
       "incoming", 
-      "call", 
-      "call", 
       "call"
     ]
   }, 
@@ -1885,8 +1754,6 @@
     "keywords": [
       "gadgets", 
       "photography", 
-      "gadget", 
-      "gadget", 
       "gadget"
     ]
   }, 
@@ -1896,8 +1763,6 @@
     "keywords": [
       "photography", 
       "gadgets", 
-      "gadget", 
-      "gadget", 
       "gadget"
     ]
   }, 
@@ -1913,8 +1778,6 @@
       "photo", 
       "outdoors", 
       "tent", 
-      "camp", 
-      "camp", 
       "camp"
     ]
   }, 
@@ -1965,8 +1828,6 @@
       "alphabet", 
       "words", 
       "blue-square", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -2013,8 +1874,6 @@
       "organizing", 
       "business", 
       "stationery", 
-      "organize", 
-      "organize", 
       "organize"
     ]
   }, 
@@ -2041,8 +1900,6 @@
     "keywords": [
       "meow", 
       "cats", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -2063,8 +1920,6 @@
       "disc", 
       "90s", 
       "album", 
-      "90", 
-      "90", 
       "90"
     ]
   }, 
@@ -2084,8 +1939,6 @@
     "keywords": [
       "lock", 
       "arrest", 
-      "chain", 
-      "chain", 
       "chain"
     ]
   }, 
@@ -2115,8 +1968,8 @@
       "bad", 
       "failure", 
       "decrease", 
-      "sale", 
-      "sale", 
+      "reduce", 
+      "shrink", 
       "sale"
     ]
   }, 
@@ -2136,8 +1989,7 @@
       "success", 
       "grow", 
       "increase", 
-      "sale", 
-      "sale", 
+      "economy", 
       "sale"
     ]
   }, 
@@ -2165,8 +2017,6 @@
     "keywords": [
       "food", 
       "fruit", 
-      "cherry", 
-      "cherry", 
       "cherry"
     ]
   }, 
@@ -2204,10 +2054,6 @@
       "sign", 
       "driving", 
       "yellow-diamond", 
-      "warn", 
-      "drive", 
-      "warn", 
-      "drive", 
       "warn", 
       "drive"
     ]
@@ -2310,10 +2156,6 @@
       "sky", 
       "buildings", 
       "even", 
-      "building", 
-      "even", 
-      "building", 
-      "even", 
       "building"
     ]
   }, 
@@ -2333,8 +2175,6 @@
       "alphabet", 
       "words", 
       "red-square", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -2347,8 +2187,6 @@
       "applause", 
       "congrats", 
       "yay", 
-      "hand", 
-      "hand", 
       "hand"
     ]
   }, 
@@ -2367,8 +2205,6 @@
     "keywords": [
       "stationery", 
       "documents", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -2383,8 +2219,6 @@
       "hour", 
       "minute", 
       "seconds", 
-      "second", 
-      "second", 
       "second"
     ]
   }, 
@@ -2705,12 +2539,6 @@
       "suits", 
       "club", 
       "card", 
-      "suit", 
-      "club", 
-      "card", 
-      "suit", 
-      "club", 
-      "card", 
       "suit"
     ]
   }, 
@@ -2731,8 +2559,6 @@
     "char": "🇨🇨", 
     "keywords": [
       "keeling", 
-      "keel", 
-      "keel", 
       "keel"
     ]
   }, 
@@ -2827,10 +2653,6 @@
       "unwell", 
       "oops", 
       "confound", 
-      "confuse", 
-      "confound", 
-      "confuse", 
-      "confound", 
       "confuse"
     ]
   }, 
@@ -2841,8 +2663,6 @@
       "indifference", 
       "huh", 
       "hmmm", 
-      "confuse", 
-      "confuse", 
       "confuse"
     ]
   }, 
@@ -2854,8 +2674,6 @@
       "kanji", 
       "japanese", 
       "red-circle", 
-      "congratulation", 
-      "congratulation", 
       "congratulation"
     ]
   }, 
@@ -2867,8 +2685,6 @@
       "progress", 
       "caution", 
       "warning", 
-      "warn", 
-      "warn", 
       "warn"
     ]
   }, 
@@ -2897,8 +2713,6 @@
       "building", 
       "shopping", 
       "groceries", 
-      "grocery", 
-      "grocery", 
       "grocery"
     ]
   }, 
@@ -2925,8 +2739,6 @@
     "keywords": [
       "words", 
       "blue-square", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -2995,10 +2807,6 @@
       "marriage", 
       "heterosexual", 
       "date", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine"
     ]
   }, 
@@ -3014,10 +2822,6 @@
       "valentines", 
       "marriage", 
       "date", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine"
     ]
   }, 
@@ -3032,10 +2836,6 @@
       "dating", 
       "marriage", 
       "kiss", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine", 
       "date"
     ]
@@ -3078,8 +2878,6 @@
       "bill", 
       "payment", 
       "shopping", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -3093,8 +2891,6 @@
       "evening", 
       "magic", 
       "good_night", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -3103,8 +2899,6 @@
     "char": "🏏", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -3150,7 +2944,8 @@
       "royalty", 
       "lord", 
       "prince", 
-      "princess"
+      "princess", 
+      "president"
     ]
   }, 
   "cry": {
@@ -3162,8 +2957,6 @@
       "depressed", 
       "upset", 
       ":'(", 
-      "tear", 
-      "tear", 
       "tear"
     ]
   }, 
@@ -3176,10 +2969,6 @@
       "sad", 
       "cats", 
       "upset", 
-      "tear", 
-      "cat", 
-      "tear", 
-      "cat", 
       "tear", 
       "cat"
     ]
@@ -3215,8 +3004,6 @@
       "heart_pain", 
       "lovestruck", 
       "love_struck", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -3243,8 +3030,6 @@
       "sales", 
       "dollar", 
       "travel", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -3274,8 +3059,6 @@
       "border", 
       "blue-square", 
       "TSA", 
-      "custom", 
-      "custom", 
       "custom"
     ]
   }, 
@@ -3338,12 +3121,6 @@
       "girls", 
       "dancer", 
       "woman", 
-      "girl", 
-      "dancer", 
-      "woman", 
-      "girl", 
-      "dancer", 
-      "woman", 
       "girl"
     ]
   }, 
@@ -3363,8 +3140,6 @@
       "cool", 
       "accessories", 
       "sunny", 
-      "accessory", 
-      "accessory", 
       "accessory"
     ]
   }, 
@@ -3458,8 +3233,6 @@
       "technology", 
       "computing", 
       "screen", 
-      "compute", 
-      "compute", 
       "compute"
     ]
   }, 
@@ -3495,12 +3268,6 @@
       "cards", 
       "magic", 
       "suits", 
-      "diamond", 
-      "card", 
-      "suit", 
-      "diamond", 
-      "card", 
-      "suit", 
       "diamond", 
       "card", 
       "suit"
@@ -3599,10 +3366,6 @@
       "budget", 
       "investment", 
       "sale", 
-      "sell", 
-      "sale", 
-      "sell", 
-      "sale", 
       "sell"
     ]
   }, 
@@ -3613,8 +3376,6 @@
       "japanese", 
       "toy", 
       "kimono", 
-      "doll", 
-      "doll", 
       "doll"
     ]
   }, 
@@ -3629,8 +3390,6 @@
       "fins", 
       "beach", 
       "marine", 
-      "fin", 
-      "fin", 
       "fin"
     ]
   }, 
@@ -3786,9 +3545,7 @@
     "keywords": [
       "globe", 
       "world", 
-      "international", 
-      "Americas", 
-      "USA"
+      "international"
     ]
   }, 
   "earth_asia": {
@@ -3841,8 +3598,6 @@
       "8", 
       "blue-square", 
       "numbers", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -3905,8 +3660,6 @@
     "keywords": [
       "words", 
       "arrow", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -3971,8 +3724,6 @@
       "sales", 
       "dollar", 
       "currency", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -4015,8 +3766,6 @@
       "punctuation", 
       "wow", 
       "warning", 
-      "warn", 
-      "warn", 
       "warn"
     ]
   }, 
@@ -4053,10 +3802,6 @@
       "geek", 
       "vision", 
       "eyeglass", 
-      "accessory", 
-      "eyeglass", 
-      "accessory", 
-      "eyeglass", 
       "accessory"
     ]
   }, 
@@ -4070,8 +3815,6 @@
       "peek", 
       "see", 
       "show", 
-      "eye", 
-      "eye", 
       "eye"
     ]
   }, 
@@ -4117,8 +3860,6 @@
       "leaves", 
       "yellow_leaf", 
       "autumn", 
-      "leaf", 
-      "leaf", 
       "leaf"
     ]
   }, 
@@ -4135,10 +3876,6 @@
       "mother", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4150,10 +3887,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4164,8 +3897,6 @@
       "home", 
       "parents", 
       "child", 
-      "parent", 
-      "parent", 
       "parent"
     ]
   }, 
@@ -4176,10 +3907,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4192,10 +3919,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4206,10 +3929,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4222,10 +3941,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4236,10 +3951,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4252,10 +3963,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4266,10 +3973,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4282,10 +3985,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4296,10 +3995,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4312,10 +4007,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4327,10 +4018,6 @@
       "parents", 
       "children", 
       "parent", 
-      "child", 
-      "parent", 
-      "child", 
-      "parent", 
       "child"
     ]
   }, 
@@ -4341,10 +4028,6 @@
       "home", 
       "parents", 
       "children", 
-      "parent", 
-      "child", 
-      "parent", 
-      "child", 
       "parent", 
       "child"
     ]
@@ -4385,10 +4068,6 @@
       "huh", 
       "fear", 
       "scar", 
-      "terrify", 
-      "scar", 
-      "terrify", 
-      "scar", 
       "terrify"
     ]
   }, 
@@ -4402,12 +4081,6 @@
       "cat", 
       "pet", 
       "paw_prints", 
-      "foot", 
-      "track", 
-      "footprint", 
-      "foot", 
-      "track", 
-      "footprint", 
       "foot", 
       "track", 
       "footprint"
@@ -4425,10 +4098,6 @@
       "valentines", 
       "marriage", 
       "date", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine"
     ]
   }, 
@@ -4443,10 +4112,6 @@
       "dating", 
       "marriage", 
       "kiss", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine", 
       "date"
     ]
@@ -4474,8 +4139,6 @@
     "char": "🏑", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -4492,8 +4155,6 @@
     "keywords": [
       "filing", 
       "organizing", 
-      "organize", 
-      "organize", 
       "organize"
     ]
   }, 
@@ -4504,8 +4165,6 @@
       "documents", 
       "business", 
       "office", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -4550,8 +4209,6 @@
       "transportation", 
       "cars", 
       "vehicle", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -4563,10 +4220,6 @@
       "festival", 
       "carnival", 
       "congratulations", 
-      "firework", 
-      "congratulation", 
-      "firework", 
-      "congratulation", 
       "firework", 
       "congratulation"
     ]
@@ -4581,8 +4234,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -4596,8 +4247,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -4638,8 +4287,6 @@
       "fingers", 
       "hand", 
       "grasp", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -4651,8 +4298,6 @@
       "numbers", 
       "blue-square", 
       "prime", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -4665,8 +4310,6 @@
       "koinobori", 
       "carp", 
       "banner", 
-      "flag", 
-      "flag", 
       "flag"
     ]
   }, 
@@ -4678,8 +4321,6 @@
       "camping", 
       "sight", 
       "night", 
-      "camp", 
-      "camp", 
       "camp"
     ]
   }, 
@@ -4702,10 +4343,6 @@
       "90s", 
       "80s", 
       "90", 
-      "80", 
-      "90", 
-      "80", 
-      "90", 
       "80"
     ]
   }, 
@@ -4727,12 +4364,6 @@
       "shy", 
       "flattered", 
       "embarrassed", 
-      "flush", 
-      "flatter", 
-      "embarrass", 
-      "flush", 
-      "flatter", 
-      "embarrass", 
       "flush", 
       "flatter", 
       "embarrass"
@@ -4764,10 +4395,6 @@
       "NFL", 
       "Super Bowl", 
       "sport", 
-      "ball", 
-      "sport", 
-      "ball", 
-      "sport", 
       "ball"
     ]
   }, 
@@ -4782,16 +4409,6 @@
       "steps", 
       "walk", 
       "journey", 
-      "footprint", 
-      "foot", 
-      "track", 
-      "walk", 
-      "step", 
-      "footprint", 
-      "foot", 
-      "track", 
-      "walk", 
-      "step", 
       "footprint", 
       "foot", 
       "track", 
@@ -4836,8 +4453,6 @@
       "4", 
       "numbers", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -4873,8 +4488,6 @@
     "keywords": [
       "blue-square", 
       "words", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -4914,10 +4527,6 @@
       "snack", 
       "fast food", 
       "fry", 
-      "chip", 
-      "fry", 
-      "chip", 
-      "fry", 
       "chip"
     ]
   }, 
@@ -4938,8 +4547,6 @@
     "keywords": [
       "aw", 
       "what", 
-      "frown", 
-      "frown", 
       "frown"
     ]
   }, 
@@ -4963,8 +4570,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -4978,8 +4583,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -4992,8 +4595,6 @@
       "death", 
       "rip", 
       "ashes", 
-      "ash", 
-      "ash", 
       "ash"
     ]
   }, 
@@ -5098,8 +4699,6 @@
       "valentines", 
       "present", 
       "promise", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5142,8 +4741,6 @@
       "flag", 
       "hole", 
       "summer", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -5153,8 +4750,6 @@
     "keywords": [
       "sports", 
       "business", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -5165,9 +4760,24 @@
       "fruit", 
       "food", 
       "wine", 
-      "grape", 
-      "grape", 
       "grape"
+    ]
+  }, 
+  "great_britain": {
+    "category": "flags", 
+    "char": "🇬🇧", 
+    "keywords": [
+      "united", 
+      "kingdom", 
+      "britain", 
+      "northern", 
+      "ireland", 
+      "flag", 
+      "british", 
+      "UK", 
+      "english", 
+      "england", 
+      "union_jack"
     ]
   }, 
   "greece": {
@@ -5206,8 +4816,6 @@
       "like", 
       "affection", 
       "valentines", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5231,8 +4839,6 @@
       "wow", 
       "warning", 
       "somewhat_important", 
-      "warn", 
-      "warn", 
       "warn"
     ]
   }, 
@@ -5245,10 +4851,6 @@
       "huh", 
       "confused", 
       "doubt", 
-      "confuse", 
-      "doubt", 
-      "confuse", 
-      "doubt", 
       "confuse"
     ]
   }, 
@@ -5260,8 +4862,6 @@
       "teeth", 
       "D:", 
       "pain", 
-      "grimace", 
-      "grimace", 
       "grimace"
     ]
   }, 
@@ -5284,8 +4884,6 @@
       "joy", 
       ":D", 
       ":)", 
-      "grin", 
-      "grin", 
       "grin"
     ]
   }, 
@@ -5402,8 +5000,6 @@
       "tools", 
       "build", 
       "create", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -5414,8 +5010,6 @@
       "tools", 
       "build", 
       "create", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -5426,8 +5020,6 @@
       "tools", 
       "build", 
       "create", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -5450,8 +5042,6 @@
       "palm", 
       "ban", 
       "raised_hand", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -5463,8 +5053,6 @@
       "accessory", 
       "accessories", 
       "shopping", 
-      "accessory", 
-      "accessory", 
       "accessory"
     ]
   }, 
@@ -5505,10 +5093,6 @@
       "score", 
       "gadgets", 
       "headphone", 
-      "gadget", 
-      "headphone", 
-      "gadget", 
-      "headphone", 
       "gadget"
     ]
   }, 
@@ -5535,8 +5119,6 @@
       "happiness", 
       "passion", 
       "emotion", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5548,8 +5130,6 @@
       "love", 
       "like", 
       "memories", 
-      "memory", 
-      "memory", 
       "memory"
     ]
   }, 
@@ -5563,8 +5143,6 @@
       "valentines", 
       "infatuation", 
       "crush", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5577,10 +5155,6 @@
       "affection", 
       "cats", 
       "valentines", 
-      "cat", 
-      "valentine", 
-      "cat", 
-      "valentine", 
       "cat", 
       "valentine"
     ]
@@ -5595,8 +5169,6 @@
       "valentines", 
       "pink", 
       "in_love", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5611,8 +5183,6 @@
       "pink", 
       "in_love", 
       "super_love", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -5624,12 +5194,6 @@
       "cards", 
       "magic", 
       "suits", 
-      "heart", 
-      "card", 
-      "suit", 
-      "heart", 
-      "card", 
-      "suit", 
       "heart", 
       "card", 
       "suit"
@@ -5664,8 +5228,6 @@
       "payment", 
       "currency", 
       "buck", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -5745,8 +5307,6 @@
       "vegetable", 
       "flowers", 
       "beach", 
-      "flower", 
-      "flower", 
       "flower"
     ]
   }, 
@@ -5769,10 +5329,6 @@
       "pumps", 
       "stiletto", 
       "shoe", 
-      "pump", 
-      "shoe", 
-      "pump", 
-      "shoe", 
       "pump"
     ]
   }, 
@@ -5792,8 +5348,6 @@
     "char": "🕳", 
     "keywords": [
       "embarrassing", 
-      "embarrass", 
-      "embarrass", 
       "embarrass"
     ]
   }, 
@@ -5809,8 +5363,6 @@
       "bees", 
       "sweet", 
       "kitchen", 
-      "bee", 
-      "bee", 
       "bee"
     ]
   }, 
@@ -5837,10 +5389,6 @@
       "competition", 
       "gambling", 
       "luck", 
-      "bet", 
-      "gamble", 
-      "bet", 
-      "gamble", 
       "bet", 
       "gamble"
     ]
@@ -5936,8 +5484,6 @@
       "embrace", 
       "hug", 
       "jazz_hands", 
-      "hug", 
-      "hug", 
       "hug"
     ]
   }, 
@@ -5954,8 +5500,6 @@
     "keywords": [
       "woo", 
       "shh", 
-      "hush", 
-      "hush", 
       "hush"
     ]
   }, 
@@ -5973,8 +5517,6 @@
     "char": "🏒", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -5983,8 +5525,6 @@
     "char": "⛸", 
     "keywords": [
       "sports", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -6011,8 +5551,6 @@
       "words", 
       "ID", 
       "identification_card", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -6034,8 +5572,6 @@
       "devil", 
       "angry", 
       "horns", 
-      "horn", 
-      "horn", 
       "horn"
     ]
   }, 
@@ -6045,8 +5581,6 @@
     "keywords": [
       "email", 
       "documents", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -6116,8 +5650,6 @@
       "apple", 
       "gadgets", 
       "dial", 
-      "gadget", 
-      "gadget", 
       "gadget"
     ]
   }, 
@@ -6223,10 +5755,6 @@
       "shopping", 
       "pants", 
       "jean", 
-      "pant", 
-      "jean", 
-      "pant", 
-      "jean", 
       "pant"
     ]
   }, 
@@ -6247,8 +5775,6 @@
       "happy", 
       "haha", 
       "lol", 
-      "tear", 
-      "tear", 
       "tear"
     ]
   }, 
@@ -6260,10 +5786,6 @@
       "haha", 
       "happy", 
       "tears", 
-      "cat", 
-      "tear", 
-      "cat", 
-      "tear", 
       "cat", 
       "tear"
     ]
@@ -6331,8 +5853,6 @@
       "numbers", 
       "10", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -6345,8 +5865,6 @@
       "women", 
       "female", 
       "japanese", 
-      "woman", 
-      "woman", 
       "woman"
     ]
   }, 
@@ -6365,10 +5883,6 @@
       "affection", 
       "valentines", 
       "lip", 
-      "valentine", 
-      "lip", 
-      "valentine", 
-      "lip", 
       "valentine"
     ]
   }, 
@@ -6382,10 +5896,6 @@
       "valentines", 
       "infatuation", 
       "kiss", 
-      "valentine", 
-      "kiss", 
-      "valentine", 
-      "kiss", 
       "valentine"
     ]
   }, 
@@ -6394,8 +5904,6 @@
     "char": "😽", 
     "keywords": [
       "cats", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -6408,8 +5916,6 @@
       "affection", 
       "valentines", 
       "infatuation", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -6423,8 +5929,6 @@
       "valentines", 
       "infatuation", 
       "kiss", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -6435,8 +5939,6 @@
       "affection", 
       "valentines", 
       "infatuation", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -6487,8 +5989,6 @@
     "char": "🇱🇦", 
     "keywords": [
       "lao", 
-      "lao", 
-      "lao", 
       "lao"
     ]
   }, 
@@ -6530,8 +6030,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -6545,8 +6043,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -6578,8 +6074,6 @@
       "haha", 
       "glad", 
       "XD", 
-      "laugh", 
-      "laugh", 
       "laugh"
     ]
   }, 
@@ -6594,8 +6088,6 @@
       "grass", 
       "lawn", 
       "spring", 
-      "leaf", 
-      "leaf", 
       "leaf"
     ]
   }, 
@@ -6612,8 +6104,6 @@
     "keywords": [
       "notes", 
       "paper", 
-      "note", 
-      "note", 
       "note"
     ]
   }, 
@@ -6643,10 +6133,6 @@
       "message", 
       "talk", 
       "chatting", 
-      "word", 
-      "chat", 
-      "word", 
-      "chat", 
       "word", 
       "chat"
     ]
@@ -6688,8 +6174,6 @@
       "spots", 
       "wild", 
       "jungle", 
-      "spot", 
-      "spot", 
       "spot"
     ]
   }, 
@@ -6747,8 +6231,6 @@
     "keywords": [
       "rings", 
       "url", 
-      "ring", 
-      "ring", 
       "ring"
     ]
   }, 
@@ -6758,8 +6240,6 @@
     "keywords": [
       "documents", 
       "stationery", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -6778,8 +6258,6 @@
     "keywords": [
       "mouth", 
       "kiss", 
-      "lip", 
-      "lip", 
       "lip"
     ]
   }, 
@@ -6858,10 +6336,6 @@
       "said", 
       "say", 
       "say", 
-      "say", 
-      "say", 
-      "say", 
-      "say", 
       "say"
     ]
   }, 
@@ -6872,8 +6346,6 @@
       "like", 
       "affection", 
       "dating", 
-      "date", 
-      "date", 
       "date"
     ]
   }, 
@@ -6886,8 +6358,6 @@
       "affection", 
       "envelope", 
       "valentines", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -6909,8 +6379,6 @@
       "stationery", 
       "writing", 
       "write", 
-      "write", 
-      "write", 
       "write"
     ]
   }, 
@@ -6920,8 +6388,6 @@
     "keywords": [
       "drawing", 
       "creativity", 
-      "draw", 
-      "draw", 
       "draw"
     ]
   }, 
@@ -6931,8 +6397,6 @@
     "keywords": [
       "stationery", 
       "writing", 
-      "write", 
-      "write", 
       "write", 
       "write"
     ]
@@ -6944,8 +6408,6 @@
       "drawing", 
       "creativity", 
       "art", 
-      "draw", 
-      "draw", 
       "draw"
     ]
   }, 
@@ -7074,10 +6536,6 @@
       "valentines", 
       "marriage", 
       "date", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine"
     ]
   }, 
@@ -7092,10 +6550,6 @@
       "dating", 
       "marriage", 
       "kiss", 
-      "valentine", 
-      "date", 
-      "valentine", 
-      "date", 
       "valentine", 
       "date"
     ]
@@ -7154,8 +6608,6 @@
       "indian", 
       "hinduism", 
       "arabs", 
-      "arab", 
-      "arab", 
       "arab"
     ]
   }, 
@@ -7167,8 +6619,6 @@
       "male", 
       "men", 
       "dress shoes", 
-      "shoe", 
-      "shoe", 
       "shoe"
     ]
   }, 
@@ -7278,10 +6728,6 @@
       "test", 
       "study", 
       "document", 
-      "write", 
-      "document", 
-      "write", 
-      "document", 
       "write"
     ]
   }, 
@@ -7292,8 +6738,6 @@
       "hanukkah", 
       "candles", 
       "jewish", 
-      "candle", 
-      "candle", 
       "candle"
     ]
   }, 
@@ -7307,8 +6751,6 @@
       "blue-square", 
       "gender", 
       "male", 
-      "men", 
-      "men", 
       "men"
     ]
   }, 
@@ -7363,8 +6805,6 @@
       "fingers", 
       "rude", 
       "flip_off", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -7375,8 +6815,6 @@
       "award", 
       "winning", 
       "army", 
-      "win", 
-      "win", 
       "win"
     ]
   }, 
@@ -7388,8 +6826,6 @@
       "space", 
       "stars", 
       "galaxy", 
-      "star", 
-      "star", 
       "star"
     ]
   }, 
@@ -7411,8 +6847,6 @@
       "data", 
       "disk", 
       "90s", 
-      "90", 
-      "90", 
       "90"
     ]
   }, 
@@ -7457,8 +6891,6 @@
       "bills", 
       "payment", 
       "sale", 
-      "bill", 
-      "bill", 
       "bill"
     ]
   }, 
@@ -7470,8 +6902,6 @@
       "payment", 
       "coins", 
       "sale", 
-      "coin", 
-      "coin", 
       "coin"
     ]
   }, 
@@ -7540,8 +6970,6 @@
       "space", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -7622,8 +7050,6 @@
       "human", 
       "race", 
       "bike", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -7697,8 +7123,6 @@
       "muscles", 
       "fit", 
       "fitness", 
-      "muscle", 
-      "muscle", 
       "muscle"
     ]
   }, 
@@ -7838,8 +7262,6 @@
       "scientist", 
       "professor", 
       "researcher", 
-      "glass", 
-      "glass", 
       "glass"
     ]
   }, 
@@ -7867,8 +7289,6 @@
       "blue-square", 
       "words", 
       "start", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -7889,8 +7309,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -7904,8 +7322,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -7932,8 +7348,6 @@
       "words", 
       "shape", 
       "icon", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -7961,8 +7375,6 @@
       "evening", 
       "city", 
       "downtown", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -7973,8 +7385,6 @@
       "blue-square", 
       "numbers", 
       "9", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -8003,8 +7413,6 @@
       "circle", 
       "no_bicycles", 
       "no_biking", 
-      "prohibit", 
-      "prohibit", 
       "prohibit"
     ]
   }, 
@@ -8019,8 +7427,6 @@
       "denied", 
       "stop", 
       "circle", 
-      "deny", 
-      "deny", 
       "deny"
     ]
   }, 
@@ -8035,8 +7441,6 @@
       "disallow", 
       "can’t", 
       "can't", 
-      "deny", 
-      "deny", 
       "deny"
     ]
   }, 
@@ -8076,12 +7480,6 @@
       "walking", 
       "circle", 
       "no_jaywalk", 
-      "rule", 
-      "cross", 
-      "walk", 
-      "rule", 
-      "cross", 
-      "walk", 
       "rule", 
       "cross", 
       "walk"
@@ -8151,8 +7549,6 @@
       "notes", 
       "paper", 
       "study", 
-      "note", 
-      "note", 
       "note"
     ]
   }, 
@@ -8165,8 +7561,6 @@
       "record", 
       "paper", 
       "study", 
-      "note", 
-      "note", 
       "note"
     ]
   }, 
@@ -8176,8 +7570,6 @@
     "keywords": [
       "music", 
       "score", 
-      "note", 
-      "note", 
       "note"
     ]
   }, 
@@ -8188,8 +7580,6 @@
       "handy", 
       "tools", 
       "fix", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -8228,8 +7618,6 @@
       "ocean", 
       "sea", 
       "tentacles", 
-      "tentacle", 
-      "tentacle", 
       "tentacle"
     ]
   }, 
@@ -8277,10 +7665,6 @@
       "okay", 
       "sounds_good", 
       "finger", 
-      "limb", 
-      "finger", 
-      "limb", 
-      "finger", 
       "limb"
     ]
   }, 
@@ -8310,11 +7694,9 @@
       "male", 
       "men", 
       "old", 
-      "bernie_sanders", 
       "bernie", 
       "sanders", 
-      "sander", 
-      "sander", 
+      "bernie_sanders", 
       "sander"
     ]
   }, 
@@ -8328,9 +7710,6 @@
       "lady", 
       "old", 
       "hillary_clinton", 
-      "clinton", 
-      "hillary", 
-      "woman", 
       "woman"
     ]
   }, 
@@ -8357,8 +7736,6 @@
     "keywords": [
       "arrow", 
       "words", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -8397,8 +7774,6 @@
       "vehicle", 
       "cars", 
       "uber", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -8409,8 +7784,6 @@
       "blue-square", 
       "numbers", 
       "1", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -8420,8 +7793,6 @@
     "keywords": [
       "documents", 
       "load", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -8431,8 +7802,6 @@
     "keywords": [
       "fingers", 
       "butterfly", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8499,8 +7868,6 @@
       "cardboard", 
       "box", 
       "moving", 
-      "move", 
-      "move", 
       "move"
     ]
   }, 
@@ -8512,8 +7879,6 @@
       "office", 
       "paper", 
       "information", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -8524,8 +7889,6 @@
       "documents", 
       "office", 
       "paper", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -8536,8 +7899,6 @@
       "bbcall", 
       "oldschool", 
       "90s", 
-      "90", 
-      "90", 
       "90"
     ]
   }, 
@@ -8593,8 +7954,6 @@
     "keywords": [
       "documents", 
       "stationery", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -8619,8 +7978,6 @@
       "blue-square", 
       "alphabet", 
       "letter", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -8699,8 +8056,6 @@
       "writing", 
       "school", 
       "study", 
-      "write", 
-      "write", 
       "write"
     ]
   }, 
@@ -8730,8 +8085,6 @@
       "acting", 
       "theater", 
       "drama", 
-      "act", 
-      "act", 
       "act"
     ]
   }, 
@@ -8753,8 +8106,6 @@
       "depressed", 
       "discouraged", 
       "unhappy", 
-      "discourage", 
-      "discourage", 
       "discourage"
     ]
   }, 
@@ -8764,8 +8115,6 @@
     "keywords": [
       "sports", 
       "human", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -8778,7 +8127,7 @@
       "boy", 
       "blonde", 
       "guy", 
-      "Hillary_Clinton"
+      "hillary_clinton"
     ]
   }, 
   "person_with_pouting_face": {
@@ -8822,8 +8171,6 @@
       "tools", 
       "dig", 
       "unearth", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -8916,8 +8263,6 @@
       "fingers", 
       "hand", 
       "direction", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8928,8 +8273,6 @@
       "direction", 
       "fingers", 
       "hand", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8940,8 +8283,6 @@
       "fingers", 
       "hand", 
       "direction", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8952,8 +8293,6 @@
       "hand", 
       "fingers", 
       "direction", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8966,8 +8305,6 @@
       "direction", 
       "number_one", 
       "#1", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -8986,8 +8323,6 @@
       "law", 
       "legal", 
       "enforcement", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -9018,8 +8353,6 @@
       "movie theater", 
       "films", 
       "snack", 
-      "film", 
-      "film", 
       "film"
     ]
   }, 
@@ -9074,8 +8407,6 @@
       "bag", 
       "accessories", 
       "shopping", 
-      "accessory", 
-      "accessory", 
       "accessory"
     ]
   }, 
@@ -9104,10 +8435,6 @@
       "england", 
       "currency", 
       "sale", 
-      "bill", 
-      "sale", 
-      "bill", 
-      "sale", 
       "bill"
     ]
   }, 
@@ -9116,8 +8443,6 @@
     "char": "😾", 
     "keywords": [
       "cats", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -9180,8 +8505,6 @@
       "royalty", 
       "royal", 
       "wisdom", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -9194,10 +8517,6 @@
       "money", 
       "sales", 
       "shopping", 
-      "accessory", 
-      "sale", 
-      "accessory", 
-      "sale", 
       "accessory", 
       "sale"
     ]
@@ -9234,8 +8553,6 @@
       "confused", 
       "unanswered", 
       "questionable", 
-      "confuse", 
-      "confuse", 
       "confuse"
     ]
   }, 
@@ -9248,8 +8565,6 @@
       "carrots", 
       "spring", 
       "magic", 
-      "carrot", 
-      "carrot", 
       "carrot"
     ]
   }, 
@@ -9280,8 +8595,6 @@
       "fast", 
       "formula", 
       "f1", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -9292,8 +8605,6 @@
       "race", 
       "sports", 
       "fast", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -9440,8 +8751,6 @@
     "keywords": [
       "alphabet", 
       "circle", 
-      "register", 
-      "register", 
       "register"
     ]
   }, 
@@ -9462,8 +8771,6 @@
       "phew", 
       "massage", 
       "happiness", 
-      "relieve", 
-      "relieve", 
       "relieve"
     ]
   }, 
@@ -9475,8 +8782,6 @@
       "cause", 
       "supprt", 
       "awareness", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -9517,8 +8822,6 @@
       "affection", 
       "valentines", 
       "family_members", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -9583,8 +8886,6 @@
       "speech", 
       "thinking", 
       "mad", 
-      "think", 
-      "think", 
       "think"
     ]
   }, 
@@ -9600,8 +8901,6 @@
       "fashion", 
       "jewelry", 
       "gem", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -9652,8 +8951,6 @@
       "frustrated", 
       "annoyed", 
       "annoys", 
-      "frustrate", 
-      "frustrate", 
       "frustrate"
     ]
   }, 
@@ -9682,12 +8979,6 @@
       "lover", 
       "rise", 
       "flower", 
-      "valentine", 
-      "rise", 
-      "flower", 
-      "valentine", 
-      "rise", 
-      "flower", 
       "valentine"
     ]
   }, 
@@ -9713,8 +9004,6 @@
       "pinged", 
       "law", 
       "legal", 
-      "ping", 
-      "ping", 
       "ping"
     ]
   }, 
@@ -9736,8 +9025,6 @@
       "hobby", 
       "water", 
       "ship", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -9747,8 +9034,6 @@
     "keywords": [
       "sports", 
       "team", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -9761,10 +9046,6 @@
       "exercise", 
       "race", 
       "running", 
-      "walk", 
-      "run", 
-      "walk", 
-      "run", 
       "walk", 
       "run"
     ]
@@ -9853,8 +9134,6 @@
     "char": "🇻🇨", 
     "keywords": [
       "grenadines", 
-      "grenadine", 
-      "grenadine", 
       "grenadine"
     ]
   }, 
@@ -9891,10 +9170,6 @@
       "fashion", 
       "flip flops", 
       "shoe", 
-      "flop", 
-      "shoe", 
-      "flop", 
-      "shoe", 
       "flop"
     ]
   }, 
@@ -9906,7 +9181,7 @@
       "man", 
       "male", 
       "xmas", 
-      "father christmas", 
+      "father_christmas", 
       "christmas"
     ]
   }, 
@@ -9947,8 +9222,6 @@
       "blues", 
       "music_band", 
       "band", 
-      "blue", 
-      "blue", 
       "blue"
     ]
   }, 
@@ -9959,8 +9232,6 @@
       "law", 
       "fairness", 
       "weight", 
-      "scale", 
-      "scale", 
       "scale"
     ]
   }, 
@@ -10022,10 +9293,6 @@
       "ahh", 
       "terrified", 
       "scar", 
-      "terrify", 
-      "scar", 
-      "terrify", 
-      "scar", 
       "terrify"
     ]
   }, 
@@ -10036,10 +9303,6 @@
       "cats", 
       "munch", 
       "scared", 
-      "cat", 
-      "scar", 
-      "cat", 
-      "scar", 
       "cat", 
       "scar"
     ]
@@ -10053,8 +9316,6 @@
       "declaration", 
       "paper", 
       "Constitution", 
-      "document", 
-      "document", 
       "document"
     ]
   }, 
@@ -10120,8 +9381,6 @@
       "numbers", 
       "blue-square", 
       "prime", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -10209,8 +9468,6 @@
       "mall", 
       "buy", 
       "purchase", 
-      "shopping_bag", 
-      "shopping_bag", 
       "shopping_bag"
     ]
   }, 
@@ -10252,8 +9509,6 @@
       "bluetooth", 
       "bars", 
       "3G", 
-      "bar", 
-      "bar", 
       "bar"
     ]
   }, 
@@ -10277,8 +9532,6 @@
       "6", 
       "numbers", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -10302,8 +9555,6 @@
       "winter", 
       "cold", 
       "snow", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -10314,8 +9565,6 @@
       "sports", 
       "winter", 
       "snow", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -10340,8 +9589,6 @@
       "deadly", 
       "scary", 
       "bones", 
-      "bone", 
-      "bone", 
       "bone"
     ]
   }, 
@@ -10353,10 +9600,6 @@
       "sleepy", 
       "night", 
       "zzz", 
-      "sleep", 
-      "tire", 
-      "sleep", 
-      "tire", 
       "sleep", 
       "tire"
     ]
@@ -10376,8 +9619,6 @@
       "tired", 
       "rest", 
       "nap", 
-      "tire", 
-      "tire", 
       "tire"
     ]
   }, 
@@ -10399,10 +9640,6 @@
       "frowns", 
       "disappointed", 
       "frown", 
-      "frown", 
-      "frown", 
-      "frown", 
-      "frown", 
       "frown"
     ]
   }, 
@@ -10423,8 +9660,6 @@
       "fruit machine", 
       "luck", 
       "casino", 
-      "vega", 
-      "vega", 
       "vega"
     ]
   }, 
@@ -10506,8 +9741,6 @@
     "char": "😸", 
     "keywords": [
       "cats", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -10528,8 +9761,6 @@
     "keywords": [
       "cats", 
       "happy", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -10539,8 +9770,6 @@
     "keywords": [
       "devil", 
       "horns", 
-      "horn", 
-      "horn", 
       "horn"
     ]
   }, 
@@ -10561,8 +9790,6 @@
     "char": "😼", 
     "keywords": [
       "cats", 
-      "cat", 
-      "cat", 
       "cat"
     ]
   }, 
@@ -10574,8 +9801,6 @@
       "tobacco", 
       "cigarette", 
       "joint", 
-      "kill", 
-      "kill", 
       "kill"
     ]
   }, 
@@ -10612,8 +9837,6 @@
     "keywords": [
       "sports", 
       "winter", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -10666,8 +9889,6 @@
       "sad", 
       "upset", 
       "depressed", 
-      "tear", 
-      "tear", 
       "tear"
     ]
   }, 
@@ -10677,8 +9898,6 @@
     "keywords": [
       "sports", 
       "football", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -10698,8 +9917,6 @@
     "keywords": [
       "arrow", 
       "words", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -10712,10 +9929,6 @@
       "words", 
       "emergency", 
       "911", 
-      "so", 
-      "word", 
-      "so", 
-      "word", 
       "so", 
       "word"
     ]
@@ -10776,12 +9989,6 @@
       "magic", 
       "spade", 
       "card", 
-      "suit", 
-      "spade", 
-      "card", 
-      "suit", 
-      "spade", 
-      "card", 
       "suit"
     ]
   }, 
@@ -10812,10 +10019,6 @@
       "good", 
       "fireworks", 
       "star", 
-      "firework", 
-      "star", 
-      "firework", 
-      "star", 
       "firework"
     ]
   }, 
@@ -10826,8 +10029,6 @@
       "stars", 
       "night", 
       "shine", 
-      "star", 
-      "star", 
       "star"
     ]
   }, 
@@ -10843,10 +10044,6 @@
       "good", 
       "magic", 
       "sparkle", 
-      "star", 
-      "sparkle", 
-      "star", 
-      "sparkle", 
       "star"
     ]
   }, 
@@ -10859,8 +10056,6 @@
       "affection", 
       "valentines", 
       "tacky", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -10903,10 +10098,6 @@
       "message", 
       "talk", 
       "chatting", 
-      "word", 
-      "chat", 
-      "word", 
-      "chat", 
       "word", 
       "chat"
     ]
@@ -10970,8 +10161,6 @@
     "keywords": [
       "award", 
       "winning", 
-      "win", 
-      "win", 
       "win"
     ]
   }, 
@@ -10992,8 +10181,6 @@
       "sports", 
       "concert", 
       "venue", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -11039,8 +10226,6 @@
     "keywords": [
       "night", 
       "photo", 
-      "star", 
-      "star", 
       "star"
     ]
   }, 
@@ -11099,8 +10284,6 @@
       "drawing", 
       "architect", 
       "sketch", 
-      "draw", 
-      "draw", 
       "draw"
     ]
   }, 
@@ -11153,8 +10336,6 @@
       "singer", 
       "recording", 
       "artist", 
-      "record", 
-      "record", 
       "record"
     ]
   }, 
@@ -11179,8 +10360,6 @@
     "keywords": [
       "plant", 
       "flowers", 
-      "flower", 
-      "flower", 
       "flower"
     ]
   }, 
@@ -11193,8 +10372,6 @@
       "summer", 
       "beach", 
       "convertible", 
-      "sunglass", 
-      "sunglass", 
       "sunglass"
     ]
   }, 
@@ -11237,8 +10414,6 @@
       "sea", 
       "summer", 
       "beach", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -11278,8 +10453,6 @@
       "sad", 
       "tired", 
       "exercise", 
-      "tire", 
-      "tire", 
       "tire"
     ]
   }, 
@@ -11326,8 +10499,6 @@
       "athlete", 
       "water", 
       "summer", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -11349,12 +10520,6 @@
       "percent", 
       "glyphs", 
       "characters", 
-      "symbol", 
-      "glyph", 
-      "character", 
-      "symbol", 
-      "glyph", 
-      "character", 
       "symbol", 
       "glyph", 
       "character"
@@ -11389,8 +10554,6 @@
       "needle", 
       "doctor", 
       "nurse", 
-      "drug", 
-      "drug", 
       "drug"
     ]
   }, 
@@ -11400,8 +10563,6 @@
     "keywords": [
       "sports", 
       "pingpong", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -11478,8 +10639,6 @@
       "vehicle", 
       "cars", 
       "transportation", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -11510,8 +10669,6 @@
       "stars", 
       "space", 
       "zoom", 
-      "star", 
-      "star", 
       "star"
     ]
   }, 
@@ -11523,10 +10680,6 @@
       "balls", 
       "green", 
       "sport", 
-      "ball", 
-      "sport", 
-      "ball", 
-      "sport", 
       "ball"
     ]
   }, 
@@ -11537,8 +10690,6 @@
       "photo", 
       "camping", 
       "outdoors", 
-      "camp", 
-      "camp", 
       "camp"
     ]
   }, 
@@ -11578,10 +10729,6 @@
       "thoughts", 
       "ponder", 
       "think", 
-      "thought", 
-      "think", 
-      "thought", 
-      "think", 
       "thought"
     ]
   }, 
@@ -11593,8 +10740,6 @@
       "cloud", 
       "speech", 
       "thinking", 
-      "think", 
-      "think", 
       "think"
     ]
   }, 
@@ -11606,8 +10751,6 @@
       "numbers", 
       "prime", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -11634,12 +10777,7 @@
       "event", 
       "concert", 
       "pass", 
-      "pas", 
-      "pas", 
-      "pa", 
-      "pas", 
-      "pa", 
-      "pa"
+      "pas"
     ]
   }, 
   "tiger": {
@@ -11650,8 +10788,6 @@
       "danger", 
       "wild", 
       "roar", 
-      "stripe", 
-      "stripe", 
       "stripe"
     ]
   }, 
@@ -11662,8 +10798,6 @@
       "stripes", 
       "roar", 
       "tiger", 
-      "stripe", 
-      "stripe", 
       "stripe"
     ]
   }, 
@@ -11687,8 +10821,6 @@
       "whine", 
       "upset", 
       "frustrated", 
-      "frustrate", 
-      "frustrate", 
       "frustrate"
     ]
   }, 
@@ -11759,8 +10891,6 @@
     "keywords": [
       "words", 
       "blue-square", 
-      "word", 
-      "word", 
       "word"
     ]
   }, 
@@ -11792,8 +10922,6 @@
       "car", 
       "farming", 
       "agriculture", 
-      "farm", 
-      "farm", 
       "farm"
     ]
   }, 
@@ -11928,8 +11056,6 @@
     "keywords": [
       "cars", 
       "transportation", 
-      "car", 
-      "car", 
       "car"
     ]
   }, 
@@ -11949,8 +11075,6 @@
       "plant", 
       "summer", 
       "spring", 
-      "flower", 
-      "flower", 
       "flower"
     ]
   }, 
@@ -11975,8 +11099,6 @@
     "keywords": [
       "turks", 
       "caicos", 
-      "turk", 
-      "turk", 
       "turk"
     ]
   }, 
@@ -12022,8 +11144,6 @@
       "2", 
       "prime", 
       "blue-square", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -12036,8 +11156,6 @@
       "affection", 
       "valentines", 
       "soulmate", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -12071,8 +11189,6 @@
       "human", 
       "homosexual", 
       "lesbian", 
-      "female", 
-      "female", 
       "female"
     ]
   }, 
@@ -12105,8 +11221,6 @@
       "japanese", 
       "opening hours", 
       "orange-square", 
-      "hour", 
-      "hour", 
       "hour"
     ]
   }, 
@@ -12185,8 +11299,6 @@
       "limit", 
       "restricted", 
       "red-square", 
-      "restrict", 
-      "restrict", 
       "restrict"
     ]
   }, 
@@ -12209,8 +11321,6 @@
       "united", 
       "arab", 
       "emirates", 
-      "emirate", 
-      "emirate", 
       "emirate"
     ]
   }, 
@@ -12263,8 +11373,6 @@
       "straight face", 
       "serious", 
       "not_amused", 
-      "bore", 
-      "bore", 
       "bore"
     ]
   }, 
@@ -12313,8 +11421,6 @@
       "flipped", 
       "silly", 
       "smile", 
-      "flip", 
-      "flip", 
       "flip"
     ]
   }, 
@@ -12334,8 +11440,6 @@
       "country", 
       "banner", 
       "american", 
-      "state", 
-      "state", 
       "state"
     ]
   }, 
@@ -12354,8 +11458,6 @@
       "peace", 
       "victory", 
       "two", 
-      "finger", 
-      "finger", 
       "finger"
     ]
   }, 
@@ -12380,8 +11482,6 @@
     "keywords": [
       "transportation", 
       "driving", 
-      "drive", 
-      "drive", 
       "drive"
     ]
   }, 
@@ -12394,10 +11494,6 @@
       "oldschool", 
       "90s", 
       "80s", 
-      "90", 
-      "80", 
-      "90", 
-      "80", 
       "90", 
       "80"
     ]
@@ -12477,10 +11573,6 @@
       "sports", 
       "balls", 
       "sport", 
-      "ball", 
-      "sport", 
-      "ball", 
-      "sport", 
       "ball"
     ]
   }, 
@@ -12491,10 +11583,6 @@
       "words", 
       "orange-square", 
       "versus", 
-      "v", 
-      "word", 
-      "v", 
-      "word", 
       "v", 
       "word"
     ]
@@ -12513,12 +11601,6 @@
     "keywords": [
       "feet", 
       "steps", 
-      "walk", 
-      "foot", 
-      "step", 
-      "walk", 
-      "foot", 
-      "step", 
       "walk", 
       "foot", 
       "step"
@@ -12541,8 +11623,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -12557,8 +11637,6 @@
       "evening", 
       "sleep", 
       "waxing_gibbous_moon", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -12572,8 +11650,6 @@
       "error", 
       "problem", 
       "issue", 
-      "warn", 
-      "warn", 
       "warn"
     ]
   }, 
@@ -12594,8 +11670,6 @@
     "keywords": [
       "time", 
       "accessories", 
-      "accessory", 
-      "accessory", 
       "accessory"
     ]
   }, 
@@ -12629,8 +11703,6 @@
       "hello", 
       "palm", 
       "hi", 
-      "hand", 
-      "hand", 
       "hand"
     ]
   }, 
@@ -12651,10 +11723,6 @@
       "surrender", 
       "give up", 
       "fail", 
-      "lose", 
-      "lose", 
-      "lose", 
-      "lose", 
       "lose", 
       "lose"
     ]
@@ -12681,8 +11749,6 @@
       "night", 
       "evening", 
       "sleep", 
-      "even", 
-      "even", 
       "even"
     ]
   }, 
@@ -12704,10 +11770,6 @@
       "sad", 
       "frustrated", 
       "upset", 
-      "tire", 
-      "frustrate", 
-      "tire", 
-      "frustrate", 
       "tire", 
       "frustrate"
     ]
@@ -12732,8 +11794,6 @@
       "sports", 
       "training", 
       "exercise", 
-      "sport", 
-      "sport", 
       "sport"
     ]
   }, 
@@ -12925,7 +11985,7 @@
     "char": "🐺", 
     "keywords": [
       "wild", 
-      "wild dog", 
+      "wild_dog", 
       "coyote"
     ]
   }, 
@@ -12938,8 +11998,6 @@
       "lady", 
       "mom", 
       "mother", 
-      "girl", 
-      "girl", 
       "girl"
     ]
   }, 
@@ -12962,8 +12020,6 @@
       "female", 
       "lady", 
       "spring", 
-      "accessory", 
-      "accessory", 
       "accessory"
     ]
   }, 
@@ -12978,8 +12034,6 @@
       "loo", 
       "restroom", 
       "gender", 
-      "woman", 
-      "woman", 
       "woman"
     ]
   }, 
@@ -13012,8 +12066,6 @@
       "ikea", 
       "fix", 
       "maintainer", 
-      "tool", 
-      "tool", 
       "tool"
     ]
   }, 
@@ -13045,8 +12097,6 @@
       "like", 
       "affection", 
       "valentines", 
-      "valentine", 
-      "valentine", 
       "valentine"
     ]
   }, 
@@ -13064,8 +12114,6 @@
       "japanese", 
       "dollar", 
       "currency", 
-      "sale", 
-      "sale", 
       "sale"
     ]
   }, 
@@ -13112,8 +12160,6 @@
       "numbers", 
       "blue-square", 
       "null", 
-      "number", 
-      "number", 
       "number"
     ]
   }, 
@@ -13127,8 +12173,6 @@
     "char": "🤐", 
     "keywords": [
       "sealed", 
-      "seal", 
-      "seal", 
       "seal"
     ]
   }, 
@@ -13139,8 +12183,6 @@
       "sleepy", 
       "tired", 
       "snooze", 
-      "tire", 
-      "tire", 
       "tire"
     ]
   }, 
