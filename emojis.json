@@ -2785,7 +2785,7 @@
     "category": "travel_and_places"
   },
   "cityscape": {
-    "keywords": ["photo", "night life", "urban"],
+    "keywords": ["photo", "night_life", "urban"],
     "char": "🏙",
     "category": "travel_and_places"
   },
