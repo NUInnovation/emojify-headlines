@@ -75,7 +75,7 @@ def translate():
       translation += trans
 
     # render translation result
-    return render_template('index.html', originaltext=inputtext, translation=translation)
+    return render_template('index.html', originaltext=rawinput, translation=translation)
   else:
     return render_template('index.html')
 
