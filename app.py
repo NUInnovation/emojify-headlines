@@ -19,8 +19,8 @@ def translate():
     global print_statements
 
     # get input text from form
-    inputtext = request.form['inputtext']
-    inputtext = inputtext.encode('utf-8')
+    rawinput = request.form['inputtext']
+    inputtext = rawinput.encode('utf-8')
     inputtext = inputtext.replace("’s", "")
     inputtext = inputtext.replace("‘", "'")
     inputtext = inputtext.replace("’", "'")
